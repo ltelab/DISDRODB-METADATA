@@ -1,0 +1,47 @@
+title: 'Chongqing'
+description: ''
+source: ''
+history: ''
+conventions: ''
+campaign_name: 'Chongqing'
+project_name: 'Supporting Information for "Characteristics of Raindrop Size Distributions in Chongqing Observed by a Dense Network of Disdrometers'
+station_id: '5045'
+station_name: ''
+station_number: '5045'
+location: ''
+country: 'China'
+continent: 'Asia'
+latitude: 29.5244
+longitude: 108.7622
+altitude: 786.9
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel
+sensor_long_name: OTT Hydromet Parsivel
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: 'Xuancheng Liu, Lulin Xue, Baojun Chen, Yixuan Zhang'
+institution: 'Chongqing Weather Modification Office, Chongqing, China'
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: ''
+contact: ''
+contact_information: http://lte.epfl.ch
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: '5045'

@@ -1,0 +1,47 @@
+title: CCOPE_2016
+description: ''
+source: ''
+history: ''
+conventions: ''
+campaign_name: CCOPE_2016
+project_name: ''
+station_id: CRL
+station_name: Curanilahue
+station_number: ''
+location: Nahuelbuta Mountains
+country: Chile
+continent: South America
+latitude: -37.4753
+longitude: -73.3423
+altitude: 137.0
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_wavelegth: 650nm
+sensor_serial_number: ''
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: 10 sec
+contributors: ''
+authors: ''
+institution: EOL Data
+reference: ''
+documentation: ''
+website: https://data.eol.ucar.edu/dataset/546.005
+source_repository: ''
+doi: https://doi.org/10.5065/D6ZS2V6B
+contact: EOL Data Support
+contact_information: eol-datahelp@ucar.edu
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: CRL

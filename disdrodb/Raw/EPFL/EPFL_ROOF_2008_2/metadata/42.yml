@@ -1,0 +1,48 @@
+title: EPFL_ROOF_2008_2
+description: ''
+source: ''
+history: ''
+conventions: ''
+campaign_name: EPFL_ROOF_2008_2
+project_name: ''
+station_id: '42'
+station_name: ''
+station_number: '42'
+location: Lausanne
+country: Switzerland
+continent: Europe
+latitude: '46.521400'
+longitude: '6.567867'
+altitude: 400.0
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel
+sensor_long_name: OTT Hydromet Parsivel
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
+  Federale de Lausanne
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: ''
+contact: ''
+contact_information: http://lte.epfl.ch
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: '42'

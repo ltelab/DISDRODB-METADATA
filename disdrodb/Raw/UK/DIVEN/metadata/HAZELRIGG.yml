@@ -1,0 +1,47 @@
+title: 'hazelrigg'
+description: 'Internally quality controlled by on-board instrument processing. Mounting type: 1.5 m freestanding tripod Land type: agricultural fields. Nearby objects: 100 m tall wind turbine 150 m WSW, meteorological mast 10 m NW. Road and trees 30 m E'
+source: 'NCAS Laser Precipitation Monitor'
+history: ''
+conventions: ''
+campaign_name: 'hazelrigg'
+project_name: 'Disdrometer Verification Network (DiVeN)'
+station_id: 'HAZELRIGG'
+station_name: 'HAZELRIGG'
+station_number: '7'
+location: 'Lancaster'
+country: 'United Kingdom'
+continent: 'Europe'
+latitude: 54.0138
+longitude: -2.7749
+altitude: 94
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: Thies_LPM
+sensor_long_name: Thies_LPM
+sensor_wavelegth: '2143 mv mm-2'
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: 'Ryan R. Neely III'
+authors: 'Ben Pickering'
+institution: 'National Centre for Atmospheric Science (NCAS)'
+reference: ''
+documentation: ''
+website: ''
+source_repository: 'https://doi.org/10.5194/amt-12-5845-2019'
+doi: ''
+contact: 'Ben Pickering'
+contact_information: 'ben.pickering@ncas.ac.uk'
+source_data_format: ''
+obs_type: ''
+level: '1'
+disdrodb_id: 'HAZELRIGG'

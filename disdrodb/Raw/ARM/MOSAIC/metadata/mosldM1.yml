@@ -1,0 +1,47 @@
+title: 'MOSAIC'
+description: 'Multidisciplinary Drifting Observatory for the Study of Arctic Climate'
+source: ''
+history: ''
+conventions: 'ARM-1.2'
+campaign_name: 'MOSAIC'
+project_name: 'MOSAIC'
+station_id: 'mosldM1'
+station_name: 'AMF2 (M1)'
+station_number: ''
+location: ''
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
+altitude: -9999
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel2
+sensor_long_name: OTT Hydromet Parsivel
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: ''
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: '10.5439/1560674'
+contact: ''
+contact_information: ''
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: 'mosldM1'

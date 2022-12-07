@@ -1,0 +1,47 @@
+title: 'ALASKA'
+description: 'North Slope of Alaska'
+source: ''
+history: ''
+conventions: 'ARM-1.2'
+campaign_name: 'ALASKA'
+project_name: ''
+station_id: 'nsalpmE10'
+station_name: 'Barrow (E10)'
+station_number: ''
+location: 'Barrow, Alaska'
+country: 'USA'
+continent: 'North America'
+latitude: 71.325
+longitude: -156.608
+altitude: 5
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: Thies_LPM
+sensor_long_name: Thies Clima
+sensor_wavelegth: ''
+sensor_serial_number: '06160016'
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: '5.4110.11.100'
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: 'ARM'
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: '10.5439/1390571'
+contact: ''
+contact_information: ''
+source_data_format: ''
+obs_type: ''
+level: 'a1'
+disdrodb_id: 'nsalpmE10'

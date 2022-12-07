@@ -1,0 +1,47 @@
+title: 'chilbolton1'
+description: 'Internally quality controlled by on-board instrument processing. Mounting type: 1.5 m freestanding tripod. 2 instruments (separate files: Chilbolton-1 and Chilbolton-2 (Chilbolton 2 until Feb 2018)), 10 m apart. Beam transmitted N-S. Land type: flat, agricultural fields for > 500m in all directions. Nearby objects: 25 m 2017 diameter radar dish antenna 100 m ESE; 2-floor building 25 m SSW'
+source: 'NCAS Laser Precipitation Monitor'
+history: ''
+conventions: ''
+campaign_name: 'chilbolton1'
+project_name: 'Disdrometer Verification Network (DiVeN)'
+station_id: 'CHILBOLTON1'
+station_name: 'CHILBOLTON1'
+station_number: '1'
+location: 'Chilbolton'
+country: 'United Kingdom'
+continent: 'Europe'
+latitude: 51.1455
+longitude: -1.4396
+altitude: 83
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: Thies_LPM
+sensor_long_name: Thies_LPM
+sensor_wavelegth: '2143 mv mm-2'
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: 'Ryan R. Neely III'
+authors: 'Ben Pickering'
+institution: 'National Centre for Atmospheric Science (NCAS)'
+reference: ''
+documentation: ''
+website: ''
+source_repository: 'https://doi.org/10.5194/amt-12-5845-2019'
+doi: ''
+contact: 'Ben Pickering'
+contact_information: 'ben.pickering@ncas.ac.uk'
+source_data_format: ''
+obs_type: ''
+level: '1'
+disdrodb_id: 'CHILBOLTON1'

@@ -1,0 +1,47 @@
+title: 'ALASKA'
+description: 'North Slope of Alaska'
+source: ''
+history: ''
+conventions: 'ARM-1.2'
+campaign_name: 'ALASKA'
+project_name: 'ERASMUS'
+station_id: 'olilpmM1'
+station_name: 'Oliktok (E10)'
+station_number: ''
+location: 'Oliktok Point, Alaska'
+country: 'USA'
+continent: 'North America'
+latitude: 70.495
+longitude: -149.886
+altitude: 2
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: Thies_LPM
+sensor_long_name: Thies Clima
+sensor_wavelegth: ''
+sensor_serial_number: '06160017'
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: '5.4110.11.100'
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: 'ARM'
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: ''
+contact: ''
+contact_information: ''
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: 'olilpmM1'
