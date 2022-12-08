@@ -1,0 +1,17 @@
+name: ➕ Feature request
+description: Suggest an idea for this project
+title: "[FEATURE] <title>"
+labels: [enhancement, triage]
+body:
+- type: textarea
+  attributes:
+    label: What types of data would you like to add ?
+    description: A clear and concise description of the type of data. 
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional context.
+    description: Add any other context or information about the feature request here.
+  validations:
+    required: false 
