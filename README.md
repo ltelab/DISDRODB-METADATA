@@ -86,9 +86,9 @@ python download_data.py -data_source <your-data-source> -campaign_name <your-cam
 
 
 
-## How to add my own data to DISDRODB ?
+## How to add your own data to DISDRODB ?
 
-Do you want to contribute to the project with you own data ? great ! Just follow these steps : 
+Do you want to contribute to the project with your own data ? Great ! Just follow these steps : 
 
 1. Create a new branch 
    ```
@@ -96,7 +96,7 @@ Do you want to contribute to the project with you own data ? great ! Just follow
    ```
 
 2. Add the your data source, campaign names, station name to the current folder structure.  
-3. Load you data to an external repository (eg. Zenodo). Github limits the file size to 50 MB, therefore no data can be loaded into the github repository.
+3. Load your data to an external repository (eg. Zenodo). Github limits the file size to 50 MB, therefore no data can be loaded into the github repository.
 4. For each station, create a `url.json` file and add the following information : 
 
    ```
@@ -109,25 +109,10 @@ Do you want to contribute to the project with you own data ? great ! Just follow
 
 6. (Optional) Add your **issues YAML** files.
 
-7. Commit your changes and push your banch to github.
+7. Commit your changes and push your branch to github.
 
-8. Create a pull request, and wait that the maintainer accepts it !
+8. Create a pull request, and wait for a maintainer to accepts it !
 
-
-
-
-
-
-
-
-
-
-
-
-
-`
-
- 
 
 
 
