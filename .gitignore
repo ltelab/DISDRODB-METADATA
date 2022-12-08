@@ -1,1 +1,7 @@
 *.log
+
+# Remove all file in data folder except for url.json files
+DISDRODB/Raw/*/*/data/*/* 
+!DISDRODB/Raw/*/*/data/*/url.json
+
+
