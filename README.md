@@ -1,23 +1,12 @@
 # DISDRODB - A package to standardize, process and analyze global disdrometer data - Data repository
 
-
-
-
-
 **Main project repository** : [GitHub - ltelab/disdrodb](https://github.com/ltelab/disdrodb)
 
-:card_file_box: This repository contains the disdrodb **folder structure**, **configuration** and **links** to download the measurements files. 
-
-
+:card_file_box: This repository contains the disdrodb **folder structure**, **configuration** and **links** to download the measurements files.
 
 DISDRODB is part of an initial effort to index, collect and homogenize drop size distribution (DSD) data sets across the globe, as well as to establish a global standard for disdrometers observations data sharing.
 
-
-DISDRODB standards are being established following FAIR data best  practices and Climate & Forecast (CF) conventions, and will  facilitate the preprocessing, analysis and visualization of disdrometer data.
-
-
-
-
+DISDRODB standards are being established following FAIR data best practices and Climate & Forecast (CF) conventions, and will facilitate the preprocessing, analysis and visualization of disdrometer data.
 
 ## Installation
 
@@ -27,11 +16,9 @@ Just clone the repository
 git clone https://github.com/EPFL-ENAC/LTE-disdrodb-data.git
 ```
 
-
-
 ## Folders structure
 
-The folder structure is composed of many data source (`DATA_SOURCE_1` eg. "EPFL") that contain one or many campaign (`CAMPAIGN_NAME_1` eg "EPFL_ROOF_2012" ). One campaign has one or many stations (`station_name_1`). Each station folder includes a json file to referance the file url and name. 
+The folder structure is composed of many data source (`DATA_SOURCE_1` eg. "EPFL") that contain one or many campaign (`CAMPAIGN_NAME_1` eg "EPFL_ROOF_2012" ). One campaign has one or many stations (`station_name_1`). Each station folder includes a json file to referance the file url and name.
 
 ```
   📁 DISDRODB
@@ -54,50 +41,41 @@ The folder structure is composed of many data source (`DATA_SOURCE_1` eg. "EPFL"
   
 ```
 
+For each folder in the /data directory (for each station) there must be an equally named **\*.yml** file in the /metadata folder.
 
+The **metadata YAML** file contains relevant information of the station (e.g. type of device, position, …) which are required for the correct processing and integration into the DISDRODB database.
 
-For each folder in the /data directory (for each station) there must be an equally named ***.yml** file in the /metadata folder.
-
-The **metadata YAML** file contains relevant information of the station (e.g. type of device, position, …) which are required for the correct processing and integration into the DISDRODB database. 
-
-
-
-
-
-## How to download the data locally ?
+## (A) How to download the data locally ?
 
 To get the measurements locally, just run the following python command :
 
 ```
-cd <folder path>
+cd <app folder path>
 python download_data.py
 ```
 
-This code parses all json files and download the corresponding data. 
+This code parses all json files and download the corresponding data.
 
-If you want to download only one specific folder (data_source, campaign_name, station_name) : 
+If you want to download only one specific folder (data_source, campaign_name, station_name) :
 
 ```
-cd <folder path>
+cd <app folder path>
 python download_data.py -data_source <your-data-source> -campaign_name <your-campaign-name> -station_name <you-station-name>
 ```
 
+## (B) How to add your own data to DISDRODB ?
 
+Do you want to contribute to the project with your own data ? Great ! Just follow these steps :
 
+1. Create a new branch
 
-
-## How to add your own data to DISDRODB ?
-
-Do you want to contribute to the project with your own data ? Great ! Just follow these steps : 
-
-1. Create a new branch 
    ```
-   git checkout -m "reader-<data_source>-<campaign_name>"
+   git checkout -b "reader-<data_source>-<campaign_name>"
    ```
 
-2. Add the your data source, campaign names, station name to the current folder structure.  
+2. Add the your data source, campaign names, station name to the current folder structure.
 3. Load your data to an external repository (eg. Zenodo). Github limits the file size to 50 MB, therefore no data can be loaded into the github repository.
-4. For each station, create a `url.json` file and add the following information : 
+4. For each station, create a `url.json` file and add the following information :
 
    ```
       [
@@ -105,19 +83,15 @@ Do you want to contribute to the project with your own data ? Great ! Just follo
          {...}
       ]
    ```
-5. Add your **metadata YAML** files. We recommend you to copy-paste an existing metadata YAML file to get the  correct structure.
 
-6. (Optional) Add your **issues YAML** files.
+5. Add your **metadata YAML** file for each station `station_name.yml`, in a `metadata` directory in the campaign directory. We recommend you to copy-paste an existing metadata YAML file to get the correct structure.
 
-7. Commit your changes and push your branch to github.
+6. (Optional) Add your **issues YAML** files, for each station `station_name.yml`, in an `issue` directory located in the campaign directory. We recommend you to copy-paste an existing metadata YAML file to get the correct structure.
 
-8. Create a pull request, and wait for a maintainer to accepts it !
+7. Test that the integration of your new dataset functions, by deleting your data locally - and re-fetching it through the process detailed in (A).
 
+8. Commit your changes and push your branch to GitHub
 
+9. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), and wait for a maintainer to accepts it !
 
-
-
-
-
-
-
+If you struggle with this process, don't hesitate to raise an [issue](https://github.com/EPFL-ENAC/LTE-disdrodb-data/issues/new/choose) so we can help!
