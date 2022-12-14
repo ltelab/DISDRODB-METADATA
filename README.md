@@ -63,6 +63,15 @@ cd <app folder path>
 python download_data.py -data_source <your-data-source> -campaign_name <your-campaign-name> -station_name <you-station-name>
 ```
 
+By default, if a file is already in the local folder, it will not be overwritten. If you want to change this behavior and overwrite existing files, add the `-overwrite` parameter as follow :
+
+
+```
+cd <app folder path>
+python download_data.py -overwrite True
+```
+
+
 ## (B) How to add your own data to DISDRODB ?
 
 Do you want to contribute to the project with your own data ? Great ! Just follow these steps :
