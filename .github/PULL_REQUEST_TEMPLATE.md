@@ -1,7 +1,6 @@
 # Prework
 
-- [] I understand and agree to this repository's [code of conduct](https://github.com/EPFL-ENAC/LTE-disdrodb-data/blob/main/CODE_OF_CONDUCT.md).
-- [] I understand and agree to this repository's [contributing guidelines](https://github.com/EPFL-ENAC/LTE-disdrodb-data#how-to-add-my-own-data-to-disdrodb-).
+By submitting this pull request, I understand and agree to this repository's [code of conduct](https://github.com/EPFL-ENAC/LTE-disdrodb-data/blob/main/CODE_OF_CONDUCT.md) and [contributing guidelines](https://github.com/EPFL-ENAC/LTE-disdrodb-data#how-to-add-my-own-data-to-disdrodb-).
 
 
 
