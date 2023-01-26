@@ -4,3 +4,6 @@
 disdrodb/Raw/*/*/*/
 !disdrodb/Raw/*/*/issue/
 !disdrodb/Raw/*/*/metadata/
+
+secret.yml
+venv
