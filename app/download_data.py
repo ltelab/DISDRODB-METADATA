@@ -18,7 +18,7 @@ def get_list_urls_files(
     """
 
     folder_path = os.path.join(
-        os.path.dirname(pathlib.Path(__file__).parent.resolve()), "DISDRODB", "Raw"
+        os.path.dirname(pathlib.Path(__file__).parent.resolve()), "disdrodb", "Raw"
     )
 
     if data_source:
@@ -28,12 +28,15 @@ def get_list_urls_files(
             if station_name:
                 folder_path = os.path.join(folder_path, "data", station_name)
 
+
+    print(folder_path)
     list_of_urls_files_paths = [
         os.path.join(dp, f)
         for dp, dn, filenames in os.walk(folder_path)
         for f in filenames
         if f == "url.json"
     ]
+    print(list_of_urls_files_paths)
 
     return list_of_urls_files_paths
 
@@ -101,16 +104,17 @@ def download_file_content(file_path: str, overwrite: bool = False) -> None:
     with open(file_path, "r") as jsonFile:
         list_content = json.load(jsonFile)
 
-    for file in list_content:
-        file_name = file.get("file_name")
-        url = file.get("url")
+    for file_name, url in list_content.items():
         if check_url(url):
             dest_path = os.path.join(folder_path, file_name)
             if os.path.exists(dest_path) and not overwrite:
                 print(f"File {dest_path} already exists")
             else:
+                if not os.path.exists(os.path.dirname(dest_path)):
+                    os.makedirs(os.path.dirname(dest_path))
                 download_file(url, dest_path)
                 print(f"Download {url} into {dest_path}")
+    
 
 
 def download_all_files(
