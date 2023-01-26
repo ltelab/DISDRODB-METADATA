@@ -84,13 +84,10 @@ Do you want to contribute to the project with your own data ? Great ! Just follo
 
 2. Add the your data source, campaign names, station name to the current folder structure.
 3. Load your data to an external repository (eg. Zenodo). Github limits the file size to 50 MB, therefore no data can be loaded into the github repository.
-4. For each station, create a `url.json` file and add the following information :
+4. For each campaign, create a `url.json` file and add the following information :
 
    ```
-      [
-         {"file_name":"<the-file-name>","url":"<the_url>"},
-         {...}
-      ]
+         {"<the-file-name>":"<the_url>"},
    ```
 
 5. Add your **metadata YAML** file for each station `station_name.yml`, in a `metadata` directory in the campaign directory. We recommend you to copy-paste an existing metadata YAML file to get the correct structure.
