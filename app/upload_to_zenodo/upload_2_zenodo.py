@@ -6,6 +6,7 @@ import yaml
 import pynodo
 import argparse
 import time
+import shutil
 
 
 # Parameters 
@@ -65,6 +66,50 @@ def get_zenodo_access_tocken() -> str :
 
     return conf.get('zenodo_access_tocken')
 
+
+# function that return a list of path for folder named data under a folder
+def get_list_data_folder_path(initial_path : str) -> list :
+    """Function that return a list of path for folder named data under a folder
+
+    Parameters
+    ----------
+    initial_path : str
+        Initial path
+
+    Returns
+    -------
+    list
+        list of path 
+    """
+
+
+
+    data_paths = []
+    for dirpath, dirnames, files in os.walk(initial_path):
+        for dirname in dirnames:
+            if dirname == "data":
+                data_paths.append(os.path.join(dirpath, dirname))
+    return data_paths
+
+# Function that zip a folder
+def zip_folder(folder_path : str, zip_file_path : str) -> str :
+    """Function that zip a folder
+
+    Parameters
+    ----------
+    folder_path : str
+        Folder path
+    zip_file_path : str
+        Zip file path
+
+    Returns
+    -------
+    str
+        Zip file path
+    """
+    
+    shutil.make_archive(zip_file_path, 'zip', folder_path)
+    return zip_file_path + ".zip"
 
 
 
@@ -248,7 +293,39 @@ def batch_upload_2_zenodo(dict_file_path : dict, depo_id : str, incremental_load
                     file_url = upload_2_zenodo(file_path,depo_id,file_name_zenodo)
                     save_dict_to_json(path_json,{file_name:file_url})
 
-            
+
+
+def batch_upload_zip_2_zenodo(list_data_folder : list, depo_id : str, incremental_loading : bool = True) :
+    
+    for data_folder in list_data_folder :
+        has_been_uploaded_before = os.path.exists(os.path.join(data_folder,URLS_JSON_FILE_NAME))
+
+        if incremental_loading and has_been_uploaded_before :
+            print(f"{data_folder} already uploaded")
+
+        else :
+            # Define zip file path
+            zip_file_path = f"{data_folder}.zip"
+            path_json = os.path.join(data_folder,URLS_JSON_FILE_NAME)
+
+            # Define file name on zenodo
+            list_of_elements_in_path = os.path.normpath(data_folder).split(os.sep)
+            file_name_zenodo ='_'.join([*list_of_elements_in_path[-3:-1],os.path.basename(zip_file_path)])
+
+            # Zip station
+            print(f"Zipping {data_folder}")
+            zip_folder(data_folder,data_folder)
+
+            # Upload file to zenodo
+            print(f"Uploading {zip_file_path} to zenodo")
+            file_url = upload_2_zenodo(zip_file_path,depo_id,file_name_zenodo)
+
+            # Save file url to json file
+            json_content = {'public_url': file_url, 'file_type': 'zip'}
+            save_dict_to_json(path_json,json_content)
+
+            # Remove zip file
+            os.remove(zip_file_path)
 
 
                 
@@ -258,6 +335,11 @@ def parser():
     parser.add_argument(
         "-session_id", type=str, help="Zenodo session ID"
     )
+
+    parser.add_argument(
+        "-zip", choices=('True','False'), help="Zip file before uploading ?"
+    )
+
     parser.add_argument(
         "-incremental_loading", choices=('True','False'), help="Avoid loading already loaded files ?"
     )
@@ -271,32 +353,18 @@ def config_parser():
 
 
 def main():
-
-    dict_path_to_upload =  get_dict_data_folder_path(args.path_ini)
+    
     incremental_loading = True if args.incremental_loading == 'True' else False
-    batch_upload_2_zenodo(dict_path_to_upload, args.session_id, incremental_loading)
+    zip = True if args.zip == 'True' else False
 
-
+    if zip :
+        list_path_data_folder_to_upload = get_list_data_folder_path(args.path_ini)
+        batch_upload_zip_2_zenodo(list_path_data_folder_to_upload, args.session_id, incremental_loading)
+    else :
+        dict_path_to_upload =  get_dict_data_folder_path(args.path_ini)
+        batch_upload_2_zenodo(dict_path_to_upload, args.session_id, incremental_loading)
 
 
 if __name__ == "__main__":
     args = config_parser()
     main()
-
-
-# local_path = "/ltenas8/data/disdrodb-data/disdrodb/Raw/EPFL/EPFL_2009"
-
-
-# batch_upload_2_zenodo( get_dict_data_folder_path(local_path),7567694, True)
-
-
-
-# # file = get_list_data_folder_path(local_path).get('EPFL').get('EPFL_2009')[0]
-
-
-# # file_url = upload_2_zenodo(file,7567694)
-
-# # print(file_url)
-
-# # print(get_list_data_folder_path(local_path).get('EPFL').get('EPFL_2009')[:6])
-

@@ -32,11 +32,11 @@ Windows :
 4. Run the code from `disdrodb-data/app/upload_to_zenodo/`  as follow: 
 
 ```shell
-python upload_2_zenodo.py -path_ini 'folder path' -session_id 123456789 -incremental_loading True
+python upload_2_zenodo.py -path_ini 'folder path' -session_id 123456789 -zip True -incremental_loading True
 ```
 
  for example : 
 
 ```shell
-python upload_2_zenodo.py -path_ini '/ltenas8/data/disdrodb-data/disdrodb/Raw/EPFL/TEST_RL' -session_id 7568721 -incremental_loading True
+python upload_2_zenodo.py -path_ini '/ltenas8/data/disdrodb-data/disdrodb/Raw/EPFL/EPFL_2099' -session_id 7568721 -zip True -incremental_loading True
 ```

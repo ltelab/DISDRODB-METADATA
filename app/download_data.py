@@ -4,6 +4,7 @@ import pathlib
 import re
 import urllib3
 import argparse
+import zipfile
 
 
 def get_list_urls_files(
@@ -87,6 +88,21 @@ def download_file(url: str, file_name: str) -> None:
 
     r.release_conn()
 
+# function to unzip one file into a folder
+def unzip_file(file_path: str, dest_path: str) -> None:
+    """Unzip a file into a folder
+
+    Parameters
+    ----------
+    file_path : str
+        Path of the file to unzip
+    dest_path : str
+        Path of the destination folder
+    """
+
+    with zipfile.ZipFile(file_path, "r") as zip_ref:
+        zip_ref.extractall(dest_path)
+
 
 def download_file_content(file_path: str, overwrite: bool = False) -> None:
     """Download the files based on the URLs included in the JSON files.
@@ -104,17 +120,30 @@ def download_file_content(file_path: str, overwrite: bool = False) -> None:
     with open(file_path, "r") as jsonFile:
         list_content = json.load(jsonFile)
 
-    for file_name, url in list_content.items():
-        if check_url(url):
-            dest_path = os.path.join(folder_path, file_name)
-            if os.path.exists(dest_path) and not overwrite:
-                print(f"File {dest_path} already exists")
-            else:
-                if not os.path.exists(os.path.dirname(dest_path)):
-                    os.makedirs(os.path.dirname(dest_path))
-                download_file(url, dest_path)
-                print(f"Download {url} into {dest_path}")
-    
+    if isinstance(list_content, list):
+        for file_name, url in list_content.items():
+            if check_url(url):
+                dest_path = os.path.join(folder_path, file_name)
+                if os.path.exists(dest_path) and not overwrite:
+                    print(f"File {dest_path} already exists")
+                else:
+                    if not os.path.exists(os.path.dirname(dest_path)):
+                        os.makedirs(os.path.dirname(dest_path))
+                    download_file(url, dest_path)
+                    print(f"Download {url} into {dest_path}")
+    else :
+        if list_content.get('file_type') == 'zip' :
+
+            folder_path = os.path.dirname(file_path)
+            file_path = os.path.join(folder_path, 'data.zip')
+            url = list_content.get('public_url')
+            download_file(url, file_path)
+            print(f"Download {url} into {file_path}")
+            if os.path.exists(file_path) :
+                unzip_file(file_path, folder_path)
+                #remove zip file
+                os.remove(file_path)
+        
 
 
 def download_all_files(
