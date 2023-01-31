@@ -1,9 +1,9 @@
 *.log
 
 # Keep only issue and metadata folders
-disdrodb/Raw/*/*/*/
-!disdrodb/Raw/*/*/issue/
-!disdrodb/Raw/*/*/metadata/
+DISDRODB/Raw/*/*/*/
+!DISDRODB/Raw/*/*/issue/
+!DISDRODB/Raw/*/*/metadata/
 
 secret.yml
 venv
