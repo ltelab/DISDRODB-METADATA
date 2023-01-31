@@ -1,0 +1,47 @@
+title: 'ARM Norway'
+description: 'Cold-Air Outbreaks in the Marine Boundary Layer Experiment (COMBLE)'
+source: ''
+history: ''
+conventions: 'ARM-1.2'
+campaign_name: 'COMBLE'
+project_name: 'ANX'
+station_id: 'anxldS2'
+station_name: 'BJORNOYA'
+station_number: ''
+location: 'Bear Island, Svalbard'
+country: 'Norway'
+continent: 'Europe'
+latitude: 74.503555
+longitude: 19.002316
+altitude: 18
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel2
+sensor_long_name: 'OTT Parsivel 2'
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: 'ARM'
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: '10.5439/1560674'
+contact: ''
+contact_information: ''
+source_data_format: ''
+obs_type: ''
+level: 'b1'
+disdrodb_id: 'anxldS2'

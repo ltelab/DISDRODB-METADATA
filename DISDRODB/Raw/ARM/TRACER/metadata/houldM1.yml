@@ -1,0 +1,47 @@
+title: 'TRACER'
+description: 'TRacking Aerosol Convection interactions ExpeRiment'
+source: ''
+history: ''
+conventions: 'ARM-1.2'
+campaign_name: 'TRACER'
+project_name: 'TRACER'
+station_id: 'houldM1'
+station_name: 'Houston (M1)'
+station_number: ''
+location: ''
+country: ''
+continent: ''
+latitude: 29.67
+longitude: -95.059
+altitude: 8.0
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel2
+sensor_long_name: OTT Hydromet Parsivel
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: ''
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: ''
+contact: ''
+contact_information: ''
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: 'houldM1'

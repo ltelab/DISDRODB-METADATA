@@ -1,0 +1,43 @@
+title: 'ARCTIC_2021'
+description: ''
+source: ''
+history: ''
+conventions: ''
+campaign_name: 'ARCTIC_2021'
+project_name: ''
+station_id: '41'
+station_name: ''
+location: ''
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
+altitude: -9999
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: 'OTT_Parsivel2'
+sensor_long_name: 'OTT Hydromet Parsivel 2'
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: 'Laboratoire de Teledetection Environnementale -  Ecole Polytechnique Federale de Lausanne'
+references: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: 'https://orcid.org/0000-0003-3647-0373'
+contact: ''
+contact_information: 'https://bjerknes.uib.no/people/iris-thurnherr'
+source_data_format: ''
+obs_type: ''

@@ -1,0 +1,47 @@
+title: 'wao'
+description: 'Internally quality controlled by on-board instrument processing. Mounting type: 1.5 m freestanding tripod. Land type: military base, mostly grass. Sandy beach and ocean 100 m NNE. Nearby objects: small 1-floor building ESE, 4-floor scaffold tower E.'
+source: 'NCAS Laser Precipitation Monitor'
+history: ''
+conventions: ''
+campaign_name: 'wao'
+project_name: 'Disdrometer Verification Network (DiVeN)'
+station_id: 'WAO'
+station_name: 'WAO'
+station_number: '5'
+location: 'Weybourne'
+country: 'United Kingdom'
+continent: 'Europe'
+latitude: 52.9505
+longitude: 1.1218
+altitude: 8
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: Thies_LPM
+sensor_long_name: Thies_LPM
+sensor_wavelegth: '2143 mv mm-2'
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: 'Ryan R. Neely III'
+authors: 'Ben Pickering'
+institution: 'National Centre for Atmospheric Science (NCAS)'
+reference: ''
+documentation: ''
+website: ''
+source_repository: 'https://doi.org/10.5194/amt-12-5845-2019'
+doi: ''
+contact: 'Ben Pickering'
+contact_information: 'ben.pickering@ncas.ac.uk'
+source_data_format: ''
+obs_type: ''
+level: '1'
+disdrodb_id: 'WAO'

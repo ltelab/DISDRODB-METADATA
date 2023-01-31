@@ -1,0 +1,73 @@
+campaign_name: HYMEX_LTE_SOP2
+description: HYdrological cycle in the Mediterranean EXperiment (2012)
+station_name: Mirabel
+
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+platform_protection: unshielded
+platform_orientation: ''
+
+location: Mirabel
+country: France
+continent: Europe
+latitude: 44.6069 
+longitude: 4.4987
+altitude: 496
+
+project_name: HYdrological cycle in the Mediterranean EXperiment (2012) # TO BE DEPRECATED
+title: HYMEX_LTE_SOP2  # TO BE DEPRECATED
+station_id: 10     # TO BE DEPRECATED
+station_number: 10 # TO BE DEPRECATED
+
+source_processing_date: ''
+source_convention: ''
+source_repository: ''
+source_data_type: raw
+source_data_format: ascii
+source_station_id: 10
+comments: ''
+history: ''
+keywords: '' 
+
+# TO BE DEPRECATED
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+
+sensor_name: OTT_Parsivel
+sensor_long_name: OTT Hydromet Parsivel 1
+sensor_manufacturer: OTT Hydromet
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: ''
+sensor_beam_width: 180
+sensor_nominal_width: 30
+measurement_interval: 30
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+
+reference: ''
+documentation: ''
+doi: ''
+acknowledgements: ''
+license: '' 
+disdrodb_id: 10
+
+contributors: Alexis Berne, Jacopo Grazioli
+authors: Alexis Berne, Jacopo Grazioli
+authors_url: Alexis Berne, Jacopo Grazioli
+contact: alexis.berne@epfl.ch
+contact_information: http://lte.epfl.ch
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale de Lausanne
+website: https://hymex.org/
+source_repository: https://mistrals.sedoo.fr/HyMeX/
+
+
+

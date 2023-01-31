@@ -1,0 +1,47 @@
+title: 'SAIL'
+description: 'Surface Atmosphere Integrated Field Laboratory'
+source: ''
+history: ''
+conventions: 'ARM-1.2'
+campaign_name: 'SAIL'
+project_name: 'SAIL'
+station_id: 'gucldS2'
+station_name: 'Gunnison (S2)'
+station_number: ''
+location: ''
+country: ''
+continent: ''
+latitude: 38.89836
+longitude: -106.94314
+altitude: 3137.0
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: 4326
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: OTT_Parsivel2
+sensor_long_name: OTT Hydromet Parsivel
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: ''
+contributors: ''
+authors: ''
+institution: ''
+reference: ''
+documentation: ''
+website: ''
+source_repository: ''
+doi: '10.5439/1560674'
+contact: ''
+contact_information: ''
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: 'gucldS2'
