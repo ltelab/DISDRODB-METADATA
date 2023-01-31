@@ -1,22 +1,22 @@
-title: 'RACLETS_2019'
+title: EPFL_ROOF_2008
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'RACLETS_2019'
+campaign_name: EPFL_ROOF_2008
 project_name: ''
-station_id: '51'
-station_name: '51'
-station_number: ''
-location: ''
-country: 'Switzerland'
-continent: 'Europe'
-latitude: -9999   # 4651.519825
-longitude: -9999  # 950.9210610
-altitude: -9999
+station_id: '41'
+station_name: ''
+station_number: '41'
+location: Lausanne
+country: Switzerland
+continent: Europe
+latitude: '46.521400'
+longitude: '6.567867'
+altitude: 400.0
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
+EPSG: '4326'
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
@@ -33,15 +33,16 @@ temporal_resolution: ''
 measurement_interval: ''
 contributors: ''
 authors: ''
-institution: 'Laboratoire de Teledetection Environnementale -  Ecole Polytechnique Federale de Lausanne'
+institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
+  Federale de Lausanne
 reference: ''
 documentation: ''
 website: ''
 source_repository: ''
 doi: ''
 contact: ''
-contact_information: 'http://lte.epfl.ch'
+contact_information: http://lte.epfl.ch
 source_data_format: ''
 obs_type: ''
 level: ''
-disdrodb_id: '51'
+disdrodb_id: '41'

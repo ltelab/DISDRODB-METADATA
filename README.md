@@ -65,27 +65,27 @@ python download_data.py -data_source <your-data-source> -campaign_name <your-cam
 
 By default, if a file is already in the local folder, it will not be overwritten. If you want to change this behavior and overwrite existing files, add the `-overwrite` parameter as follow :
 
-
 ```
 cd <app folder path>
 python download_data.py -overwrite True
 ```
-
 
 ## (B) How to add your own data to DISDRODB ?
 
 Do you want to contribute to the project with your own data ? Great ! Just follow these steps :
 
 1. Create a new branch
-
+   
    ```
    git checkout -b "reader-<data_source>-<campaign_name>"
    ```
 
 2. Add the your data source, campaign names, station name to the current folder structure.
-3. Load your data to an external repository (eg. Zenodo). Github limits the file size to 50 MB, therefore no data can be loaded into the github repository.
-4. For each campaign, create a `url.json` file and add the following information :
 
+3. Load your data to an external repository (eg. Zenodo). Github limits the file size to 50 MB, therefore no data can be loaded into the github repository.
+
+4. For each campaign, create a `url.json` file and add the following information :
+   
    ```
          {"<the-file-name>":"<the_url>"},
    ```

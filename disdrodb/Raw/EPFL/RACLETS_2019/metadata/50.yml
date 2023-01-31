@@ -1,9 +1,9 @@
-title: 'DAVOS_2019'
+title: 'RACLETS_2019'
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'DAVOS_2019'
+campaign_name: 'RACLETS_2019'
 project_name: ''
 station_id: '50'
 station_name: '50'
@@ -11,8 +11,8 @@ station_number: ''
 location: 'Klosters-Serneus'
 country: 'Switzerland'
 continent: 'Europe'
-latitude: 46.8533258
-longitude: 9.8755642
+latitude: 46.8533258 # 4650.72095
+longitude: 9.8755642 # 952.31926
 altitude: -9999
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs

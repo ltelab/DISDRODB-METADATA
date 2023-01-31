@@ -1,19 +1,19 @@
-title: 'RACLETS_2019'
+title: 'HYMEX_LTE_SOP2'
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'RACLETS_2019'
+campaign_name: 'HYMEX_LTE_SOP2'
 project_name: ''
-station_id: '51'
-station_name: '51'
-station_number: ''
-location: ''
-country: 'Switzerland'
+station_id: '32'
+station_name: 'Pradel_1'
+station_number: '32'
+location: 'Ardèche'
+country: 'France'
 continent: 'Europe'
-latitude: -9999   # 4651.519825
-longitude: -9999  # 950.9210610
-altitude: -9999
+latitude: 44.5829  
+longitude: 4.4987
+altitude: 278
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
@@ -40,8 +40,8 @@ website: ''
 source_repository: ''
 doi: ''
 contact: ''
-contact_information: 'http://lte.epfl.ch'
+contact_information: http://lte.epfl.ch
 source_data_format: ''
 obs_type: ''
 level: ''
-disdrodb_id: '51'
+disdrodb_id: '32'

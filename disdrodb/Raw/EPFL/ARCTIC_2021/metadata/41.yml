@@ -1,18 +1,17 @@
-title: 'RACLETS_2019'
+title: 'ARCTIC_2021'
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'RACLETS_2019'
+campaign_name: 'ARCTIC_2021'
 project_name: ''
-station_id: '51'
-station_name: '51'
-station_number: ''
+station_id: '41'
+station_name: ''
 location: ''
-country: 'Switzerland'
-continent: 'Europe'
-latitude: -9999   # 4651.519825
-longitude: -9999  # 950.9210610
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
 altitude: -9999
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
@@ -20,28 +19,25 @@ EPSG: 4326
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
-sensor_name: OTT_Parsivel
-sensor_long_name: OTT Hydromet Parsivel
-sensor_wavelegth: ''
+sensor_name: 'OTT_Parsivel2'
+sensor_long_name: 'OTT Hydromet Parsivel 2'
+sensor_wavelength: ''
 sensor_serial_number: ''
-firmware_IOP: ''
-firmware_DSP: ''
+firmware_iop: ''
+firmware_dsp: ''
 firmware_version: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-temporal_resolution: ''
 measurement_interval: ''
 contributors: ''
 authors: ''
 institution: 'Laboratoire de Teledetection Environnementale -  Ecole Polytechnique Federale de Lausanne'
-reference: ''
+references: ''
 documentation: ''
 website: ''
 source_repository: ''
-doi: ''
+doi: 'https://orcid.org/0000-0003-3647-0373'
 contact: ''
-contact_information: 'http://lte.epfl.ch'
+contact_information: 'https://bjerknes.uib.no/people/iris-thurnherr'
 source_data_format: ''
 obs_type: ''
-level: ''
-disdrodb_id: '51'

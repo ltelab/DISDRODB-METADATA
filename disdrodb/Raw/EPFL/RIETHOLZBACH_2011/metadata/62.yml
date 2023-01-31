@@ -1,19 +1,19 @@
-title: 'RACLETS_2019'
+title: 'RIETHOLZBACH_2011'
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'RACLETS_2019'
+campaign_name: 'RIETHOLZBACH_2011'
 project_name: ''
-station_id: '51'
-station_name: '51'
-station_number: ''
+station_id: '62'
+station_name: ''
+station_number: '62'
 location: ''
-country: 'Switzerland'
-continent: 'Europe'
-latitude: -9999   # 4651.519825
-longitude: -9999  # 950.9210610
-altitude: -9999
+country: ''
+continent: ''
+latitude: 47.380422
+longitude: 8.993580
+altitude: 262
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
@@ -33,6 +33,8 @@ temporal_resolution: ''
 measurement_interval: ''
 contributors: ''
 authors: ''
+latitude: 47.380422
+longitude: 8.993580
 institution: 'Laboratoire de Teledetection Environnementale -  Ecole Polytechnique Federale de Lausanne'
 reference: ''
 documentation: ''
@@ -40,8 +42,8 @@ website: ''
 source_repository: ''
 doi: ''
 contact: ''
-contact_information: 'http://lte.epfl.ch'
+contact_information: http://lte.epfl.ch
 source_data_format: ''
 obs_type: ''
 level: ''
-disdrodb_id: '51'
+disdrodb_id: '62'

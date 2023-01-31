@@ -1,18 +1,18 @@
-title: 'RACLETS_2019'
+title: 'HYMEX_LTE_SOP4'
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'RACLETS_2019'
-project_name: ''
-station_id: '51'
-station_name: '51'
-station_number: ''
+campaign_name: 'HYMEX_LTE_SOP4'
+project_name: 'HYMEX_LTE_SOP4'
+station_id: '11'
+station_name: ''
+station_number: '11'
 location: ''
-country: 'Switzerland'
-continent: 'Europe'
-latitude: -9999   # 4651.519825
-longitude: -9999  # 950.9210610
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
 altitude: -9999
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
@@ -40,8 +40,8 @@ website: ''
 source_repository: ''
 doi: ''
 contact: ''
-contact_information: 'http://lte.epfl.ch'
+contact_information: http://lte.epfl.ch
 source_data_format: ''
 obs_type: ''
 level: ''
-disdrodb_id: '51'
+disdrodb_id: '13'

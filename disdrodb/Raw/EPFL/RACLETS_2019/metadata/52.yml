@@ -1,9 +1,9 @@
-title: 'DAVOS_2019'
+title: 'RACLETS_2019'
 description: ''
 source: ''
 history: ''
 conventions: ''
-campaign_name: 'DAVOS_2019'
+campaign_name: 'RACLETS_2019'
 project_name: ''
 station_id: '52'
 station_name: '52'
@@ -11,8 +11,8 @@ station_number: ''
 location: ''
 country: 'Switzerland'
 continent: 'Europe'
-latitude: -9999
-longitude: -9999
+latitude: -9999   # 4649.77840
+longitude: -9999  # 948.57185
 altitude: -9999
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
