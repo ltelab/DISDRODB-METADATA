@@ -6,7 +6,6 @@ reader: EPFL/HYMEX_LTE_SOP3
 raw_data_format: raw
 raw_data_type: raw
 platform_type: fixed
-campaign_name_old: HYMEX_LTE_SOP3
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326

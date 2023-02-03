@@ -6,7 +6,6 @@ reader: ARM/ARM_LD
 raw_data_format: raw
 raw_data_type: nc
 platform_type: fixed
-campaign_name_old: CACTI, RELAMPAGO
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
