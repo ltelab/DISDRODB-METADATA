@@ -1,48 +1,64 @@
-title: 'SAMOYLOV_2019'
-description: ''
-source: ''
-history: ''
-conventions: ''
-campaign_name: 'SAMOYLOV_2019'
-project_name: ''
-station_id: '20'
-station_name: ''
-station_number: '20'
-location: ''
-country: ''
-continent: ''
-latitude: -9999 # 7222.2861
-longitude: -9999 # 12628.4696
-altitude: -9999
+data_source: EPFL
+campaign_name: SAMOYLOV_2019
+station_name: '20'
+sensor_name: OTT_Parsivel
+reader: EPFL/SAMOYLOV_2019
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+campaign_name_old: SAMOYLOV_2019
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
-sensor_name: OTT_Parsivel
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: SAMOYLOV_2019
+description: ''
+history: ''
+keywords: ''
+conventions: ''
+project_name: ''
+comments: ''
+station_id: '20'
+location: ''
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
+altitude: -9999
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
-sensor_wavelegth: ''
+sensor_manufacturer: ''
+sensor_wavelength: ''
 sensor_serial_number: ''
-firmware_IOP: ''
-firmware_DSP: ''
+firmware_iop: ''
+firmware_dsp: ''
 firmware_version: ''
+sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-temporal_resolution: ''
 measurement_interval: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: ''
 authors: ''
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
-reference: ''
-documentation: ''
-website: ''
-source_repository: ''
-doi: ''
+authors_url: ''
 contact: ''
 contact_information: http://lte.epfl.ch
-source_data_format: ''
-obs_type: ''
-level: ''
-disdrodb_id: '20'
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
+  Federale de Lausanne
+source_repository: ''
+license: ''
+doi: ''

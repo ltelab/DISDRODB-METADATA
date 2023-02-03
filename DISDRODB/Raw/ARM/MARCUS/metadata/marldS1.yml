@@ -1,47 +1,64 @@
-title: 'MARCUS'
-description: 'Measurements of Aerosols, Radiation and CloUds over the Southern Ocean, Resupply Vessel Aurora Australis'
-source: ''
-history: ''
-conventions: 'ARM-1.2'
-campaign_name: 'MARCUS'
-project_name: 'MARCUS'
-station_id: 'marldS1'
-station_name: 'Aurora Australis (S1)'
-station_number: ''
-location: 'Resupply Vessel Aurora Australis, Southern Ocean'
-country: ''
-continent: ''
-latitude: -9999
-longitude: -9999
-altitude: -9999
+data_source: ARM
+campaign_name: MARCUS
+station_name: marldS1
+sensor_name: OTT_Parsivel2
+reader: ARM/ARM_LD
+raw_data_format: raw
+raw_data_type: nc
+platform_type: mobile
+campaign_name_old: MARCUS
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
-sensor_name: OTT_Parsivel2
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: MARCUS
+description: Measurements of Aerosols, Radiation and CloUds over the Southern Ocean,
+  Resupply Vessel Aurora Australis
+history: ''
+keywords: ''
+conventions: ARM-1.2
+project_name: MARCUS
+comments: ''
+station_id: marldS1
+location: Resupply Vessel Aurora Australis, Southern Ocean
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
+altitude: -9999
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
 sensor_long_name: Parsivel
-sensor_wavelegth: ''
+sensor_manufacturer: ''
+sensor_wavelength: ''
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
 firmware_version: ''
+sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-temporal_resolution: ''
 measurement_interval: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: ''
 authors: ''
-institution: 'ARM'
-reference: ''
-documentation: ''
-website: ''
-source_repository: ''
-doi: '10.5439/1560674'
+authors_url: ''
 contact: ''
 contact_information: ''
-source_data_format: ''
-obs_type: ''
-level: 'b1'
-disdrodb_id: 'marldS1'
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: ARM
+source_repository: ''
+license: ''
+doi: 10.5439/1560674

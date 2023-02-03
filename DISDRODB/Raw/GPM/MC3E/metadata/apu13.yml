@@ -1,47 +1,63 @@
-title: 'MC3E'
-description: 'GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) MC3E V1'
-source: ''
-history: ''
-conventions: ''
-campaign_name: 'MC3E'
-project_name: ''
-station_id: 'apu13'
-station_name: ''
-station_number: 'apu13'
-location: 'Oklahoma'
-country: 'USA'
-continent: 'North America'
-latitude: 36.578822 
-longitude: -97.462589
-altitude: -9999
+data_source: GPM
+campaign_name: MC3E
+station_name: apu13
+sensor_name: OTT_Parsivel
+reader: GPM/MC3E
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+campaign_name_old: MC3E
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
-sensor_name: OTT_Parsivel
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: MC3E
+description: GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) MC3E V1
+history: ''
+keywords: ''
+conventions: ''
+project_name: ''
+comments: ''
+station_id: apu13
+location: Oklahoma
+country: USA
+continent: North America
+latitude: 36.578822
+longitude: -97.462589
+altitude: -9999
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
-sensor_wavelegth: ''
+sensor_manufacturer: ''
+sensor_wavelength: ''
 sensor_serial_number: ''
-firmware_IOP: ''
-firmware_DSP: ''
+firmware_iop: ''
+firmware_dsp: ''
 firmware_version: ''
+sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-temporal_resolution: ''
 measurement_interval: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: ''
 authors: ''
-institution: 'Global Hydrometeorology Resource Center (GHRC)'
-reference: ''
-documentation: 'https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/gpmValidation/mc3e/disdrometers_and_gauges/parsivel/doc/gpm_parsivel_campaign.html'
-website: ''
-source_repository: ''
-doi: ''
+authors_url: ''
 contact: ''
-contact_information: 'support-ghrc@earthdata.nasa.gov'
-source_data_format: ''
-obs_type: ''
-level: ''
-disdrodb_id: 'apu13'
+contact_information: support-ghrc@earthdata.nasa.gov
+acknowledgement: ''
+references: ''
+documentation: https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/gpmValidation/mc3e/disdrometers_and_gauges/parsivel/doc/gpm_parsivel_campaign.html
+website: ''
+institution: Global Hydrometeorology Resource Center (GHRC)
+source_repository: ''
+license: ''
+doi: ''

@@ -1,47 +1,66 @@
-title: 'MELBOURNE_2007'
-description: 'Effect of disdrometer type on rain drop size distribution characterisation: a new dataset for south-eastern Australia'
-source: ''
-history: ''
-conventions: ''
-campaign_name: 'MELBOURNE_2007'
-project_name: ''
-station_id: 'T1'
-station_name: 'Thies LPM 1'
-station_number: ''
-location: 'Melbourne'
-country: 'Australia'
-continent: 'Australia'
-latitude: -37.690963
-longitude: 144.948385
-altitude: -9999
+data_source: AUSTRALIA
+campaign_name: MELBOURNE_2007
+station_name: T1
+sensor_name: Thies_LPM
+reader: AUSTRALIA/MELBOURNE_2007_THIES
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+campaign_name_old: MELBOURNE_2007
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
-sensor_name: Thies_LPM
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: MELBOURNE_2007
+description: 'Effect of disdrometer type on rain drop size distribution characterisation:
+  a new dataset for south-eastern Australia'
+history: ''
+keywords: ''
+conventions: ''
+project_name: ''
+comments: ''
+station_id: T1
+location: Melbourne
+country: Australia
+continent: Australia
+latitude: -37.690963
+longitude: 144.948385
+altitude: -9999
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
 sensor_long_name: Thies_LPM
+sensor_manufacturer: ''
 sensor_wavelength: ''
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
 firmware_version: ''
+sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-temporal_resolution: ''
 measurement_interval: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: ''
-authors: 'Adrien Guyot, Jayaram Pudashine, Alain Protat, Remko Uijlenhoet, Valentijn R. N. Pauwels, Alan Seed, and Jeffrey P. Walker'
-institution: 'Department of Civil Engineering, Monash University, Melbourne, Victoria, Australia'
+authors: Adrien Guyot, Jayaram Pudashine, Alain Protat, Remko Uijlenhoet, Valentijn
+  R. N. Pauwels, Alan Seed, and Jeffrey P. Walker
+authors_url: ''
+contact: Adrien Guyot
+contact_information: adrien.guyot@monash.edu
+acknowledgement: ''
 references: ''
 documentation: ''
 website: ''
+institution: Department of Civil Engineering, Monash University, Melbourne, Victoria,
+  Australia
 source_repository: ''
-doi: 'https://doi.org/10.5194/hess-23-4737-2019'
-contact: 'Adrien Guyot'
-contact_information: 'adrien.guyot@monash.edu'
-source_data_format: ''
-obs_type: ''
-level: ''
-disdrodb_id: '1'
+license: ''
+doi: https://doi.org/10.5194/hess-23-4737-2019
