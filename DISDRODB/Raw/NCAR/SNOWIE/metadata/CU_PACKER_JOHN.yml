@@ -2,7 +2,7 @@ data_source: NCAR
 campaign_name: SNOWIE
 station_name: CU_PACKER_JOHN
 sensor_name: OTT_Parsivel
-reader: 'NCAR/SNOWIE_PJ'
+reader: NCAR/SNOWIE_PJ
 raw_data_format: raw
 raw_data_type: raw
 platform_type: fixed

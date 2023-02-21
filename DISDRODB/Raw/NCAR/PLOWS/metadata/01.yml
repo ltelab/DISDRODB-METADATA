@@ -2,7 +2,7 @@ data_source: NCAR
 campaign_name: PLOWS
 station_name: '01'
 sensor_name: OTT_Parsivel
-reader: 'NCAR/PLOWS_MIPS'
+reader: NCAR/PLOWS_MIPS
 raw_data_format: raw
 raw_data_type: raw
 platform_type: fixed
