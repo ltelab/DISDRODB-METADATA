@@ -27,8 +27,8 @@ station_id: IOP27_2
 location: ''
 country: USA
 continent: North America
-latitude: '43.985718'
-longitude: '-91.879118'
+latitude: 43.985718
+longitude: -91.879118
 altitude: -9999.0
 deployment_status: ''
 deployment mode: ''

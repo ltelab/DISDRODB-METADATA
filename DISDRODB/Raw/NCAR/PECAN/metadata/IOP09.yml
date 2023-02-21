@@ -1,6 +1,6 @@
 data_source: NCAR
 campaign_name: PECAN
-station_name: 09
+station_name: IOP09
 sensor_name: OTT_Parsivel2
 reader: NCAR/PECAN_MIPS
 raw_data_format: raw

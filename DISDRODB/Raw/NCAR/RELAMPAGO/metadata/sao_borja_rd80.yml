@@ -1,0 +1,54 @@
+data_source: NCAR
+campaign_name: RELAMPAGO
+station_name: 'sao_borja_rd80'
+sensor_name: RD_80
+reader: NCAR/RELAMPAGO_RD80
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+title: Brazil Sao Borja RD-80 Disdrometer Data
+description: ''
+source: ''
+history: ''
+conventions: ''
+project_name: RELAMPAGO, https://data.eol.ucar.edu/project/RELAMPAGO
+station_id: ''
+station_number: ''
+location: Sao Borja
+country: Brazil
+continent: South America
+latitude: -28.6352
+longitude: -56.0001
+altitude: -9999.0
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+sensor_name: RD_80
+sensor_long_name: RD-80
+sensor_wavelegth: ''
+sensor_serial_number: ''
+firmware_IOP: ''
+firmware_DSP: ''
+firmware_version: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+temporal_resolution: ''
+measurement_interval: 60
+contributors: ''
+authors: Alan Calheiros, Luiz Machado
+institution: EOL Data
+reference: ''
+documentation: https://data.eol.ucar.edu/datafile/nph-get/553.013/RD80_Disdrometer_User_Guide.pdf,
+  https://data.eol.ucar.edu/datafile/nph-get/553.013/Readme_RD80_disdrometer_Brazil.pdf
+website: https://data.eol.ucar.edu/dataset/553.013
+source_repository: ''
+doi: https://doi.org/10.26023/NQDF-Q5AZ-A70N
+contact: alan.calheiros@inpe.br, luiz.machado@inpe.br
+contact_information: eol-datahelp@ucar.edu
+source_data_format: ''
+obs_type: ''
+level: ''
+disdrodb_id: ''

@@ -1,11 +1,11 @@
-data_source: ''
-campaign_name: ''
-station_name: ''
-sensor_name: ''
-reader: ''
+data_source: 'EPFL'
+campaign_name: 'EPFL_ROOF_2012'
+station_name: '43'
+sensor_name: 'OTT_Parsivel'
+reader: 'EPFL/EPFL_ROOF_2012'
 raw_data_format: raw
 raw_data_type: raw
-platform_type: stationary
+platform_type: fixed
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
 EPSG: 4326

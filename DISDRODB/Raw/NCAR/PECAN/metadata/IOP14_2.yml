@@ -27,8 +27,8 @@ station_id: IOP14_2
 location: ''
 country: USA
 continent: North America
-latitude: '41.524673'
-longitude: '-96.781368'
+latitude: 41.524673
+longitude: -96.781368
 altitude: -9999.0
 deployment_status: ''
 deployment mode: ''

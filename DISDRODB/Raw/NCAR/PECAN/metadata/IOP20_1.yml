@@ -27,8 +27,8 @@ station_id: IOP20_1
 location: ''
 country: USA
 continent: North America
-latitude: '43.267524'
-longitude: '-97.894872'
+latitude: 43.267524
+longitude: -97.894872
 altitude: -9999.0
 deployment_status: ''
 deployment mode: ''

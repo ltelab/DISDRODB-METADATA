@@ -1,6 +1,6 @@
 data_source: NCAR
 campaign_name: PECAN
-station_name: 1
+station_name: FP3
 sensor_name: OTT_Parsivel2
 reader: NCAR/PECAN_FP3
 raw_data_format: raw

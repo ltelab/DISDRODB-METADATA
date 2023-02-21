@@ -32,9 +32,9 @@ station_id: iop4
 location: ''
 country: USA
 continent: North America
-latitude: '-9999'
-longitude: '-9999'
-altitude: -9999.0
+latitude: -9999
+longitude: -9999
+altitude: -9999
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''

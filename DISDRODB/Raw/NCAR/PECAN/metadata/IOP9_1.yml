@@ -27,8 +27,8 @@ station_id: IOP9_1
 location: ''
 country: USA
 continent: North America
-latitude: '38.553'
-longitude: '-99.536'
+latitude: 38.553
+longitude: -99.536
 altitude: -9999.0
 deployment_status: ''
 deployment mode: ''
