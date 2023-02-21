@@ -1,0 +1,63 @@
+data_source: EPFL
+campaign_name: GRAND_ST_BERNARD_2007
+station_name: '7483_2'
+sensor_name: OTT_Parsivel
+reader: EPFL/GRAND_ST_BERNARD_2007_2
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: GRAND_ST_BERNARD_2007
+description: ''
+history: ''
+keywords: ''
+conventions: ''
+project_name: ''
+comments: ''
+station_id: '7483_2'
+location: ''
+country: Switzerland
+continent: Europe
+latitude: -9999.0
+longitude: -9999.0
+altitude: -9999.0
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+measurement_interval: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: http://lte.epfl.ch
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
+  Federale de Lausanne
+source_repository: ''
+license: ''
+doi: ''

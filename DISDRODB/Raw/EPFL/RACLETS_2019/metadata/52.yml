@@ -2,7 +2,7 @@ data_source: EPFL
 campaign_name: RACLETS_2019
 station_name: '52'
 sensor_name: OTT_Parsivel
-reader: EPFL/RACLETS_2019
+reader: EPFL/RACLETS_2019_WJF
 raw_data_format: raw
 raw_data_type: raw
 platform_type: fixed

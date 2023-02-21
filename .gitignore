@@ -1,6 +1,7 @@
 *.log
 
 # Keep only issue and metadata folders
+DISDRODB/Processed
 DISDRODB/Raw/*/*/*/
 !DISDRODB/Raw/*/*/issue/
 !DISDRODB/Raw/*/*/metadata/
