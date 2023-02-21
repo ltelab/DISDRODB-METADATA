@@ -1,0 +1,67 @@
+data_source: NCAR
+campaign_name: OWLES
+station_name: iop7b
+sensor_name: OTT_Parsivel
+reader: NCAR/OWLES_MIPS
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: UAH MIPS Parsivel Disdrometer Data
+description: ''
+history: ''
+keywords: ''
+conventions: ''
+project_name: OWLeS
+summary: ''
+comments: An LLAP event was forecast to produce 5-6 feet of snow on the Tug Hill Plateau
+  with "hostile" cold weather and strong winds. The LLAP was expected to be oscillatory
+  during the overnight period but eventually become more steady state just to the
+  north of the Utah MRR transect. Two UKWA flights occurred, the first a lawnmower
+  through the band and the second a direct transit through the band.
+station_id: iop7b
+location: ''
+country: USA
+continent: North America
+latitude: '-9999'
+longitude: '-9999'
+altitude: -9999.0
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+measurement_interval: '10'
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Dustin Phillips, Kevin Knupp
+authors_url: ''
+contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
+contact_information: eol-datahelp@ucar.edu
+acknowledgement: ''
+references: ''
+documentation: https://data.eol.ucar.edu/datafile/nph-get/382.034/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
+website: https://data.eol.ucar.edu/dataset/382.034
+institution: EOL Data
+source_repository: ''
+license: ''
+doi: https://doi.org/10.26023/33H3-H9EE-7M0F

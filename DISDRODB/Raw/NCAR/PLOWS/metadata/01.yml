@@ -1,0 +1,66 @@
+data_source: NCAR
+campaign_name: PLOWS
+station_name: 1
+sensor_name: OTT_Parsivel
+reader: ''
+raw_data_format: raw
+raw_data_type: raw
+platform_type: fixed
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: 'PLOWS: MIPS Disdrometer Data'
+description: This data set contains 10 second resolution disdrometer data coincident
+  with the MIPS profiling system during the PLOWS field seasons. Data are available
+  for PLOWS IOPs 1,2,4,5,7,8,9,10,12,13,14,17,18,19,21,23 and 24. The data were provided
+  by the University of Alabama-Huntsville and are in a comma-delimited ASCII format.
+history: ''
+keywords: ''
+conventions: ''
+project_name: Profiling of Winter Storms, https://data.eol.ucar.edu/project/PLOWS
+summary: ''
+comments: ''
+station_id: '01'
+location: Alabama
+country: USA
+continent: North America
+latitude: -9999.0
+longitude: -9999.0
+altitude: -9999.0
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+measurement_interval: 10 sec
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Dustin Phillips, Kevin Knupp
+authors_url: ''
+contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
+contact_information: eol-datahelp@ucar.edu
+acknowledgement: ''
+references: ''
+documentation: https://data.eol.ucar.edu/datafile/nph-get/113.073/readme_dsd.sfc
+website: https://data.eol.ucar.edu/dataset/113.073
+institution: EOL Data
+source_repository: ''
+license: ''
+doi: https://doi.org/10.26023/YBH3-S5R7-E90J

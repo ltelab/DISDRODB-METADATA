@@ -1,21 +1,21 @@
 data_source: NCAR
-campaign_name: CCOPE_2015
-station_name: CRL
-sensor_name: OTT_Parsivel
-reader: NCAR/CCOPE_2015
+campaign_name: PECAN
+station_name: 4
+sensor_name: OTT_Parsivel2
+reader: NCAR/PECAN_MIPS
 raw_data_format: raw
 raw_data_type: raw
 platform_type: fixed
 crs: WGS84
 proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
+EPSG: 4326
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
-title: CCOPE_2016
+title: MP2 UAH MIPS Parsivel Disdrometer Data
 description: ''
 history: ''
 keywords: ''
@@ -23,20 +23,20 @@ conventions: ''
 project_name: ''
 summary: ''
 comments: ''
-station_id: CRL
-location: Nahuelbuta Mountains
-country: Chile
-continent: South America
-latitude: -37.4753
-longitude: -73.3423
-altitude: 137.0
+station_id: 4
+location: ''
+country: ''
+continent: ''
+latitude: -9999
+longitude: -9999
+altitude: -9999
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
-sensor_long_name: OTT Hydromet Parsivel 2
+sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ''
-sensor_wavelength: 650nm
+sensor_wavelength: ''
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -44,20 +44,20 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: 10 sec
+measurement_interval: ''
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: ''
 authors: ''
 authors_url: ''
-contact: EOL Data Support
-contact_information: eol-datahelp@ucar.edu
+contact: ''
+contact_information: ''
 acknowledgement: ''
 references: ''
 documentation: ''
-website: https://data.eol.ucar.edu/dataset/546.005
-institution: EOL Data
+website: ''
+institution: ''
 source_repository: ''
 license: ''
-doi: https://doi.org/10.5065/D6ZS2V6B
+doi: ''

@@ -1,8 +1,8 @@
 data_source: NCAR
-campaign_name: CCOPE_2015
-station_name: CRL
+campaign_name: PECAN
+station_name: IOP14_1
 sensor_name: OTT_Parsivel
-reader: NCAR/CCOPE_2015
+reader: NCAR/PECAN_MOBILE
 raw_data_format: raw
 raw_data_type: raw
 platform_type: fixed
@@ -12,31 +12,31 @@ EPSG: '4326'
 latitude_unit: DegreesNorth
 longitude_unit: DegreesEast
 altitude_unit: MetersAboveSeaLevel
-source: ''
+source: https://data.eol.ucar.edu/dataset/485.065
 source_convention: ''
 source_processing_date: ''
-title: CCOPE_2016
+title: NCAR/EOL Mobile Parsivel Disdrometer Data
 description: ''
 history: ''
 keywords: ''
 conventions: ''
-project_name: ''
+project_name: PECAN, https://data.eol.ucar.edu/project/PECAN
 summary: ''
 comments: ''
-station_id: CRL
-location: Nahuelbuta Mountains
-country: Chile
-continent: South America
-latitude: -37.4753
-longitude: -73.3423
-altitude: 137.0
+station_id: IOP14_1
+location: ''
+country: USA
+continent: North America
+latitude: '41.393413'
+longitude: '-96.736039'
+altitude: -9999.0
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
-sensor_long_name: OTT Hydromet Parsivel 2
+sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
-sensor_wavelength: 650nm
+sensor_wavelength: ''
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -44,20 +44,20 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: 10 sec
+measurement_interval: 10
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: ''
-authors: ''
+authors: David J. Bodine, Kristen Rasmussen
 authors_url: ''
-contact: EOL Data Support
+contact: bodine@ou.edu, kristenr@ucar.edu
 contact_information: eol-datahelp@ucar.edu
 acknowledgement: ''
 references: ''
-documentation: ''
-website: https://data.eol.ucar.edu/dataset/546.005
+documentation: https://data.eol.ucar.edu/datafile/nph-get/485.065/Mobile_Disdrometer_README.pdf
+website: https://data.eol.ucar.edu/dataset/485.065
 institution: EOL Data
 source_repository: ''
 license: ''
-doi: https://doi.org/10.5065/D6ZS2V6B
+doi: https://doi.org/10.5065/D6M043KW
