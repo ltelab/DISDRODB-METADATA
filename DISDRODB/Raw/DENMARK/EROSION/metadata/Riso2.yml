@@ -1,0 +1,66 @@
+data_source: DENMARK
+campaign_name: EROSION
+station_name: Riso2
+sensor_name: OTT_Parsivel2
+reader: DENMARK/EROSION_nc
+raw_data_format: raw
+raw_data_type: nc
+platform_type: fixed
+crs: WGS84
+proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+EPSG: '4326'
+latitude_unit: DegreesNorth
+longitude_unit: DegreesEast
+altitude_unit: MetersAboveSeaLevel
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: Precipitation data from a disdrometer installed next to the Riso V52 met mast,
+  Denmark
+description: This dataset consists of 20-second precipitation measurements observed
+  with a OTT Parsivel2 installed next to the V52 meteorological mast at DTU Riso campus.
+  The period includes around 8 months of measurements.
+history: ''
+keywords: ''
+conventions: ''
+project_name: ''
+summary: ''
+comments: ''
+station_id: Riso - on the ground next to the V52 met mast
+location: Riso - on the ground next to the V52 met mast
+country: Denmark
+continent: Europe
+latitude: 55.687
+longitude: 12.0956
+altitude: -9999.0
+deployment_status: ''
+deployment mode: ''
+platform_protection: ''
+platform_orientation: ''
+sensor_long_name: OTT_Parsivel2
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+measurement_interval: 20
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: Anna-Maria Tilg
+authors: Charlotte Hasager,  Flemming Vejen
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: https://www.rain-erosion.dk/publication
+website: https://www.rain-erosion.dk/
+institution: Innovationsfonden
+source_repository: ''
+license: ''
+doi: https://doi.org/10.11583/DTU.14501607.v1
