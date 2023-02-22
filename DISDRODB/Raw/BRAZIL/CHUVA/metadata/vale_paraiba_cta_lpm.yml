@@ -27,8 +27,8 @@ station_id: ''
 location: ''
 country: ''
 continent: ''
-latitude: -9999
-longitude: -9999
+latitude: -23.212440
+longitude: -45.866550
 altitude: -9999
 deployment_status: ''
 deployment mode: ''

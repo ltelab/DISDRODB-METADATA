@@ -27,8 +27,8 @@ station_id: ''
 location: ''
 country: ''
 continent: ''
-latitude: -9999
-longitude: -9999
+latitude: -22.691194444444444
+longitude: -47.64075
 altitude: -9999
 deployment_status: ''
 deployment mode: ''
@@ -55,7 +55,7 @@ contact: ''
 contact_information: ''
 acknowledgement: ''
 references: ''
-documentation: ''
+documentation: 'http://soschuva.cptec.inpe.br/soschuva/index.html'
 website: ''
 institution: ''
 source_repository: ''
