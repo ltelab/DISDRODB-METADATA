@@ -52,7 +52,7 @@ calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: ''
-authors: null
+authors: ''
 authors_url: ''
 contact: Lawrence D. Carey; Bruno Lisboa Medina
 contact_information: lawrence.carey@uah.edu; blm0032@uah.edu
@@ -60,7 +60,7 @@ acknowledgement: ''
 references: ''
 documentation: https://data.eol.ucar.edu/project/VORTEX-SE_2016, https://data.eol.ucar.edu/datafile/nph-get/527.017/VSE_Parsivel_Disdrometer_Description.pdf
 website: https://data.eol.ucar.edu/dataset/527.017
-institution: null
+institution: ''
 source_repository: ''
 license: ''
 doi: https://doi.org/10.5065/D6319T84
