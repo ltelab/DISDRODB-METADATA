@@ -13,7 +13,7 @@ DISDRODB standards are being established following FAIR data best practices and 
 Just clone the repository
 
 ```
-git clone https://github.com/EPFL-ENAC/LTE-disdrodb-data.git
+git clone https://github.com/ltelab/disdrodb-data.git
 ```
 
 ## Folders structure
@@ -25,7 +25,7 @@ The folder structure is composed of many data source (`DATA_SOURCE_1` eg. "EPFL"
   ├── 📁 Raw
       ├── 📁 DATA_SOURCE_1
           ├── 📁 CAMPAIGN_NAME_1
-              ├── 📁 data
+              ├── 📁 data_url
                   ├── 📁 station_name_1
                       ├── 📜 url.json
                   ├── 📁 station_name_2
@@ -100,4 +100,4 @@ Do you want to contribute to the project with your own data ? Great ! Just follo
 
 9. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), and wait for a maintainer to accepts it !
 
-If you struggle with this process, don't hesitate to raise an [issue](https://github.com/EPFL-ENAC/LTE-disdrodb-data/issues/new/choose) so we can help!
+If you struggle with this process, don't hesitate to raise an [issue](https://github.com/ltelab/disdrodb-data/issues/new/choose) so we can help!
