@@ -3,15 +3,8 @@ campaign_name: EROSION
 station_name: Rodsand
 sensor_name: OTT_Parsivel2
 reader: DENMARK/EROSION_nc
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
@@ -20,12 +13,11 @@ description: This dataset consists of 1-minute and 20-second precipitation measu
   observed with a OTT Parsivel2 installed at the offshore wind farm Rodsand in cooperation
   with the company RWE. The period includes more than 2 years of measurements. See
   https://doi.org/10.1127/metz/2021/1063 for more details about the station.
-history: ''
-keywords: ''
-conventions: ''
 project_name: ''
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: Rodsand - offshore wind farm
 location: Rodsand - offshore wind farm
 country: Denmark

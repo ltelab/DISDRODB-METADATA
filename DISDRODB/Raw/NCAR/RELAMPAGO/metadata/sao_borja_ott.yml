@@ -3,15 +3,18 @@ campaign_name: RELAMPAGO
 station_name: sao_borja_ott
 sensor_name: OTT_Parsivel2
 reader: NCAR/RELAMPAGO_OTT
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Brazil Sao Borja OTT Parsivel Disdrometer Data
 description: ''
-source: ''
-history: ''
-conventions: ''
 project_name: RELAMPAGO, https://data.eol.ucar.edu/project/RELAMPAGO
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: ''
 location: Sao Borja
 country: Brazil
@@ -19,46 +22,35 @@ continent: South America
 latitude: -28.6352
 longitude: -56.0001
 altitude: -9999.0
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_serial_number: ''
-firmware_version: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-measurement_interval: 60
-contributors: ''
-authors: Bruno Ribeiro, Luiz Machado
-institution: EOL Data
-documentation: https://data.eol.ucar.edu/datafile/nph-get/553.016/OTT_Parsivel_manual_EN.pdf,
-  https://data.eol.ucar.edu/datafile/nph-get/553.016/Readme_OTT_Parsivel_disdrometer_Brazil.pdf
-website: https://data.eol.ucar.edu/dataset/553.016
-source_repository: ''
-doi: https://doi.org/10.26023/PXYA-Z1XK-MP0W
-contact: bruno.ribeiro@inpe.br, luiz.machado@inpe.br
-contact_information: eol-datahelp@ucar.edu
-source_convention: ''
-source_processing_date: ''
-keywords: ''
-summary: ''
-comments: ''
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
+sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ''
 sensor_wavelength: ''
+sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
+firmware_version: ''
 sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+measurement_interval: 60
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
+contributors: ''
+authors: Bruno Ribeiro, Luiz Machado
 authors_url: ''
+contact: bruno.ribeiro@inpe.br, luiz.machado@inpe.br
+contact_information: eol-datahelp@ucar.edu
 acknowledgement: ''
 references: ''
+documentation: https://data.eol.ucar.edu/datafile/nph-get/553.016/OTT_Parsivel_manual_EN.pdf,
+  https://data.eol.ucar.edu/datafile/nph-get/553.016/Readme_OTT_Parsivel_disdrometer_Brazil.pdf
+website: https://data.eol.ucar.edu/dataset/553.016
+institution: EOL Data
+source_repository: ''
 license: ''
+doi: https://doi.org/10.26023/PXYA-Z1XK-MP0W

@@ -3,26 +3,19 @@ campaign_name: DIVEN
 station_name: CAIRNGORM
 sensor_name: Thies_LPM
 reader: UK/DIVEN
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: NCAS Laser Precipitation Monitor
 source_convention: ''
 source_processing_date: ''
 title: cairngorm
 description: 1 minute precipitation characteristics output for a single day from a
   DiVeN disdrometer at Cairngorm
-history: ''
-keywords: ''
-conventions: ''
 project_name: Disdrometer Verification Network (DiVeN)
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: '11'
 location: Cairngorm
 country: United Kingdom
@@ -61,4 +54,3 @@ institution: National Centre for Atmospheric Science (NCAS)
 source_repository: https://orcid.org/0000-0002-8474-9005
 license: ''
 doi: ''
-summary: ''

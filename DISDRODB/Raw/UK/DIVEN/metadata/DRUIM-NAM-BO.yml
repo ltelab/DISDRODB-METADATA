@@ -3,15 +3,8 @@ campaign_name: DIVEN
 station_name: DRUIM-NAM-BO
 sensor_name: Thies_LPM
 reader: UK/DIVEN
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: NCAS Laser Precipitation Monitor
 source_convention: ''
 source_processing_date: ''
@@ -20,11 +13,11 @@ description: 'Internally quality controlled by on-board instrument processing. M
   type: 1.5 m freestanding tripod. Land type: arctic tundra, frequently snow-covered,
   rounded mountain ridge oriented SW-NE, sloping SW. Nearby objects: weather station
   10 m N.'
-history: ''
-keywords: ''
-conventions: ''
 project_name: Disdrometer Verification Network (DiVeN)
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: DRUIM-NAM-BO
 location: Feshie
 country: United Kingdom
@@ -63,4 +56,3 @@ institution: National Centre for Atmospheric Science (NCAS)
 source_repository: https://doi.org/10.5194/amt-12-5845-2019
 license: ''
 doi: ''
-summary: ''

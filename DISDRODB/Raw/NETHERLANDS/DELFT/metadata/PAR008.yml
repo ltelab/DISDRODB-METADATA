@@ -3,25 +3,18 @@ campaign_name: DELFT
 station_name: PAR008
 sensor_name: OTT_Parsivel2
 reader: NETHERLANDS/DELFT
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: CABAUW
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: ''
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: PAR008
 location: ''
 country: Netherlands
@@ -60,4 +53,3 @@ institution: ''
 source_repository: ''
 license: ''
 doi: ''
-summary: ''

@@ -3,15 +3,8 @@ campaign_name: EROSION
 station_name: Riso3
 sensor_name: OTT_Parsivel2
 reader: DENMARK/EROSION_nc
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
@@ -20,12 +13,11 @@ title: Precipitation data from a disdrometer installed on the top of the Riso  m
 description: This dataset consists of 1-minute and 20-seconds precipitation measurements
   observed with a OTT Parsivel2 installed on the top of the tall meteorological mast
   at DTU Riso campus. The period includes more than 2 years of measurements.
-history: ''
-keywords: ''
-conventions: ''
 project_name: ''
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: ''
 location: Riso - on the top of the tall met mast
 country: Denmark
@@ -47,7 +39,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: 80 sec
+measurement_interval: 80
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''

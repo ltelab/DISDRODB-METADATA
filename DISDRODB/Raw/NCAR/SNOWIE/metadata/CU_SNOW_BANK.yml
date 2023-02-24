@@ -3,26 +3,18 @@ campaign_name: SNOWIE
 station_name: CU_SNOW_BANK
 sensor_name: OTT_Parsivel2
 reader: NCAR/SNOWIE_SB
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: SNOWIE - Profiling of Winter Storms, https://data.eol.ucar.edu/project/SNOWIE
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: ''
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: ''
 location: Idaho
 country: USA

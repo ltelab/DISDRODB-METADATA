@@ -3,26 +3,18 @@ campaign_name: OH_IIUNAM
 station_name: TAXQUENA
 sensor_name: OTT_Parsivel2
 reader: MEXICO/OH_IIUNAM_nc
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: ''
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: ''
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: TAXQUENA
 location: Mexico city
 country: Mexico

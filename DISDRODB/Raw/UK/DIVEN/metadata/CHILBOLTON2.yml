@@ -3,15 +3,8 @@ campaign_name: DIVEN
 station_name: CHILBOLTON2
 sensor_name: Thies_LPM
 reader: UK/DIVEN
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: NCAS Laser Precipitation Monitor
 source_convention: ''
 source_processing_date: ''
@@ -21,11 +14,11 @@ description: 'Internally quality controlled by on-board instrument processing. M
   Chilbolton-2 (Chilbolton 2 until Feb 2018)), 10 m apart. Beam transmitted N-S. Land
   type: flat, agricultural fields for > 500m in all directions. Nearby objects: 25
   m 2017 diameter radar dish antenna 100 m ESE; 2-floor building 25 m SSW'
-history: ''
-keywords: ''
-conventions: ''
 project_name: Disdrometer Verification Network (DiVeN)
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: CHILBOLTON2
 location: Chilbolton
 country: United Kingdom
@@ -64,4 +57,3 @@ institution: National Centre for Atmospheric Science (NCAS)
 source_repository: https://doi.org/10.5194/amt-12-5845-2019
 license: ''
 doi: ''
-summary: ''

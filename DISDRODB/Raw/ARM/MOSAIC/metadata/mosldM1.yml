@@ -3,25 +3,18 @@ campaign_name: MOSAIC
 station_name: mosldM1
 sensor_name: OTT_Parsivel2
 reader: ARM/ARM_LD
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: mobile
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: MOSAIC
 description: Multidisciplinary Drifting Observatory for the Study of Arctic Climate
-history: ''
-keywords: ''
-conventions: ARM-1.2
 project_name: MOSAIC
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: mosldM1
 location: ''
 country: ''
@@ -60,4 +53,3 @@ institution: ''
 source_repository: ''
 license: ''
 doi: 10.5439/1560674
-summary: ''

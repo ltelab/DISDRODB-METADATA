@@ -3,26 +3,18 @@ campaign_name: PECAN
 station_name: IOP17_2
 sensor_name: OTT_Parsivel
 reader: NCAR/PECAN_MOBILE
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: https://data.eol.ucar.edu/dataset/485.065
 source_convention: ''
 source_processing_date: ''
 title: NCAR/EOL Mobile Parsivel Disdrometer Data
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: PECAN, https://data.eol.ucar.edu/project/PECAN
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: IOP17_2
 location: ''
 country: USA

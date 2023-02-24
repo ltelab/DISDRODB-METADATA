@@ -3,26 +3,18 @@ campaign_name: CCOPE_2015
 station_name: CRL
 sensor_name: OTT_Parsivel
 reader: NCAR/CCOPE_2015
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: CCOPE_2016
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: ''
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: CRL
 location: Nahuelbuta Mountains
 country: Chile
@@ -44,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: 10 sec
+measurement_interval: 10
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''

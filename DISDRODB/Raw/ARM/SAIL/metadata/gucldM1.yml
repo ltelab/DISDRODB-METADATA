@@ -3,25 +3,18 @@ campaign_name: SAIL
 station_name: gucldM1
 sensor_name: OTT_Parsivel2
 reader: ARM/ARM_LD
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: SAIL
 description: Surface Atmosphere Integrated Field Laboratory
-history: ''
-keywords: ''
-conventions: ARM-1.2
 project_name: SAIL
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: gucldM1
 location: ''
 country: ''
@@ -60,4 +53,3 @@ institution: ''
 source_repository: ''
 license: ''
 doi: ''
-summary: ''

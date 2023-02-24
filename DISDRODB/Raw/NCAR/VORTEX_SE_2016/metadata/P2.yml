@@ -3,29 +3,21 @@ campaign_name: VORTEX_SE_2016
 station_name: P2
 sensor_name: OTT_Parsivel2
 reader: NCAR/VORTEX_SE_2016_P2
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: UAH Parsivel Disdrometer Data
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: VORTEX-SE_2016 - Verification of the Origins of Rotation in Tornadoes
   EXperiment-Southeast (VORTEX-SE) 2016 Field Campaign
+keywords: ''
 summary: This data set contains surface raindrop size distribution data from a Parsivel
   disdrometers that the University of Alabama-Huntsville deployed at the UAH berm
   site for the VORTEX-SE 2016 campaign.
-comments: ''
+history: ''
+comment: ''
 station_id: P2
 location: UAH berm site
 country: USA

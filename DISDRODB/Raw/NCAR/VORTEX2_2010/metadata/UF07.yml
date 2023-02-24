@@ -3,27 +3,19 @@ campaign_name: VORTEX2_2010
 station_name: UF07
 sensor_name: OTT_Parsivel
 reader: NCAR/VORTEX2_2010_UF
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: Mobile Disdrometer Data
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: 'VORTEX2: Verification of the Origins of Rotation in Tornadoes Experiment
   2, https://data.eol.ucar.edu/project/VORTEX2'
+keywords: ''
 summary: ''
-comments: ''
+history: ''
+comment: ''
 station_id: ''
 location: ''
 country: USA

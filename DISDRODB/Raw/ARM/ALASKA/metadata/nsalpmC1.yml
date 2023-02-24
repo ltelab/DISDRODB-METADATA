@@ -3,25 +3,18 @@ campaign_name: ALASKA
 station_name: nsalpmC1
 sensor_name: Thies_LPM
 reader: ARM/ARM_LPM
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: ALASKA
 description: North Slope of Alaska
-history: ''
-keywords: ''
-conventions: ARM-1.2
 project_name: ''
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: nsalpmC1
 location: Barrow, Alaska
 country: USA
@@ -60,4 +53,3 @@ institution: ARM
 source_repository: ''
 license: ''
 doi: 10.5439/1390571
-summary: ''

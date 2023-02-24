@@ -3,25 +3,18 @@ campaign_name: COMBLE
 station_name: anxldS2
 sensor_name: OTT_Parsivel2
 reader: ARM/ARM_LD
-raw_data_format: raw
-raw_data_type: nc
+raw_data_format: netcdf
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: 4326
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: ARM Norway
 description: Cold-Air Outbreaks in the Marine Boundary Layer Experiment (COMBLE)
-history: ''
-keywords: ''
-conventions: ARM-1.2
 project_name: ANX
-comments: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: anxldS2
 location: Bear Island, Svalbard
 country: Norway
@@ -60,4 +53,3 @@ institution: ARM
 source_repository: ''
 license: ''
 doi: 10.5439/1560674
-summary: ''

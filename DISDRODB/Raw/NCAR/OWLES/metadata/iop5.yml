@@ -3,26 +3,18 @@ campaign_name: OWLES
 station_name: iop5
 sensor_name: OTT_Parsivel
 reader: NCAR/OWLES_MIPS
-raw_data_format: raw
-raw_data_type: raw
+raw_data_format: txt
 platform_type: fixed
-crs: WGS84
-proj4_string: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
-EPSG: '4326'
-latitude_unit: DegreesNorth
-longitude_unit: DegreesEast
-altitude_unit: MetersAboveSeaLevel
 source: ''
 source_convention: ''
 source_processing_date: ''
 title: UAH MIPS Parsivel Disdrometer Data
 description: ''
-history: ''
-keywords: ''
-conventions: ''
 project_name: OWLeS
+keywords: ''
 summary: ''
-comments: No UWKA flight but successful sounding launches yielded good data.
+history: ''
+comment: No UWKA flight but successful sounding launches yielded good data.
 station_id: iop5
 location: ''
 country: USA
