@@ -16,8 +16,6 @@ DATA_FOLDER_NAME = 'data'
 CONFIG_FILE_NAME = 'secret.yml'
 
 
-
-
 # read yaml file
 def read_yaml_file(path_yaml_file: str) -> dict:
     """Read yaml file and return content as dict
@@ -115,7 +113,7 @@ def zip_folder(folder_path : str, zip_file_path : str) -> str :
 
 # Function that return a list of raw file paths under a data folder
 def get_dict_data_folder_path(initial_path : str) -> dict : 
-    """Function that return a dict of raw file paths under a data folder
+    """Function that return a dict of raw file paths under a data folder.
 
     Parameters
     ----------
@@ -125,14 +123,13 @@ def get_dict_data_folder_path(initial_path : str) -> dict :
     Returns
     -------
     list
-        list of path 
+        List of path 
     """
     result = [
         os.path.join(dp, f)
         for dp, dn, filenames in os.walk(initial_path)
         for f in filenames        
     ]
-
 
     dict_of_data_folder = dict()
 
@@ -144,16 +141,16 @@ def get_dict_data_folder_path(initial_path : str) -> dict :
             if len(list_of_path_element) > index_raw_folder + 3 and DATA_FOLDER_NAME == list_of_path_element[index_raw_folder+3] :
                 
                 # instutution name 
-                institution_name = list_of_path_element[index_raw_folder+1]
-                if not dict_of_data_folder.get(institution_name) :
-                    dict_of_data_folder[institution_name] = dict()
+                data_source = list_of_path_element[index_raw_folder+1]
+                if not dict_of_data_folder.get(data_source) :
+                    dict_of_data_folder[data_source] = dict()
                 
                 # campaign name 
                 campaign_name = list_of_path_element[index_raw_folder+2]
-                if not dict_of_data_folder.get(institution_name).get(campaign_name) :
-                    dict_of_data_folder[institution_name][campaign_name] = list()
+                if not dict_of_data_folder.get(data_source).get(campaign_name) :
+                    dict_of_data_folder[data_source][campaign_name] = list()
                 
-                dict_of_data_folder[institution_name][campaign_name].append(item)
+                dict_of_data_folder[data_source][campaign_name].append(item)
 
     return dict_of_data_folder
 
@@ -164,9 +161,9 @@ def save_dict_to_json(path_json: str, content: dict):
     Parameters
     ----------
     path_text_file : str
-        path of the text file
+        Path of the text file
     line : str
-        text to add as new line
+        Text to add as new line
     """
     
     # load the current JSON content
@@ -187,7 +184,7 @@ def save_dict_to_json(path_json: str, content: dict):
 
 
 def upload_2_zenodo(file_path : str, depo_id : str,file_name_zenodo : str ) -> str :
-    """Upload one file to zenodo
+    """Upload one file to zenodo.
 
     Parameters
     ----------
@@ -196,7 +193,7 @@ def upload_2_zenodo(file_path : str, depo_id : str,file_name_zenodo : str ) -> s
     depo_id : str
         Depo ID
     file_name_zenodo : str
-        File name on zenodo
+        File name on Zenodo
 
     Returns
     -------
@@ -238,17 +235,17 @@ def remove_all_file_path_except_url_json(list_file_path : dict) -> dict :
     dict_json_file_path = {}
 
 
-    for institution_name, content in  list_file_path.items() :
+    for data_source, content in  list_file_path.items() :
         for campaign_name, list_file_path in content.items() :
             for file_path in list_file_path :
                 if file_path.endswith(URLS_JSON_FILE_NAME) :
-                    if not dict_json_file_path.get(institution_name) :
-                        dict_json_file_path[institution_name] = dict()
+                    if not dict_json_file_path.get(data_source) :
+                        dict_json_file_path[data_source] = dict()
                     
-                    if not dict_json_file_path.get(institution_name).get(campaign_name) :
-                        dict_json_file_path[institution_name][campaign_name] = list()
+                    if not dict_json_file_path.get(data_source).get(campaign_name) :
+                        dict_json_file_path[data_source][campaign_name] = list()
                     
-                    dict_json_file_path[institution_name][campaign_name].append(file_path)
+                    dict_json_file_path[data_source][campaign_name].append(file_path)
             
 
     return dict_json_file_path 
@@ -263,7 +260,7 @@ def batch_upload_2_zenodo(dict_file_path : dict, depo_id : str, incremental_load
 
 
 
-    for institution_name, content in  dict_file_path.items() :
+    for data_source, content in  dict_file_path.items() :
         for campaign_name, list_file_path in content.items() :
             list_of_elements_in_path = os.path.normpath(list_file_path[0]).split(os.sep)
             index_data_folder = list_of_elements_in_path.index(campaign_name)+2
@@ -272,7 +269,7 @@ def batch_upload_2_zenodo(dict_file_path : dict, depo_id : str, incremental_load
             list_of_uploaded_files = list()
 
             if incremental_loading :
-                list_of_json_file_paths = dict_json_file_path.get(institution_name).get(campaign_name)
+                list_of_json_file_paths = dict_json_file_path.get(data_source).get(campaign_name)
                 for item in list_of_json_file_paths :
                     if os.path.exists(item):
                         with open(item, "r") as jsonFile:
@@ -289,7 +286,7 @@ def batch_upload_2_zenodo(dict_file_path : dict, depo_id : str, incremental_load
                 else :
                     list_of_elements_in_path = os.path.normpath(file_path).split(os.sep)
                     file_name = os.path.join(*list_of_elements_in_path[index_data_folder:])
-                    file_name_zenodo ='_'.join([institution_name,campaign_name,*list_of_elements_in_path[index_data_folder:]])
+                    file_name_zenodo ='_'.join([data_source,campaign_name,*list_of_elements_in_path[index_data_folder:]])
                     file_url = upload_2_zenodo(file_path,depo_id,file_name_zenodo)
                     save_dict_to_json(path_json,{file_name:file_url})
 

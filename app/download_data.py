@@ -19,7 +19,7 @@ def get_list_urls_files(
     """
 
     folder_path = os.path.join(
-        os.path.dirname(pathlib.Path(__file__).parent.resolve()), "disdrodb", "Raw"
+        os.path.dirname(pathlib.Path(__file__).parent.resolve()), "DISDRODB", "Raw"
     )
 
     if data_source:
@@ -157,13 +157,20 @@ def download_all_files(
     Parameters
     ----------
     data_source : str, optional
-        Data source folder name (eg : EPFL) If not provided, all data sources will be downloaded, by default None
+        Data source folder name (eg : EPFL).
+        If not provided (None), all data sources will be downloaded.
+        The default is data_source=None
     campaign_name : str, optional
-        Campaign name (eg :  EPFL_ROOF_2012). If not provided, all campaigns will be downloaded, by default None
+        Campaign name (eg :  EPFL_ROOF_2012).
+        If not provided (None), all campaigns will be downloaded.
+        The default is campaign_name=None
     station_name : str, optional
-        Station name. If not provided, all stations will be downloaded, by default None
+        Station name. 
+        If not provided (None), all stations will be downloaded.
+        The default is station_name=None
     overwrite : bool, optional
-        Overwrite the raw data file is already existing, by default False
+        If True, overwrite the already existing raw data file.
+        The default is False.
     """
 
     for file in get_list_urls_files(data_source, campaign_name, station_name):
