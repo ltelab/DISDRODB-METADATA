@@ -35,9 +35,10 @@ The **metadata YAML** file contains relevant information of the station (e.g. ty
 
 
 
-## How to download or upload data ?
-
-Please refer to official documentation : [DISDRODB - Data](https://disdrodb.readthedocs.io/en/latest/data.html)
+## How to download or contribute to the project with your own data ?
 
 
+Please refer to official documentation : 
+* [DISDRODB - Contributing guide](https://disdrodb.readthedocs.io/en/latest/contributors_guidelines.html)
+* [DISDRODB - Data](https://disdrodb.readthedocs.io/en/latest/data.html)
 
