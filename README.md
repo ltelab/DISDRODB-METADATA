@@ -13,7 +13,7 @@ DISDRODB standards are being established following FAIR data best practices and 
 
 ## Folders structure
 
-The folder structure is composed of many data source (`DATA_SOURCE_1` eg. "EPFL") that contain one or many campaign (`CAMPAIGN_NAME_1` eg "EPFL_ROOF_2012" ). One campaign has one or many stations (`station_name_1`). Each station folder includes a json file to referance the file url and name.
+The folder structure is composed of many data source (`DATA_SOURCE_1` eg. "EPFL") that contain one or many campaign (`CAMPAIGN_NAME_1` eg "EPFL_ROOF_2012" ). One campaign has one or many stations (`station_name_1`).
 
 ```
   📁 DISDRODB
