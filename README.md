@@ -1,8 +1,8 @@
-# DISDRODB - A package to standardize, process and analyze global disdrometer data - Data repository
+# DISDRODB Metadata Repository
 
 **Main project repository** : [GitHub - ltelab/disdrodb](https://github.com/ltelab/disdrodb)
 
-This repository contains the disdrodb **folder structure**, **configuration** and **links** to download the raw disdrometer measurements.
+This repository contains the disdrodb **folder structure**, **metadata** and **links** to download the raw disdrometer measurements.
 
 DISDRODB is part of an initial effort to index, collect and homogenize drop size distribution (DSD) data sets across the globe, as well as to establish a global standard for disdrometers observations data sharing.
 
