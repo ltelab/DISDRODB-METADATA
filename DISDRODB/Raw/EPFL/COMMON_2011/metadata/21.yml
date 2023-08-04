@@ -22,9 +22,9 @@ continent: Europe
 latitude: 47.4138
 longitude: 8.6357
 altitude: 435
-deployment_status: ''
+eployment_status: 'terminated'
 deployment mode: ''
-platform_protection: ''
+platform_protection: 'unshielded'
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -41,12 +41,12 @@ calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: ''
-authors: ''
-authors_url: ''
-contact: ''
+authors: 'Alexis Berne, Joel Jaffrain, Marc Schleiss'
+authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-4667-5500'
+contact: 'alexis.berne@epfl.ch'
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
-references: ''
+references: 'https://doi.org/10.5194/amt-5-1847-2012'
 documentation: ''
 website: ''
 institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
