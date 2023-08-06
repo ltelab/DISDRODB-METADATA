@@ -40,9 +40,9 @@ measurement_interval: 30
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
-contributors: Alexis Berne, Jacopo Grazioli
-authors: Alexis Berne, Jacopo Grazioli
-authors_url: ''
+contributors: Alexis Berne, Jacopo Grazioli, Tim Raupach, Marc Schleiss
+authors: Alexis Berne, Jacopo Grazioli, Tim Raupach, Marc Schleiss
+authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0003-3336-7610, https://orcid.org/0000-0002-4667-5500'
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
