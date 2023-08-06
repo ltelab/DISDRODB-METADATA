@@ -16,12 +16,12 @@ summary: ''
 history: ''
 comment: 'Location of the instrument reconstructed indirectly some years apart. Location error may be possible. '
 station_id: '30'
-location: "Ard\xE8che"
-country: 'France'
-continent: 'Europe'
-latitude: 44.579
-longitude: 4.5011
-altitude: 271
+location: 'Les Blaches'
+country: France
+continent: Europe
+latitude: 44.6008
+longitude: 4.481
+altitude: 429
 deployment_status: 'terminated'
 deployment mode: ''
 platform_protection: 'unshielded'
