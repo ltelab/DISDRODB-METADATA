@@ -16,12 +16,12 @@ summary: ''
 history: ''
 comment: ''
 station_id: '31'
-location: "Ard\xE8che"
+location: 'Saint-Germain'
 country: France
 continent: Europe
-latitude: 44.6008
-longitude: 4.481
-altitude: 429
+latitude: 44.5551
+longitude: 4.4497
+altitude: 212
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''
