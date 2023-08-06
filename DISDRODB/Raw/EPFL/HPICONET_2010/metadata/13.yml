@@ -1,6 +1,6 @@
 data_source: EPFL
 campaign_name: HPICONET_2010
-station_name: '10'
+station_name: '13'
 sensor_name: OTT_Parsivel
 reader: EPFL/HPICONET_2010
 raw_data_format: txt
