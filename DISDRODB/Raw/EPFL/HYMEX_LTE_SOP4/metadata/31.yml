@@ -9,22 +9,22 @@ source: ''
 source_convention: ''
 source_processing_date: ''
 title: HYMEX_LTE_SOP4
-description: ''
-project_name: HYMEX_LTE_SOP4
+description: HYdrological cycle in the Mediterranean EXperiment (2014)
+project_name: HYdrological cycle in the Mediterranean EXperiment (2014)
 keywords: ''
 summary: ''
 history: ''
-comment: ''
+comment: 'This station had a different ID (30) in the previous campaign of the same location (HYMEX_LTE_SOP2), in 2012'
 station_id: '31'
-location: ''
-country: ''
-continent: ''
-latitude: -9999
-longitude: -9999
-altitude: -9999
-deployment_status: ''
+location: 'Les Blaches'
+country: France
+continent: Europe
+latitude: 44.6008
+longitude: 4.481
+altitude: 429
+deployment_status: 'terminated'
 deployment mode: ''
-platform_protection: ''
+platform_protection: 'unshielded'
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -40,17 +40,17 @@ measurement_interval: ''
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
-contributors: ''
-authors: ''
-authors_url: ''
-contact: ''
+contributors: Alexis Berne, Jacopo Grazioli, Tim Raupach
+authors: Alexis Berne, Jacopo Grazioli, Tim Raupach
+authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0003-3336-7610'
+contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
 references: ''
 documentation: ''
-website: ''
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
-source_repository: ''
+website: https://hymex.org/
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
+source_repository: https://mistrals.sedoo.fr/HyMeX/
 license: ''
 doi: ''
