@@ -22,9 +22,9 @@ continent: Europe
 latitude: 44.5551
 longitude: 4.4497
 altitude: 212
-deployment_status: ''
+deployment_status: 'terminated'
 deployment mode: ''
-platform_protection: ''
+platform_protection: 'unshielded'
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
