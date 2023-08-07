@@ -1,5 +1,5 @@
 data_source: EPFL
-campaign_name: HYMEX_LTE_SOP3
+campaign_name: HYMEX_LTE_SOP4
 station_name: '12'
 sensor_name: OTT_Parsivel
 reader: EPFL/HYMEX_LTE_SOP4
