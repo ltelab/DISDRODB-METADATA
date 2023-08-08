@@ -14,7 +14,7 @@ project_name: HPICONET_2010
 keywords: ''
 summary: ''
 history: ''
-comment: 'Location of the instrument reconstructed indirectly some years apart. Location error may be possible. '
+comment: 'Location of the instrument reconstructed indirectly some years apart. Location error may be possible.'
 station_id: '11'
 location: 'Lussas'
 country: France
