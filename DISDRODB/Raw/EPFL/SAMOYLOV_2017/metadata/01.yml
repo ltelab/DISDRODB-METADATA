@@ -14,11 +14,11 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: ''
+comment: 'Data aquired as part of a student educational activity. '
 station_id: '01'
-location: ''
-country: ''
-continent: ''
+location: 'Samoylov'
+country: 'Russia'
+continent: 'Asia'
 latitude: -9999
 longitude: -9999
 altitude: -9999
