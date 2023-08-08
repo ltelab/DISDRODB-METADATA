@@ -40,7 +40,7 @@ measurement_interval: ''
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
-contributors: 
+contributors: ''
 authors: Alexis Berne, Jacopo Grazioli, Joel Jaffrain, Marc Schleiss
 authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0002-4667-5500'
 contact: alexis.berne@epfl.ch
