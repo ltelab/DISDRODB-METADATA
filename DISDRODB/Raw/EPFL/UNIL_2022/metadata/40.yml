@@ -14,17 +14,17 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: ''
-station_id: ''
+comment: 'A couple of co-located Parsivels installed in the University of Lausanne (Switzerland), on a rooftop'
+station_id: '40'
 location: 'Lausanne'
 country: 'Switzerland'
 continent: 'Europe'
-latitude: -9999
-longitude: -9999
-altitude: -9999
+latitude: 46.524
+longitude: 6.5840
+altitude: 390
 deployment_status: ''
 deployment mode: ''
-platform_protection: ''
+platform_protection: 'unshielded'
 platform_orientation: ''
 sensor_long_name: 'OTT Hydromet Parsivel'
 sensor_manufacturer: ''
@@ -40,17 +40,17 @@ measurement_interval: ''
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
-contributors: ''
-authors: ''
-authors_url: ''
-contact: ''
+contributors: Alexis Berne, Jacopo Grazioli, Loïc Gerber
+authors: Alexis Berne, Jacopo Grazioli
+authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0002-9565-8459, '
+contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
 references: ''
 documentation: ''
-website: ''
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
-source_repository: ''
+website: 
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
+source_repository: 
 license: ''
 doi: ''
