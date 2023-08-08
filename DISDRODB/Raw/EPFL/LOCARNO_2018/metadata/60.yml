@@ -24,7 +24,7 @@ longitude: 8.7916367
 altitude: 1671
 deployment_status: 'terminated'
 deployment mode: ''
-platform_protection: 'unshielded''
+platform_protection: 'unshielded'
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
