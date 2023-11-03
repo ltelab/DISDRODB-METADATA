@@ -16,13 +16,13 @@ summary: ''
 history: ''
 comment: 'Data aquired as part of a student educational activity. '
 station_id: '01'
-location: 'Samoylov'
-country: 'Russia'
-continent: 'Asia'
+location: Samoylov
+country: Russia
+continent: Asia
 latitude: -9999
 longitude: -9999
 altitude: -9999
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
@@ -40,10 +40,10 @@ measurement_interval: ''
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
-contributors: 'Alexis Berne, Christophe Praz'
+contributors: Alexis Berne, Christophe Praz
 authors: ''
 authors_url: ''
-contact: 'alexis.berne@epfl.ch'
+contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
 references: ''
@@ -54,3 +54,4 @@ institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechniqu
 source_repository: ''
 license: ''
 doi: ''
+disdrodb_data_url: ''

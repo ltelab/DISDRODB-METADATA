@@ -9,8 +9,9 @@ source: ''
 source_convention: ''
 source_processing_date: ''
 title: RACLETS_2019
-description: 'Role of Aerosols and CLouds Enhanced by Topography on Snow (RACLETS). Campaign in collaboration between multiple institutions.'
-project_name: 'Role of Aerosols and CLouds Enhanced by Topography on Snow (RACLETS)'
+description: Role of Aerosols and CLouds Enhanced by Topography on Snow (RACLETS).
+  Campaign in collaboration between multiple institutions.
+project_name: Role of Aerosols and CLouds Enhanced by Topography on Snow (RACLETS)
 keywords: ''
 summary: ''
 history: ''
@@ -22,9 +23,9 @@ continent: Europe
 latitude: 46.8533258
 longitude: 9.8755642
 altitude: 1483
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
-platform_protection: 'unshielded'
+platform_protection: unshielded
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -48,9 +49,10 @@ contact_information: http://lte.epfl.ch
 acknowledgement: ''
 references: ''
 documentation: ''
-website: 'https://www.envidat.ch/group/about/raclets-field-campaign'
+website: https://www.envidat.ch/group/about/raclets-field-campaign
 institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
   Federale de Lausanne
 source_repository: ''
 license: ''
 doi: ''
+disdrodb_data_url: ''
