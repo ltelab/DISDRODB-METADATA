@@ -1,0 +1,32 @@
+name: disdrodb
+channels:
+  - conda-forge
+dependencies:
+  - click
+  - pyyaml
+  - tqdm
+  - pooch
+  - donfig
+  - requests
+  - trollsift
+  - h5py
+  - netcdf4
+  - pyarrow
+  - pandas
+  - dask[distributed]
+  - xarray
+  # Docs
+  - jupyter
+  - sphinx=5.1.1
+  - sphinx-book-theme=1.0.1
+  - nbsphinx=0.8.9
+  # Testing
+  - setuptools
+  - pre_commit
+  - coverage
+  - pytest
+  - pytest-cov
+  - pytest-mock
+  - requests-mock
+  - pydantic
+  - pip
