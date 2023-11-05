@@ -35,6 +35,6 @@ Each **issue YAML** file reports timesteps or time periods with instrument malfu
 * [How to Update DISDRODB Metadata?](https://disdrodb.readthedocs.io/en/latest/metadata_archive.html)
 * [How to Contribute New Data to DISDRODB?](https://disdrodb.readthedocs.io/en/latest/contribute_data.html)
 * [How to Download DISDRODB data?](https://disdrodb.readthedocs.io/en/latest/data_download.html)
-* [What are the DISDRODB Contributing Guidelines](https://disdrodb.readthedocs.io/en/latest/contributors_guidelines.html)
+* [What are the DISDRODB Contributing Guidelines?](https://disdrodb.readthedocs.io/en/latest/contributors_guidelines.html)
 
 
