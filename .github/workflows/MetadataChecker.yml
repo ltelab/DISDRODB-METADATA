@@ -15,11 +15,7 @@ jobs:
           environment-file: ci/environment.yml
           create-args: "python=3.11"
           init-shell: bash
-          
-      - name: Install disdrodb  # To specify just disdrodb in the environment when installable with conda !
-        run: |
-          pip install -e .
- 
-      - name: Run a script
+         
+      - name: Run the DISDRODB Metadata Checker
         run: |
           disdrodb_check_metadata_archive --base_dir /home/runner/work/disdrodb-data/disdrodb-data/DISDRODB
