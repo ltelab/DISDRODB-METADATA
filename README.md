@@ -1,6 +1,6 @@
 # Welcome to the DISDRODB Metadata Archive
 
-**Main project repository** : [GitHub - ltelab/disdrodb](https://github.com/ltelab/disdrodb)
+**Main project repository** : [disdrodb](https://github.com/ltelab/disdrodb)
 
 This repository contains the DISDRODB Metadata Archive: **metadata** and **urls** to download raw disdrometer measurements from the DISDRODB Decentralized Data Archive.
 
