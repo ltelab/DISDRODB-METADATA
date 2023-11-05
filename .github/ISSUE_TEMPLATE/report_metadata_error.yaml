@@ -1,0 +1,16 @@
+name: ⚠️ Report metadata errors 
+description: Describe the stations metadata which contain errors
+title: "[FEATURE] <title>"
+labels: [enhancement, triage]
+body:
+- type: textarea
+  attributes:
+    label: Describe the stations metadata which contain erroneous information !
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional context.
+    description: Add any other context or information about the concerned stations.
+  validations:
+    required: false 
