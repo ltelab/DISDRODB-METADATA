@@ -17,12 +17,12 @@ history: ''
 comment: ''
 station_id: '63'
 location: ''
-country: 'Russia'
-continent: 'Asia'
+country: Russia
+continent: Asia
 latitude: -9999
 longitude: -9999
 altitude: -9999
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
@@ -54,3 +54,4 @@ institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechniqu
 source_repository: ''
 license: ''
 doi: ''
+disdrodb_data_url: ''

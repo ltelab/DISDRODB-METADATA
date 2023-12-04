@@ -14,7 +14,7 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: 'Instrument installed at the MeteoSwiss site in Locarno-Monti (Switzerland)'
+comment: Instrument installed at the MeteoSwiss site in Locarno-Monti (Switzerland)
 station_id: '61'
 location: Locarno-Monti
 country: Switzerland
@@ -22,9 +22,9 @@ continent: Europe
 latitude: 46.17259
 longitude: 8.7874267
 altitude: 369
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
-platform_protection: 'unshielded'
+platform_protection: unshielded
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -42,7 +42,7 @@ calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: Alexis Berne, Jacopo Grazioli
 authors: Alexis Berne, Jacopo Grazioli
-authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946'
+authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
@@ -54,3 +54,4 @@ institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique
 source_repository: ''
 license: ''
 doi: ''
+disdrodb_data_url: ''

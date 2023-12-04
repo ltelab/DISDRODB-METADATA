@@ -14,7 +14,8 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: 'Installation terminated early because of instrumental issues. Instrument installed within a MeteoSwiss ground station'
+comment: Installation terminated early because of instrumental issues. Instrument
+  installed within a MeteoSwiss ground station
 station_id: '60'
 location: Cardada
 country: Switzerland
@@ -22,9 +23,9 @@ continent: Europe
 latitude: 46.2005117
 longitude: 8.7916367
 altitude: 1671
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
-platform_protection: 'unshielded'
+platform_protection: unshielded
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -42,7 +43,7 @@ calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: Alexis Berne, Jacopo Grazioli
 authors: Alexis Berne, Jacopo Grazioli
-authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946'
+authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
@@ -54,3 +55,4 @@ institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique
 source_repository: ''
 license: ''
 doi: ''
+disdrodb_data_url: ''

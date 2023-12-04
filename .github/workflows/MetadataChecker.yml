@@ -1,0 +1,24 @@
+name: Check Metadata Archive Compliance
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up micromamba
+        uses: mamba-org/setup-micromamba@v1
+        with:
+          environment-file: ci/environment.yml
+          create-args: "python=3.11"
+          init-shell: bash
+      - name: Install disdrodb # In future install from micromamba 
+        run: |
+          pip install disdrodb
+      
+      - name: Run the DISDRODB Metadata Checker
+        run: |
+          disdrodb_check_metadata_archive --base_dir /home/runner/work/disdrodb-data/disdrodb-data/DISDRODB

@@ -14,17 +14,17 @@ project_name: HYdrological cycle in the Mediterranean EXperiment (2014)
 keywords: ''
 summary: ''
 history: ''
-comment: 'Station 32 and 33 are co-located Parsivels'
+comment: Station 32 and 33 are co-located Parsivels
 station_id: '32'
-location: "Ardeche"
+location: Ardeche
 country: France
 continent: Europe
 latitude: 44.5829
 longitude: 4.4987
 altitude: 278
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
-platform_protection: 'unshielded'
+platform_protection: unshielded
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -42,7 +42,8 @@ calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: Alexis Berne, Jacopo Grazioli, Tim Raupach
 authors: Alexis Berne, Jacopo Grazioli, Tim Raupach
-authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0003-3336-7610'
+authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946,
+  https://orcid.org/0000-0003-3336-7610
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
@@ -54,3 +55,4 @@ institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique
 source_repository: https://mistrals.sedoo.fr/HyMeX/
 license: ''
 doi: ''
+disdrodb_data_url: ''

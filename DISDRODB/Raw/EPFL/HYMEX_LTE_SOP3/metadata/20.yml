@@ -14,17 +14,18 @@ project_name: HYdrological cycle in the Mediterranean EXperiment (2013)
 keywords: ''
 summary: ''
 history: ''
-comment: 'Instrument co-deployed with a MRR (Micro Rain Radar) and a X-band dual-polarization radar'
+comment: Instrument co-deployed with a MRR (Micro Rain Radar) and a X-band dual-polarization
+  radar
 station_id: '20'
-location: 'Montbrun'
-country: 'France'
-continent: 'Europe'
+location: Montbrun
+country: France
+continent: Europe
 latitude: 44.6139
 longitude: 4.5462
 altitude: 602
-deployment_status: 'terminated'
+deployment_status: terminated
 deployment mode: ''
-platform_protection: 'unshielded'
+platform_protection: unshielded
 platform_orientation: ''
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
@@ -42,7 +43,8 @@ calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: Alexis Berne, Jacopo Grazioli, Tim Raupach, Marc Schleiss
 authors: Alexis Berne, Jacopo Grazioli, Tim Raupach, Marc Schleiss
-authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0003-3336-7610, https://orcid.org/0000-0002-4667-5500'
+authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946,
+  https://orcid.org/0000-0003-3336-7610, https://orcid.org/0000-0002-4667-5500
 contact: ''
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
@@ -54,3 +56,4 @@ institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechniqu
 source_repository: ''
 license: ''
 doi: ''
+disdrodb_data_url: ''

@@ -1,0 +1,16 @@
+name: 📝 Add new metadata 
+description: Describe the stations new metadata 
+title: "[FEATURE] <title>"
+labels: [enhancement, triage]
+body:
+- type: textarea
+  attributes:
+    label: Describe the stations metadata you would like to add !
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional context.
+    description: Add any other context or information about the data you would like to contribute.
+  validations:
+    required: false 
