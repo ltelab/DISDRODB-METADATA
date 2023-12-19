@@ -55,4 +55,4 @@ institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique
 source_repository: https://mistrals.sedoo.fr/HyMeX/
 license: ''
 doi: ''
-disdrodb_data_url: ''
+disdrodb_data_url: https://zenodo.org/records/10361081/files/EPFL-HYMEX_LTE_SOP2-10.zip?download=1
