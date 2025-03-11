@@ -37,20 +37,22 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 30
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
-contributors: "Alexis Berne, Jacopo Grazioli, Loic Gerber"
+contributors: Alexis Berne, Jacopo Grazioli, Loic Gerber
 authors: Alexis Berne, Jacopo Grazioli
-authors_url: 'https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946, https://orcid.org/0000-0002-9565-8459'
+authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946,
+  https://orcid.org/0000-0002-9565-8459
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
 acknowledgement: ''
 references: ''
 documentation: ''
 website: ''
-institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale de Lausanne
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
 source_repository: ''
 license: ''
 doi: ''

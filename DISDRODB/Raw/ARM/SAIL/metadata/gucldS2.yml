@@ -22,7 +22,7 @@ continent: ''
 latitude: 38.89836
 longitude: -106.94314
 altitude: 3137.0
-deployment_status: ''
+deployment_status: terminated
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
@@ -36,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 60
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
@@ -46,7 +46,10 @@ authors_url: ''
 contact: ''
 contact_information: ''
 acknowledgement: ''
-references: ''
+references: Atmospheric Radiation Measurement (ARM) user facility. 2021. Laser Disdrometer
+  (LD). ARM Mobile Facility (GUC) Gunnison, CO; Supplemental Facility 2 (S2).  Compiled
+  by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-17 at
+  http://dx.doi.org/10.5439/1973058.
 documentation: ''
 website: ''
 institution: ''

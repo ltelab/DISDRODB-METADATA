@@ -22,7 +22,7 @@ continent: North America
 latitude: 71.32
 longitude: -156.609
 altitude: 8.0
-deployment_status: ''
+deployment_status: ongoing
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
@@ -36,7 +36,7 @@ firmware_version: 5.4110.11.100
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 60
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
