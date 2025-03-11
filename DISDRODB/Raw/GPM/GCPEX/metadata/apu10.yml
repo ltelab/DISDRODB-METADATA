@@ -21,7 +21,7 @@ country: Canada
 continent: North America
 latitude: 44.176469
 longitude: -79.919203
-altitude: -9999
+altitude: 264.0
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''
@@ -36,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 10
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''

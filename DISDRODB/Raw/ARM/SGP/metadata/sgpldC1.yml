@@ -14,15 +14,15 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: ''
+comment: Co-located with station sgpldE13
 station_id: sgpldC1
-location: Lamont, Oklahoma
+location: Central Facility, Lamont, Oklahoma
 country: USA
 continent: North America
 latitude: 36.605
 longitude: -97.485
 altitude: 318
-deployment_status: ''
+deployment_status: ongoing
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
@@ -36,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 60
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
@@ -46,7 +46,9 @@ authors_url: ''
 contact: ''
 contact_information: ''
 acknowledgement: ''
-references: ''
+references: Atmospheric Radiation Measurement (ARM) user facility. 2016. Laser Disdrometer
+  (LD). Southern Great Plains (SGP) Central Facility, Lamont, OK (C1). Compiled by
+  Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058.
 documentation: ''
 website: ''
 institution: ''

@@ -21,7 +21,7 @@ country: Mexico
 continent: South America
 latitude: 19.208723
 longitude: -99.152711
-altitude: -9999.0
+altitude: 2760.0
 deployment_status: ''
 deployment mode: ''
 platform_protection: ''
@@ -36,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 60
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''

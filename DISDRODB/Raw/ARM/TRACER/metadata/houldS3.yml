@@ -22,7 +22,7 @@ continent: ''
 latitude: 29.328
 longitude: -95.741
 altitude: 20.0
-deployment_status: ''
+deployment_status: terminated
 deployment mode: ''
 platform_protection: ''
 platform_orientation: ''
@@ -36,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 60
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
@@ -46,7 +46,10 @@ authors_url: ''
 contact: ''
 contact_information: ''
 acknowledgement: ''
-references: ''
+references: 'Atmospheric Radiation Measurement (ARM) user facility. 2022. Laser Disdrometer
+  (LD). ARM Mobile Facility (HOU) Houston, TX; Supplemental Facility 3 for ANC: upwind
+  site for summer iop (S3).  Compiled by Z. Zhu, D. Wang and Y. Shi. ARM Data Center.
+  Data set accessed 2024-12-17 at http://dx.doi.org/10.5439/1973058.'
 documentation: ''
 website: ''
 institution: ''

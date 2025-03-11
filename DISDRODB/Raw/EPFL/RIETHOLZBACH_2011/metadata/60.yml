@@ -21,7 +21,7 @@ country: Switzerland
 continent: Europe
 latitude: 47.380422
 longitude: 8.99358
-altitude: 262
+altitude: 762
 deployment_status: terminated
 deployment mode: ''
 platform_protection: unshielded
@@ -36,7 +36,7 @@ firmware_version: ''
 sensor_beam_length: ''
 sensor_beam_width: ''
 sensor_nominal_width: ''
-measurement_interval: ''
+measurement_interval: 30
 calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
