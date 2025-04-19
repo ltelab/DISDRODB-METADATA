@@ -1,4 +1,4 @@
-data_source: EPFL
+dummy_attribute: "dummy"
 campaign_name: ARCTIC_2021
 station_name: '41'
 sensor_name: OTT_Parsivel2
