@@ -3,6 +3,7 @@ campaign_name: COMBLE
 station_name: anxldS2
 sensor_name: OTT_Parsivel2
 reader: ARM/ARM_LD
+raw_data_glob_pattern: "*.cdf"
 raw_data_format: netcdf
 platform_type: fixed
 source: ''

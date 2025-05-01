@@ -2,7 +2,8 @@ data_source: BRAZIL
 campaign_name: CHUVA
 station_name: belem_outeiro_rd80
 sensor_name: RD_80
-reader: BRAZIL/CHUVA_RD80
+reader: BRAZIL/
+raw_data_glob_pattern: "DISL*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

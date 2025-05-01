@@ -3,6 +3,7 @@ campaign_name: SNOWIE
 station_name: CU_SNOW_BANK
 sensor_name: OTT_Parsivel2
 reader: NCAR/SNOWIE_SB
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 platform_type: fixed
 source: ''

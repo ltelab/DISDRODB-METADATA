@@ -3,6 +3,7 @@ campaign_name: PLOWS
 station_name: '01'
 sensor_name: OTT_Parsivel
 reader: NCAR/PLOWS_MIPS
+raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
 platform_type: fixed
 source: ''

@@ -3,6 +3,7 @@ campaign_name: PECAN
 station_name: IOP21_1
 sensor_name: OTT_Parsivel
 reader: NCAR/PECAN_MOBILE
+raw_data_glob_pattern: "*.dat*"
 raw_data_format: txt
 platform_type: fixed
 source: https://data.eol.ucar.edu/dataset/485.065

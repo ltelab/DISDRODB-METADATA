@@ -3,6 +3,7 @@ campaign_name: RELAMPAGO
 station_name: sao_borja_rd80
 sensor_name: RD_80
 reader: NCAR/RELAMPAGO_RD80
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 platform_type: fixed
 source: ''

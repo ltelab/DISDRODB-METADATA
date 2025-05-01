@@ -3,6 +3,7 @@ campaign_name: GOAMAZON
 station_name: st_atto_rd80
 sensor_name: RD_80
 reader: BRAZIL/GOAMAZON_RD80
+raw_data_glob_pattern: "*/*/DISL*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

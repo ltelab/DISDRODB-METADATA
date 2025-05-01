@@ -3,6 +3,7 @@ campaign_name: CHUVA
 station_name: alcantara_inpe_ott
 sensor_name: OTT_Parsivel2
 reader: BRAZIL/CHUVA_OTT
+raw_data_glob_pattern: "DISL*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

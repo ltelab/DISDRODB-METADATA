@@ -3,6 +3,7 @@ campaign_name: IFLOODS
 station_name: apu02
 sensor_name: OTT_Parsivel
 reader: GPM/IFLOODS
+raw_data_glob_pattern: "*_raw.txt"
 raw_data_format: txt
 platform_type: fixed
 source: ''

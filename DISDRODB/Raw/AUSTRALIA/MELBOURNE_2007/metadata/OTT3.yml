@@ -3,6 +3,7 @@ campaign_name: MELBOURNE_2007
 station_name: OTT3
 sensor_name: OTT_Parsivel
 reader: AUSTRALIA/MELBOURNE_2007_OTT
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 platform_type: fixed
 source: ''

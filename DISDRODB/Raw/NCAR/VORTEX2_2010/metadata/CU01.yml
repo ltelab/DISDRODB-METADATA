@@ -3,6 +3,7 @@ campaign_name: VORTEX2_2010
 station_name: CU01
 sensor_name: OTT_Parsivel
 reader: NCAR/VORTEX2_2010
+raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
 platform_type: fixed
 source: ''

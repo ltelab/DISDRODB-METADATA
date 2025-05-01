@@ -3,6 +3,7 @@ campaign_name: RACLETS_2019
 station_name: '52'
 sensor_name: OTT_Parsivel
 reader: EPFL/RACLETS_2019_WJF
+raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
 source: ''

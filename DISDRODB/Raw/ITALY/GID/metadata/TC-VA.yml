@@ -3,6 +3,7 @@ campaign_name: GID
 station_name: TC-VA
 sensor_name: Thies_LPM
 reader: ITALY/GID
+raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

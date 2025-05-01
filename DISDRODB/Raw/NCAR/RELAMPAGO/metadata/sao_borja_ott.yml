@@ -3,6 +3,7 @@ campaign_name: RELAMPAGO
 station_name: sao_borja_ott
 sensor_name: OTT_Parsivel2
 reader: NCAR/RELAMPAGO_OTT
+raw_data_glob_pattern: "*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

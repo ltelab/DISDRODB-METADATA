@@ -3,6 +3,7 @@ campaign_name: GID
 station_name: P2-CE
 sensor_name: OTT_Parsivel2
 reader: ITALY/GID
+raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

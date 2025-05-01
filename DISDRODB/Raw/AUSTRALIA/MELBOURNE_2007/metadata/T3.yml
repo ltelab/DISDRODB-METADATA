@@ -3,6 +3,7 @@ campaign_name: MELBOURNE_2007
 station_name: T3
 sensor_name: Thies_LPM
 reader: AUSTRALIA/MELBOURNE_2007_THIES
+raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed
 source: ''

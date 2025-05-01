@@ -3,6 +3,7 @@ campaign_name: EPFL_ROOF_2012
 station_name: '40'
 sensor_name: OTT_Parsivel
 reader: EPFL/EPFL_ROOF_2012
+raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
 source: ''

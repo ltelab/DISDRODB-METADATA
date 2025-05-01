@@ -3,6 +3,7 @@ campaign_name: HPICONET_2010
 station_name: '33'
 sensor_name: OTT_Parsivel
 reader: EPFL/HPICONET_2010
+raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
 source: ''

@@ -3,6 +3,7 @@ campaign_name: DELFT
 station_name: PAR003
 sensor_name: OTT_Parsivel2
 reader: NETHERLANDS/DELFT
+raw_data_glob_pattern: "*/*/*.csv"
 raw_data_format: txt
 platform_type: fixed
 source: ''

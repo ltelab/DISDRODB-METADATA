@@ -3,6 +3,7 @@ campaign_name: EPFL_2009
 station_name: '20'
 sensor_name: OTT_Parsivel
 reader: EPFL/EPFL_2009
+raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
 disdrodb_data_url: https://zenodo.org/records/10361061/files/EPFL-EPFL_2009-20.zip?download=1

@@ -3,6 +3,7 @@ campaign_name: CINDY_2011
 station_name: RV-Mirai
 sensor_name: RD_80
 reader: NCAR/CINDY_2011_RD80
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 platform_type: fixed
 source: ''

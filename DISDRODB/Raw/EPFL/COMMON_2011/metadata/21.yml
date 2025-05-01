@@ -3,6 +3,7 @@ campaign_name: COMMON_2011
 station_name: '21'
 sensor_name: OTT_Parsivel
 reader: EPFL/COMMON_2011
+raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
 source: ''

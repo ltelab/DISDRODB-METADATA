@@ -3,6 +3,7 @@ campaign_name: VORTEX_SE_2016
 station_name: PIPS1A_special
 sensor_name: OTT_Parsivel2
 reader: NCAR/VORTEX_SE_2016_PIPS
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 platform_type: mobile
 source: https://data.eol.ucar.edu/project/VORTEX-SE_2016
