@@ -1,16 +1,16 @@
-name: 📝 Update existing metadata 
+name: 📝 Update existing metadata
 description: Describe the stations metadata which require an update !
 title: "[FEATURE] <title>"
 labels: [enhancement, triage]
 body:
-- type: textarea
-  attributes:
-    label: Describe the stations metadata you would like to update !
-  validations:
-    required: false
-- type: textarea
-  attributes:
-    label: Additional context.
-    description: Add any other context or information about the concerned stations.
-  validations:
-    required: false 
+  - type: textarea
+    attributes:
+      label: Describe the stations metadata you would like to update !
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional context.
+      description: Add any other context or information about the concerned stations.
+    validations:
+      required: false

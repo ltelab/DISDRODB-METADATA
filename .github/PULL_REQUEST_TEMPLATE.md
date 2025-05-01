@@ -24,8 +24,8 @@
 
 # Summary
 
-Please describe briefly the station metadata you are adding or updating. 
+Please describe briefly the station metadata you are adding or updating.
 
 # Comments
 
-Any relevant comments. 
+Any relevant comments.
