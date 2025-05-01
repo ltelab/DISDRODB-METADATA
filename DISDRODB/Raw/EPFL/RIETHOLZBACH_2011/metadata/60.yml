@@ -1,22 +1,22 @@
 data_source: EPFL
 campaign_name: RIETHOLZBACH_2011
-station_name: '60'
+station_name: "60"
 sensor_name: OTT_Parsivel
 reader: EPFL/RIETHOLZBACH_2011
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: RIETHOLZBACH_2011
 description: Project in collaboration between EPFL-LTE, Lausanne, and ETH
-project_name: ''
-keywords: ''
-summary: ''
-history: ''
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
 comment: A couple of co-located Parsivel was deployed on-site
-station_id: '60'
+station_id: "60"
 location: Rietholzbach research site
 country: Switzerland
 continent: Europe
@@ -24,35 +24,36 @@ latitude: 47.380422
 longitude: 8.99358
 altitude: 762
 deployment_status: terminated
-deployment mode: ''
+deployment mode: ""
 platform_protection: unshielded
-platform_orientation: ''
+platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 30
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
 contributors: Alexis Berne, Jacopo Grazioli, Franziska Aemisegger (ETH)
 authors: Alexis Berne, Jacopo Grazioli
 authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
-acknowledgement: ''
-references: ''
-documentation: ''
-website: ''
-institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution:
+  Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
   de Lausanne
-source_repository: ''
-license: ''
-doi: ''
-disdrodb_data_url: ''
+source_repository: ""
+license: ""
+doi: ""
+disdrodb_data_url: ""

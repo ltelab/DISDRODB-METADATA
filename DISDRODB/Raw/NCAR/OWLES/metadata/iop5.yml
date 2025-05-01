@@ -6,52 +6,52 @@ reader: NCAR/OWLES_MIPS
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: UAH MIPS Parsivel Disdrometer Data
-description: ''
+description: ""
 project_name: OWLeS
-keywords: ''
-summary: ''
-history: ''
+keywords: ""
+summary: ""
+history: ""
 comment: No UWKA flight but successful sounding launches yielded good data.
 station_id: iop5
-location: ''
+location: ""
 country: USA
 continent: North America
 latitude: -9999
 longitude: -9999
 altitude: -9999
-deployment_status: ''
-deployment mode: ''
-platform_protection: ''
-platform_orientation: ''
+deployment_status: ""
+deployment mode: ""
+platform_protection: ""
+platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 10
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
-contributors: ''
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
 authors: Dustin Phillips, Kevin Knupp
-authors_url: ''
+authors_url: ""
 contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ''
-references: ''
+acknowledgement: ""
+references: ""
 documentation: https://data.eol.ucar.edu/datafile/nph-get/382.034/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
 website: https://data.eol.ucar.edu/dataset/382.034
 institution: EOL Data
-source_repository: ''
-license: ''
+source_repository: ""
+license: ""
 doi: https://doi.org/10.26023/33H3-H9EE-7M0F
-disdrodb_data_url: ''
+disdrodb_data_url: ""

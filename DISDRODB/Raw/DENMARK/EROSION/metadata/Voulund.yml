@@ -6,20 +6,21 @@ reader: DENMARK/EROSION_nc
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: Precipitation data from a disdrometer installed at Voulund, Denmark
-description: This dataset consists of 1-minute precipitation measurements observed
+description:
+  This dataset consists of 1-minute precipitation measurements observed
   with a OTT Parsivel2 installed on the ground at Voulund, Denmark, a site of the
   Danish Meteorological Institute (DMI). The period includes around 1.67 years of
   measurements. See https://doi.org/10.1127/metz/2021/1063 for more details about
   the station.
-project_name: ''
-keywords: ''
-summary: ''
-history: ''
-comment: ''
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
 station_id: Voulund - DMI station
 location: Voulund - DMI station
 country: Denmark
@@ -27,35 +28,35 @@ continent: Europe
 latitude: 56.0372
 longitude: 9.1594
 altitude: -9999.0
-deployment_status: ''
-deployment mode: ''
-platform_protection: ''
-platform_orientation: ''
+deployment_status: ""
+deployment mode: ""
+platform_protection: ""
+platform_orientation: ""
 sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 60
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
 contributors: Anna-Maria Tilg
 authors: Charlotte Hasager,  Flemming Vejen
-authors_url: ''
-contact: ''
-contact_information: ''
-acknowledgement: ''
-references: ''
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: ""
 documentation: https://www.rain-erosion.dk/publication
 website: https://www.rain-erosion.dk/
 institution: Innovationsfonden
-source_repository: ''
-license: ''
+source_repository: ""
+license: ""
 doi: https://doi.org/10.11583/DTU.14501628.v1
-disdrodb_data_url: ''
+disdrodb_data_url: ""

@@ -1,22 +1,22 @@
 data_source: EPFL
 campaign_name: SAMOYLOV_2017
-station_name: '01'
+station_name: "01"
 sensor_name: OTT_Parsivel
 reader: EPFL/SAMOYLOV_2017
 raw_data_glob_pattern: "*.log.gz"
 raw_data_format: txt
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: SAMOYLOV_2017
-description: ''
-project_name: ''
-keywords: ''
-summary: ''
-history: ''
-comment: 'Data aquired as part of a student educational activity. '
-station_id: '01'
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: "Data aquired as part of a student educational activity. "
+station_id: "01"
 location: Samoylov
 country: Russia
 continent: Asia
@@ -24,35 +24,36 @@ latitude: -9999
 longitude: -9999
 altitude: -9999
 deployment_status: terminated
-deployment mode: ''
-platform_protection: ''
-platform_orientation: ''
+deployment mode: ""
+platform_protection: ""
+platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 30
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
 contributors: Alexis Berne, Christophe Praz
-authors: ''
-authors_url: ''
+authors: ""
+authors_url: ""
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
-acknowledgement: ''
-references: ''
-documentation: ''
-website: ''
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution:
+  Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
   Federale de Lausanne
-source_repository: ''
-license: ''
-doi: ''
-disdrodb_data_url: ''
+source_repository: ""
+license: ""
+doi: ""
+disdrodb_data_url: ""

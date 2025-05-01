@@ -6,55 +6,56 @@ reader: ARM/ARM_LD
 raw_data_glob_pattern: "*.cdf"
 raw_data_format: netcdf
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: ACE-ENA
 description: Aerosol and Cloud Experiments in the Eastern North Atlantic
-project_name: ''
-keywords: ''
-summary: ''
-history: ''
-comment: ''
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
 station_id: enaldC1
-location: 'C1: Graciosa Island, Azores'
+location: "C1: Graciosa Island, Azores"
 country: Portugal
 continent: Europe
 latitude: 39.0916
 longitude: 28.0257
 altitude: 30.48
 deployment_status: ongoing
-deployment mode: ''
-platform_protection: ''
-platform_orientation: ''
+deployment mode: ""
+platform_protection: ""
+platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 60
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
-contributors: ''
-authors: ''
-authors_url: ''
-contact: ''
-contact_information: ''
-acknowledgement: ''
-references: Atmospheric Radiation Measurement (ARM) user facility. 2014. Laser Disdrometer
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references:
+  Atmospheric Radiation Measurement (ARM) user facility. 2014. Laser Disdrometer
   (LD). Eastern North Atlantic (ENA) Graciosa Island, Azores, Portugal (C1).  Compiled
   by Z. Zhu, M. Bartholomew, D. Wang and Y. Shi. ARM Data Center. Data set accessed
   2024-12-13 at http://dx.doi.org/10.5439/1973058.
-documentation: ''
-website: ''
+documentation: ""
+website: ""
 institution: ARM
-source_repository: ''
-license: ''
-doi: ''
-disdrodb_data_url: ''
+source_repository: ""
+license: ""
+doi: ""
+disdrodb_data_url: ""

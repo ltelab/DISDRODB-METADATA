@@ -31,4 +31,4 @@ dependencies:
   - pydantic
   - pip
   - pip:
-    - disdrodb
+      - disdrodb

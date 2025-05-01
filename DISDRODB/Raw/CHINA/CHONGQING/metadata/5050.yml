@@ -1,58 +1,59 @@
 data_source: CHINA
 campaign_name: CHONGQING
-station_name: '5050'
+station_name: "5050"
 sensor_name: OTT_Parsivel
 reader: CHINA/CHONGQING
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: Chongqing
-description: ''
-project_name: Supporting Information for "Characteristics of Raindrop Size Distributions
+description: ""
+project_name:
+  Supporting Information for "Characteristics of Raindrop Size Distributions
   in Chongqing Observed by a Dense Network of Disdrometers
-keywords: ''
-summary: ''
-history: ''
-comment: ''
-station_id: '5050'
-location: ''
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: "5050"
+location: ""
 country: China
 continent: Asia
 latitude: 28.95
 longitude: 106.9333
 altitude: 325.3
-deployment_status: ''
-deployment mode: ''
-platform_protection: ''
-platform_orientation: ''
+deployment_status: ""
+deployment mode: ""
+platform_protection: ""
+platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 60
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
-contributors: ''
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
 authors: Xuancheng Liu, Lulin Xue, Baojun Chen, Yixuan Zhang
-authors_url: ''
-contact: ''
+authors_url: ""
+contact: ""
 contact_information: http://lte.epfl.ch
-acknowledgement: ''
-references: ''
-documentation: ''
-website: ''
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
 institution: Chongqing Weather Modification Office, Chongqing, China
-source_repository: ''
-license: ''
-doi: ''
-disdrodb_data_url: ''
+source_repository: ""
+license: ""
+doi: ""
+disdrodb_data_url: ""

@@ -1,22 +1,22 @@
 data_source: EPFL
 campaign_name: PARADISO_2014
-station_name: '40'
+station_name: "40"
 sensor_name: OTT_Parsivel
 reader: EPFL/PARADISO_2014
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 platform_type: fixed
-source: ''
-source_convention: ''
-source_processing_date: ''
+source: ""
+source_convention: ""
+source_processing_date: ""
 title: PARADISO_2014
 description: PAyerne RAdar Disdrometer and ISOtops
 project_name: PAyerne RAdar Disdrometer and ISOtops
-keywords: ''
-summary: ''
-history: ''
-comment: ''
-station_id: '40'
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: "40"
 location: Payerne (MeteoSwiss)
 country: Switzerland
 continent: Europe
@@ -24,35 +24,36 @@ latitude: 46.813323
 longitude: 6.942843
 altitude: 489
 deployment_status: terminated
-deployment mode: ''
+deployment mode: ""
 platform_protection: unshielded
-platform_orientation: ''
+platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
 measurement_interval: 30
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
 contributors: Alexis Berne, Jacopo Grazioli, Marc Schneebeli
 authors: Alexis Berne, Jacopo Grazioli, Marc Schneebeli
 authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
-acknowledgement: ''
-references: ''
-documentation: ''
-website: ''
-institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution:
+  Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
   de Lausanne
-source_repository: ''
-license: ''
-doi: ''
+source_repository: ""
+license: ""
+doi: ""
 disdrodb_data_url: https://zenodo.org/records/10360934/files/EPFL-PARADISO_2014-40.zip?download=1
