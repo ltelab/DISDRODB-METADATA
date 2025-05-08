@@ -8,3 +8,4 @@ DISDRODB/Raw/*/*/*/
 
 secret.yml
 venv
+node_modules
