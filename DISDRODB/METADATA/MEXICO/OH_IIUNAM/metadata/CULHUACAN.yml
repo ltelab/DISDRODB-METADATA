@@ -1,0 +1,57 @@
+data_source: MEXICO
+campaign_name: OH_IIUNAM
+station_name: CULHUACAN
+sensor_name: OTT_Parsivel2
+reader: MEXICO/OH_IIUNAM_nc
+raw_data_glob_pattern: "*.nc"
+raw_data_format: netcdf
+platform_type: fixed
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: ""
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: CULHUACAN
+location: Mexico city
+country: Mexico
+continent: South America
+latitude: 19.323112
+longitude: -99.105068
+altitude: -9999.0
+deployment_status: ""
+deployment mode: ""
+platform_protection: ""
+platform_orientation: ""
+sensor_long_name: ""
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+measurement_interval: 60
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Adrian Pedrozo-Acuna, Agustin Brena-Naranjo
+authors_url: ""
+contact: APedrozoA@iingen.unam.mx
+contact_information: APedrozoA@iingen.unam.mx, sarciniegae@comunidad.unam.mx
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution: ""
+source_repository: ""
+license: ""
+doi: ""
+disdrodb_data_url: ""
