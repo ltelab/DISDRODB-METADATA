@@ -1,8 +1,8 @@
 data_source: ARM
 campaign_name: SAIL
 station_name: gucldM1
-sensor_name: OTT_Parsivel2
-reader: ARM/ARM_LD
+sensor_name: PARSIVEL2
+reader: ARM/ARM_PARSIVEL2
 raw_data_glob_pattern: "*.cdf"
 raw_data_format: netcdf
 platform_type: fixed

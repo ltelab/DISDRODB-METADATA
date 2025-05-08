@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: HYMEX_LTE_SOP3
 station_name: "11"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/HYMEX_LTE_SOP3
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt

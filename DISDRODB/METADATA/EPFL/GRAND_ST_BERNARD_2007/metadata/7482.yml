@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: GRAND_ST_BERNARD_2007
 station_name: "7482"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/GRAND_ST_BERNARD_2007
 raw_data_glob_pattern: "*.dat*"
 raw_data_format: txt

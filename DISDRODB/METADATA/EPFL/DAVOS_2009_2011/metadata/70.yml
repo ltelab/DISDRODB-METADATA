@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: DAVOS_2009_2011
 station_name: "70"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/DAVOS_2009_2011
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt

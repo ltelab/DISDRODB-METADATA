@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: PARSIVEL_2007
 station_name: "10"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/PARSIVEL_2007
 raw_data_glob_pattern: "*.dat*"
 raw_data_format: txt

@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: ARCTIC_2021
 station_name: "41"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/ARCTIC_2021
 raw_data_glob_pattern: "*.log.gz"
 raw_data_format: txt

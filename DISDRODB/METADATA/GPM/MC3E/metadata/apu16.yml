@@ -1,7 +1,7 @@
 data_source: GPM
 campaign_name: MC3E
 station_name: apu16
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: GPM/MC3E
 raw_data_glob_pattern: "*_raw.txt"
 raw_data_format: txt

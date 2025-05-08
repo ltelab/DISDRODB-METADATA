@@ -1,7 +1,7 @@
 data_source: NCAR
 campaign_name: VORTEX_SE_2016
 station_name: IOP2
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: NCAR/VORTEX_SE_2016_PIPS
 raw_data_glob_pattern: "*.txt"
 raw_data_format: txt

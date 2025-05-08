@@ -1,7 +1,7 @@
 data_source: ARM
 campaign_name: ALASKA
 station_name: nsalpmC1
-sensor_name: Thies_LPM
+sensor_name: LPM
 reader: ARM/ARM_LPM
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf

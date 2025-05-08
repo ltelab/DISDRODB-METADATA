@@ -1,7 +1,7 @@
 data_source: GPM
 campaign_name: GCPEX
 station_name: apu05
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: GPM/GCPEX
 raw_data_glob_pattern: "*_raw.txt"
 raw_data_format: txt

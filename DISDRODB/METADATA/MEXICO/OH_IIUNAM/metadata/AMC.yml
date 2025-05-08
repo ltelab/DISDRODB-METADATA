@@ -1,7 +1,7 @@
 data_source: MEXICO
 campaign_name: OH_IIUNAM
 station_name: AMC
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: MEXICO/OH_IIUNAM_nc
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf

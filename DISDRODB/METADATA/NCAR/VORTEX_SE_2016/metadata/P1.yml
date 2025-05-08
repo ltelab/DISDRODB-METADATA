@@ -1,7 +1,7 @@
 data_source: NCAR
 campaign_name: VORTEX_SE_2016
 station_name: P1
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: NCAR/VORTEX_SE_2016_P1
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt

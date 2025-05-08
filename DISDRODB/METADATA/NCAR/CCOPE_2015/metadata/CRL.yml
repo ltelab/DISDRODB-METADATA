@@ -1,7 +1,7 @@
 data_source: NCAR
 campaign_name: CCOPE_2015
 station_name: CRL
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: NCAR/CCOPE_2015
 raw_data_glob_pattern: "*.txt"
 raw_data_format: txt

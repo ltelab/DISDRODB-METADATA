@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: EPFL_ROOF_2008
 station_name: "41"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/EPFL_ROOF_2008
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt

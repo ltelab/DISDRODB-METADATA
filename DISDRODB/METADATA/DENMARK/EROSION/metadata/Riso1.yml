@@ -1,7 +1,7 @@
 data_source: DENMARK
 campaign_name: EROSION
 station_name: Riso1
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: DENMARK/EROSION_nc
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf

@@ -1,7 +1,7 @@
 data_source: NCAR
 campaign_name: CINDY_2011
 station_name: RV-Mirai
-sensor_name: RD_80
+sensor_name: RD80
 reader: NCAR/CINDY_2011_RD80
 raw_data_glob_pattern: "*.txt"
 raw_data_format: txt

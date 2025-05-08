@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: PARADISO_2014
 station_name: "40"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/PARADISO_2014
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt

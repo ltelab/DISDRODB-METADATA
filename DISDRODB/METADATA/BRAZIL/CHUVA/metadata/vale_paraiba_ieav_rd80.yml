@@ -1,7 +1,7 @@
 data_source: BRAZIL
 campaign_name: CHUVA
 station_name: vale_paraiba_ieav_rd80
-sensor_name: RD_80
+sensor_name: RD80
 reader: BRAZIL/CHUVA_RD80
 raw_data_glob_pattern: "DISL*"
 raw_data_format: txt

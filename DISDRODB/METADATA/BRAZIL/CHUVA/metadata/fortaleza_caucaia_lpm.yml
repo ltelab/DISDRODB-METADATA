@@ -1,7 +1,7 @@
 data_source: BRAZIL
 campaign_name: CHUVA
 station_name: fortaleza_caucaia_lpm
-sensor_name: Thies_LPM
+sensor_name: LPM
 reader: BRAZIL/CHUVA_LPM
 raw_data_glob_pattern: "DISL*"
 raw_data_format: txt

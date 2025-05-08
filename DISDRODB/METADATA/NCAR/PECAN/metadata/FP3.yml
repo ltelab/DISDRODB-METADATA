@@ -1,7 +1,7 @@
 data_source: NCAR
 campaign_name: PECAN
 station_name: FP3
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: NCAR/PECAN_FP3
 raw_data_glob_pattern: "*.MIS"
 raw_data_format: txt

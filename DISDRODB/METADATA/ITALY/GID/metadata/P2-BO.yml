@@ -1,8 +1,8 @@
 data_source: ITALY
 campaign_name: GID
 station_name: P2-BO
-sensor_name: OTT_Parsivel2
-reader: ITALY/GID
+sensor_name: PARSIVEL2
+reader: ITALY/GID_LPM
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed

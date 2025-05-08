@@ -1,7 +1,7 @@
 data_source: CHINA
 campaign_name: CHONGQING
 station_name: "5033"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: CHINA/CHONGQING
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt

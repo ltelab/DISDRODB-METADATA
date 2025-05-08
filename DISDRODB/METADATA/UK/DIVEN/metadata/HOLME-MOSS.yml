@@ -1,7 +1,7 @@
 data_source: UK
 campaign_name: DIVEN
 station_name: HOLME-MOSS
-sensor_name: Thies_LPM
+sensor_name: LPM
 reader: UK/DIVEN
 raw_data_glob_pattern: "*.nc*"
 raw_data_format: netcdf

@@ -1,8 +1,8 @@
 data_source: BRAZIL
 campaign_name: CHUVA
 station_name: alcantara_aeroporto_ott
-sensor_name: OTT_Parsivel2
-reader: BRAZIL/CHUVA_OTT
+sensor_name: PARSIVEL2
+reader: BRAZIL/CHUVA_PARSIVEL2
 raw_data_glob_pattern: "DISL*"
 raw_data_format: txt
 platform_type: fixed

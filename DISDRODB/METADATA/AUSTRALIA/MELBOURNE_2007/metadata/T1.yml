@@ -1,8 +1,8 @@
 data_source: AUSTRALIA
 campaign_name: MELBOURNE_2007
 station_name: T1
-sensor_name: Thies_LPM
-reader: AUSTRALIA/MELBOURNE_2007_THIES
+sensor_name: LPM
+reader: AUSTRALIA/MELBOURNE_2007_LPM
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed

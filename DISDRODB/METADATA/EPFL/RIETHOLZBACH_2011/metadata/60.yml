@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: RIETHOLZBACH_2011
 station_name: "60"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/RIETHOLZBACH_2011
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt

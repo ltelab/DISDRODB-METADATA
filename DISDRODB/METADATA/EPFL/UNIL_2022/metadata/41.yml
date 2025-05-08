@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: UNIL_2022
 station_name: "41"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/UNIL_2022
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt

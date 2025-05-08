@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: LOCARNO_2019
 station_name: "61"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/LOCARNO_2019
 raw_data_glob_pattern: "*/*/*.dat*"
 raw_data_format: txt

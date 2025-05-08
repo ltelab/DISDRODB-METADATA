@@ -1,7 +1,7 @@
 data_source: EPFL
 campaign_name: SAMOYLOV_2017
 station_name: "01"
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: EPFL/SAMOYLOV_2017
 raw_data_glob_pattern: "*.log.gz"
 raw_data_format: txt

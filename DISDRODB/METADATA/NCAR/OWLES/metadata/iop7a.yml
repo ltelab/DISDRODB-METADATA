@@ -1,7 +1,7 @@
 data_source: NCAR
 campaign_name: OWLES
 station_name: iop7a
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: NCAR/OWLES_MIPS
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt

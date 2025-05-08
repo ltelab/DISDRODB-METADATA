@@ -1,7 +1,7 @@
 data_source: BRAZIL
 campaign_name: GOAMAZON
 station_name: st_manaus_uea_lpm
-sensor_name: Thies_LPM
+sensor_name: LPM
 reader: BRAZIL/GOAMAZON_LPM
 raw_data_glob_pattern: "*/*/DISL*"
 raw_data_format: txt

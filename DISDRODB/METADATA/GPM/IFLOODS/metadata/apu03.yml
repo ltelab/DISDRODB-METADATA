@@ -1,7 +1,7 @@
 data_source: GPM
 campaign_name: IFLOODS
 station_name: apu03
-sensor_name: OTT_Parsivel
+sensor_name: PARSIVEL
 reader: GPM/IFLOODS
 raw_data_glob_pattern: "*_raw.txt"
 raw_data_format: txt

@@ -1,8 +1,8 @@
 data_source: ITALY
 campaign_name: GID
 station_name: TC-RM
-sensor_name: Thies_LPM
-reader: ITALY/GID
+sensor_name: LPM
+reader: ITALY/GID_LPM
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 platform_type: fixed

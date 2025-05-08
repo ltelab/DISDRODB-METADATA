@@ -1,8 +1,8 @@
 data_source: BRAZIL
 campaign_name: GOAMAZON
 station_name: st_manacapuru_uea_ott
-sensor_name: OTT_Parsivel2
-reader: BRAZIL/GOAMAZON_OTT
+sensor_name: PARSIVEL2
+reader: BRAZIL/GOAMAZON_PARSIVEL2
 raw_data_glob_pattern: "*/*/DISL*"
 raw_data_format: txt
 platform_type: fixed

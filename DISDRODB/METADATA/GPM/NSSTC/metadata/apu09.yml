@@ -1,7 +1,7 @@
 data_source: GPM
 campaign_name: NSSTC
 station_name: apu09
-sensor_name: OTT_Parsivel2
+sensor_name: PARSIVEL2
 reader: GPM/NSSTC
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
