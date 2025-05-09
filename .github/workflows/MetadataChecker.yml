@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Set up micromamba
-        uses: mamba-org/setup-micromamba@v1
+        uses: mamba-org/setup-micromamba@v2
         with:
           environment-file: ci/environment.yml
           create-args: "python=3.11"
@@ -21,4 +21,4 @@ jobs:
 
       - name: Run the DISDRODB Metadata Checker
         run: |
-          disdrodb_check_metadata_archive --base_dir /home/runner/work/disdrodb-data/disdrodb-data/DISDRODB
+          disdrodb_check_metadata_archive --metadata_archive_dir /home/runner/work/DISDRODB-METADATA/DISDRODB-METADATA/DISDRODB

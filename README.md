@@ -1,8 +1,8 @@
 # Welcome to the DISDRODB Metadata Archive
 
-**Software repository** : [disdrodb](https://github.com/ltelab/disdrodb)
-
 **Documentation** : [disdrodb.readthedocs.io](https://disdrodb.readthedocs.io/en/latest/)
+
+**Software repository** : [disdrodb](https://github.com/ltelab/disdrodb)
 
 DISDRODB is an international initiative to index, collect, and harmonize drop size distribution (DSD) data from around the world.
 
