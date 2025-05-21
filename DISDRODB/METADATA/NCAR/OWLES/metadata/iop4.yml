@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: NCAR/OWLES_MIPS
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: -9999
+longitude: -9999
+altitude: -9999
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2013-12-15T21:27:10"
+time_coverage_end: "2013-12-16T06:56:20"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -26,13 +37,6 @@ station_id: iop4
 location: ""
 country: USA
 continent: North America
-latitude: -9999
-longitude: -9999
-altitude: -9999
-deployment_status: ""
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -43,7 +47,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 10
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -60,4 +63,3 @@ institution: EOL Data
 source_repository: ""
 license: ""
 doi: https://doi.org/10.26023/33H3-H9EE-7M0F
-disdrodb_data_url: ""

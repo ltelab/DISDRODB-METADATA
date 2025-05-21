@@ -5,7 +5,18 @@ sensor_name: LPM
 reader: ARM/ARM_LPM
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
 platform_type: fixed
+latitude: 71.274734
+longitude: -156.64119
+altitude: 10
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: nsalpmE12
 location: Barrow, Alaska
 country: USA
 continent: North America
-latitude: 71.274734
-longitude: -156.64119
-altitude: 10
-deployment_status: "ongoing"
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: Thies Clima
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: 5.4110.11.100
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 60
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -47,11 +50,14 @@ authors_url: ""
 contact: ""
 contact_information: ""
 acknowledgement: ""
-references: "Atmospheric Radiation Measurement (ARM) user facility. 2022. Laser Disdrometer (LPM). North Slope Alaska (NSA) Barrow, Alaska (Extended) at BEO (E12). Compiled by E. Cromwell, J. Delamere, D. Wang, M. Sturm, Y. Shi, K. Irving and M. Mockaitis. ARM Data Center. Data set accessed 2024-12-17 at http://dx.doi.org/10.5439/1390571."
+references:
+  Atmospheric Radiation Measurement (ARM) user facility. 2022. Laser Disdrometer
+  (LPM). North Slope Alaska (NSA) Barrow, Alaska (Extended) at BEO (E12). Compiled
+  by E. Cromwell, J. Delamere, D. Wang, M. Sturm, Y. Shi, K. Irving and M. Mockaitis.
+  ARM Data Center. Data set accessed 2024-12-17 at http://dx.doi.org/10.5439/1390571.
 documentation: ""
 website: ""
 institution: ARM
 source_repository: ""
 license: ""
 doi: 10.5439/1390571
-disdrodb_data_url: ""

@@ -5,7 +5,18 @@ sensor_name: PARSIVEL2
 reader: DENMARK/EROSION_nc
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 54.55
+longitude: 11.71
+altitude: -9999.0
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2018-12-11T10:20:00"
+time_coverage_end: "2019-06-19T23:59:00"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -24,13 +35,6 @@ station_id: Rodsand - offshore wind farm
 location: Rodsand - offshore wind farm
 country: Denmark
 continent: Europe
-latitude: 54.55
-longitude: 11.71
-altitude: -9999.0
-deployment_status: ""
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -41,7 +45,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 60
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -58,4 +61,3 @@ institution: Innovationsfonden
 source_repository: ""
 license: ""
 doi: https://doi.org/10.11583/DTU.14501616.v1
-disdrodb_data_url: ""

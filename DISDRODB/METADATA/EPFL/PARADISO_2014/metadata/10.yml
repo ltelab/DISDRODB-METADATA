@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: EPFL/PARADISO_2014
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
+measurement_interval: 30
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 46.88716
+longitude: 7.01412
+altitude: 435
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2014-02-27T13:41:30"
+time_coverage_end: "2014-07-01T12:14:00"
+disdrodb_data_url: https://zenodo.org/records/10360932/files/EPFL-PARADISO_2014-10.zip?download=1
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: "10"
 location: Avenches
 country: Switzerland
 continent: Europe
-latitude: 46.88716
-longitude: 7.01412
-altitude: 435
-deployment_status: terminated
-deployment mode: ""
-platform_protection: unshielded
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 30
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -56,4 +59,3 @@ institution:
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: https://zenodo.org/records/10360932/files/EPFL-PARADISO_2014-10.zip?download=1

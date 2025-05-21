@@ -5,7 +5,18 @@ sensor_name: PARSIVEL2
 reader: GPM/NSSTC
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 34.72
+longitude: -86.63
+altitude: -9999
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2010-07-02T20:48:20"
+time_coverage_end: "2011-03-26T07:59:50"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: apu09
 location: Alabama
 country: ""
 continent: ""
-latitude: 34.72
-longitude: -86.63
-altitude: -9999
-deployment_status: ""
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 10
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -54,4 +57,3 @@ institution: Global Hydrometeorology Resource Center (GHRC)
 source_repository: https://search.earthdata.nasa.gov/portal/ghrc/search/granules/collection-details?p=C1979663924-GHRC_DAAC&pg[0][v]=f&pg[0][gsk]=-start_date&fi=DISDROMETERS&tl=1652262223.679!3!!
 license: ""
 doi: ""
-disdrodb_data_url: ""

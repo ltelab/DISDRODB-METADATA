@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: EPFL/ARCTIC_2021
 raw_data_glob_pattern: "*.log.gz"
 raw_data_format: txt
+measurement_interval: 30
+deployment_status: terminated
+deployment_mode: ship
 platform_type: mobile
+latitude: -9999
+longitude: -9999
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2021-06-24T11:29:00"
+time_coverage_end: "2021-09-03T06:07:00"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -22,13 +33,6 @@ station_id: "41"
 location: Kara Sea
 country: Russia
 continent: Asia
-latitude: -9999
-longitude: -9999
-altitude: -9999
-deployment_status: terminated
-deployment mode: ship
-platform_protection: unshielded
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel 1
 sensor_manufacturer: OTT
 sensor_wavelength: ""
@@ -39,7 +43,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: 180
 sensor_nominal_width: 30
-measurement_interval: 30
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -60,4 +63,3 @@ institution:
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: ""

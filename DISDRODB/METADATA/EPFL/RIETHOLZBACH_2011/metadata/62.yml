@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: EPFL/RIETHOLZBACH_2011
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
+measurement_interval: 30
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 47.380422
+longitude: 8.99358
+altitude: 762
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2015-03-11T13:19:30"
+time_coverage_end: "2015-05-18T23:59:30"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: "62"
 location: ""
 country: ""
 continent: ""
-latitude: 47.380422
-longitude: 8.99358
-altitude: 762
-deployment_status: ""
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 30
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -56,4 +59,3 @@ institution:
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: ""

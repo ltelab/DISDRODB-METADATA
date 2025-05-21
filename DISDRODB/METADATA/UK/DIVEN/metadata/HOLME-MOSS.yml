@@ -5,7 +5,18 @@ sensor_name: LPM
 reader: UK/DIVEN
 raw_data_glob_pattern: "*.nc*"
 raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 53.5335
+longitude: -1.8574
+altitude: 522
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2017-02-10T00:00:00"
+time_coverage_end: "2019-09-30T23:59:00"
+disdrodb_data_url: ""
 source: NCAS Laser Precipitation Monitor
 source_convention: ""
 source_processing_date: ""
@@ -24,13 +35,6 @@ station_id: HOLME-MOSS
 location: Holme Moss
 country: United Kingdom
 continent: Europe
-latitude: 53.5335
-longitude: -1.8574
-altitude: 522
-deployment_status: ""
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: 2143 mv mm-2
@@ -41,7 +45,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 60
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -58,4 +61,3 @@ institution: National Centre for Atmospheric Science (NCAS)
 source_repository: https://doi.org/10.5194/amt-12-5845-2019
 license: ""
 doi: ""
-disdrodb_data_url: ""

@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: EPFL/HYMEX_LTE_SOP4
 raw_data_glob_pattern: "*.dat*"
 raw_data_format: txt
+measurement_interval: 30
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 44.6008
+longitude: 4.481
+altitude: 429
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2014-08-28T00:00:00"
+time_coverage_end: "2015-04-04T19:14:30"
+disdrodb_data_url: https://zenodo.org/records/10360922/files/EPFL-HYMEX_LTE_SOP4-31.zip?download=1
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -22,13 +33,6 @@ station_id: "31"
 location: Les Blaches
 country: France
 continent: Europe
-latitude: 44.6008
-longitude: 4.481
-altitude: 429
-deployment_status: terminated
-deployment mode: ""
-platform_protection: unshielded
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -39,7 +43,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 30
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -60,4 +63,3 @@ institution:
 source_repository: https://mistrals.sedoo.fr/HyMeX/
 license: ""
 doi: ""
-disdrodb_data_url: https://zenodo.org/records/10360922/files/EPFL-HYMEX_LTE_SOP4-31.zip?download=1

@@ -5,7 +5,18 @@ sensor_name: LPM
 reader: ARM/ARM_LPM
 raw_data_glob_pattern: "*.nc"
 raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 70.495
+longitude: -149.886
+altitude: 2
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2017-07-24T17:00:00"
+time_coverage_end: "2021-06-14T23:59:00"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: olilpmM1
 location: Oliktok Point, Alaska
 country: USA
 continent: North America
-latitude: 70.495
-longitude: -149.886
-altitude: 2
-deployment_status: terminated
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: Thies Clima
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: 5.4110.11.100
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 60
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -54,4 +57,3 @@ institution: ARM
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: ""

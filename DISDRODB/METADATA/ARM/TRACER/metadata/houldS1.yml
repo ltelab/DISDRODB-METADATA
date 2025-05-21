@@ -5,7 +5,18 @@ sensor_name: PARSIVEL2
 reader: ARM/ARM_PARSIVEL2
 raw_data_glob_pattern: "*.cdf"
 raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 29.67
+longitude: -95.059
+altitude: 8.0
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2021-08-18T14:03:00"
+time_coverage_end: "2022-06-18T23:59:00"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: houldS1
 location: ""
 country: ""
 continent: ""
-latitude: 29.67
-longitude: -95.059
-altitude: 8.0
-deployment_status: terminated
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 60
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -58,4 +61,3 @@ institution: ""
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: ""

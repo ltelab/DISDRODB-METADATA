@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: EPFL/DAVOS_2009_2011
 raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
+measurement_interval: 30
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 46.808983
+longitude: 9.863817
+altitude: 1520
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2010-01-25T13:36:30"
+time_coverage_end: "2011-07-11T23:59:30"
+disdrodb_data_url: https://zenodo.org/records/10361003/files/EPFL-DAVOS_2009_2011-70.zip?download=1
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -22,13 +33,6 @@ station_id: "70"
 location: Davos
 country: Switzerland
 continent: Europe
-latitude: 46.808983
-longitude: 9.863817
-altitude: 1520
-deployment_status: terminated
-deployment mode: ""
-platform_protection: unshielded
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -39,7 +43,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 30
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -58,4 +61,3 @@ institution:
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: https://zenodo.org/records/10361003/files/EPFL-DAVOS_2009_2011-70.zip?download=1

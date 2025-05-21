@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: EPFL/GRAND_ST_BERNARD_2007
 raw_data_glob_pattern: "*.dat*"
 raw_data_format: txt
+measurement_interval: 20
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 45.8681
+longitude: 7.1703
+altitude: 2480
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2007-10-10T04:41:20"
+time_coverage_end: "2007-10-12T03:36:20"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -22,13 +33,6 @@ station_id: "7483"
 location: ""
 country: Switzerland
 continent: Europe
-latitude: 45.8681
-longitude: 7.1703
-altitude: 2480
-deployment_status: terminated
-deployment mode: ""
-platform_protection: unshielded
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -39,7 +43,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 20
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -58,4 +61,3 @@ institution:
 source_repository: ""
 license: ""
 doi: ""
-disdrodb_data_url: ""

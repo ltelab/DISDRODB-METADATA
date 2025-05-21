@@ -5,7 +5,18 @@ sensor_name: PARSIVEL
 reader: GPM/IFLOODS
 raw_data_glob_pattern: "*_raw.txt"
 raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
 platform_type: fixed
+latitude: 41.84705833
+longitude: -91.86028889
+altitude: 259
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2013-04-05T21:02:10"
+time_coverage_end: "2013-05-24T20:05:50"
+disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -20,13 +31,6 @@ station_id: apu11
 location: ""
 country: ""
 continent: ""
-latitude: 41.84705833
-longitude: -91.86028889
-altitude: 259
-deployment_status: ""
-deployment mode: ""
-platform_protection: ""
-platform_orientation: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -37,7 +41,6 @@ firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
-measurement_interval: 10
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
@@ -54,4 +57,3 @@ institution: GHRC_DAAC
 source_repository: ""
 license: ""
 doi: http://dx.doi.org/10.5067/GPMGV/IFLOODS/APU/DATA401
-disdrodb_data_url: ""
