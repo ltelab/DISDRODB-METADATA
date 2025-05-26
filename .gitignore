@@ -1,11 +1,11 @@
 *.log
 
 # Keep only issue and metadata folders
-DISDRODB/Processed
-DISDRODB/Raw/*/*/*/
-!DISDRODB/Raw/*/*/issue/
-!DISDRODB/Raw/*/*/metadata/
+DISDRODB/RAW/* 
+!DISDRODB/V0/* 
+ 
 
+*.ipynb*
 secret.yml
 venv
 node_modules

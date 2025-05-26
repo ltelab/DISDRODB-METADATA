@@ -1,0 +1,59 @@
+data_source: ARM
+campaign_name: LASIC
+station_name: asildM1
+sensor_name: PARSIVEL2
+reader: ARM/ARM_PARSIVEL2
+raw_data_glob_pattern: "*.cdf"
+raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: -7.96696
+longitude: -14.34981
+altitude: 340.77
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: Layered Atlantic Smoke Interactions with Clouds (LASIC)
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: asildM1
+location: Ascension Island
+country: United Kingdom Overseas Territory
+continent: ""
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: "Atmospheric Radiation Measurement (ARM) user facility. 2015. Laser Disdrometer (LD). ARM Mobile Facility (ASI) Ascension Island, South Atlantic Ocean; AMF1 (M1).  Compiled by Z. Zhu, M. Bartholomew and Y. Shi. ARM Data Center. Data set accessed 2024-12-17 at http://dx.doi.org/10.5439/1973058."
+documentation: ""
+website: ""
+institution: ARM
+source_repository: ""
+license: ""
+doi: ""
