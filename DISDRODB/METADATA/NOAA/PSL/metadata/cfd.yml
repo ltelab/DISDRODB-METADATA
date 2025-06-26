@@ -1,17 +1,17 @@
-data_source: NETHERLANDS
-campaign_name: DELFT
-station_name: PAR004
-sensor_name: PARSIVEL2
-reader: NETHERLANDS/DELFT
-raw_data_glob_pattern: "*/*/*.csv"
+data_source: NOAA
+campaign_name: PSL
+station_name: cfd
+sensor_name: RD80
+reader: NOAA/PSL_RD80
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 measurement_interval: 60
-deployment_status: ongoing
+deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 51.78657267
-longitude: 4.45044977
-altitude: 4
+latitude: 40.180900
+longitude: -112.887800
+altitude: 1320
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
@@ -20,19 +20,19 @@ disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: WESTMAAS
+title: U.S. Army Dugway Proving Ground
 description: ""
 project_name: ""
 keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: PAR004
-location: ""
-country: Netherlands
-continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: ""
+station_id: "cfd"
+location: Carr, Utah
+country: United States of America
+continent: North America
+sensor_long_name: "Disdromet RD-80"
+sensor_manufacturer: "Disdromet Ltd."
 sensor_wavelength: ""
 sensor_serial_number: ""
 firmware_iop: ""
@@ -49,11 +49,11 @@ authors: ""
 authors_url: ""
 contact: ""
 contact_information: ""
-acknowledgement: ""
+acknowledgement: "Data provided by the NOAA Physical Sciences Laboratory, Boulder, Colorado, USA"
 references: ""
 documentation: ""
-website: ""
-institution: ""
+website: "https://psl.noaa.gov/"
+institution: NOAA Physical Science Laboratory
 source_repository: ""
 license: ""
 doi: ""

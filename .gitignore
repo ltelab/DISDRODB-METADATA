@@ -1,9 +1,9 @@
 *.log
 
 # Keep only issue and metadata folders
-DISDRODB/RAW/* 
-!DISDRODB/V0/* 
- 
+DISDRODB/RAW/*
+!DISDRODB/V0/*
+
 
 *.ipynb*
 secret.yml
