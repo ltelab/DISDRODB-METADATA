@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: PLOWS
+station_name: IOP10
+sensor_name: PARSIVEL
+reader: NCAR/PLOWS_MIPS
+raw_data_glob_pattern: '*.dat'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 41.8166
+longitude: -90.2399
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2009-12-07T22:15:30'
+time_coverage_end: '2009-12-07T23:59:50'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: Profiling of Winter Storms
+description: During IOP-10, a large cyclone moved across the Rockies.
+project_name: PLOWS
+keywords: ''
+summary: ''
+history: ''
+comment: Located outside Davenport
+station_id: ''
+location: Clinton, Iowa
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Rauber, Jewett, Knupp, Market, Brown
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: http://catalog.eol.ucar.edu/plows_09-10/report/science_director/20091208/report.science_director.200912080000.summary.pdf
+website: https://catalog.eol.ucar.edu/plows_09-10/missions/missions.html
+institution: University of Alabama-Huntsville
+source_repository: ''
+license: ''
+doi: ''

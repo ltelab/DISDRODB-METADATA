@@ -3,7 +3,7 @@ campaign_name: VORTEX2_2010
 station_name: CU01
 sensor_name: PARSIVEL
 reader: NCAR/VORTEX2_2010
-raw_data_glob_pattern: "*.dat"
+raw_data_glob_pattern: '*.dat'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
@@ -12,50 +12,49 @@ platform_type: fixed
 latitude: -9999
 longitude: -9999
 altitude: -9999.0
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2010-05-07T00:45:20"
-time_coverage_end: "2010-06-13T23:39:40"
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2010-05-07T00:45:20'
+time_coverage_end: '2010-06-13T23:39:40'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Mobile Disdrometer Data
-description: ""
-project_name:
-  "VORTEX2: Verification of the Origins of Rotation in Tornadoes Experiment
-  2, https://data.eol.ucar.edu/project/VORTEX2"
-keywords: ""
-summary: ""
-history: ""
-comment: ""
-station_id: "1"
-location: ""
+description: ''
+project_name: 'VORTEX2: Verification of the Origins of Rotation in Tornadoes Experiment
+  2, https://data.eol.ucar.edu/project/VORTEX2'
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: '1'
+location: ''
 country: USA
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Katja Friedrich, Glen S. Romine, Steven F. Williams
-authors_url: ""
+authors_url: ''
 contact: Katja.Friedrich@colorado.edu, romine@atmos.uiuc.edu
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ""
-references: ""
+acknowledgement: ''
+references: ''
 documentation: https://data.eol.ucar.edu/datafile/nph-get/114.120/ATM4-DataFormat_2010.pdf
 website: https://data.eol.ucar.edu/dataset/114.120
 institution: EOL Data
-source_repository: ""
-license: ""
-doi: ""
+source_repository: ''
+license: ''
+doi: ''

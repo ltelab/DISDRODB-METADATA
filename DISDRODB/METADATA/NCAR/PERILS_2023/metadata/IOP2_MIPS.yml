@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: PERILS_2023
+station_name: IOP2_MIPS
+sensor_name: PARSIVEL2
+reader: NCAR/PERILS_MIPS
+raw_data_glob_pattern: '*.dat'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 34.6038
+longitude: -91.1962
+altitude: 56
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2023-03-03T00:15:00'
+time_coverage_end: '2023-03-03T11:00:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: ''
+description: ''
+project_name: MIPS
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
+location: Mississippi
+country: United States of America
+continent: North America
+sensor_long_name: "OTT Hydromet Parsivel\xB2"
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Preston Pangle, Kevin Knupp
+authors_url: ''
+contact: preston.pangle@uah.edu, kevin.knupp@uah.edu
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: https://data.eol.ucar.edu/file/download/5570E26F1F4AD/perils2023_mips_parsivel_Readme.pdf
+website: https://data.eol.ucar.edu/dataset/626.027
+institution: University of Alabama In Huntsville
+source_repository: ''
+license: ''
+doi: ''

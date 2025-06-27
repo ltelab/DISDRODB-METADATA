@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: PLOWS
+station_name: IOP1
+sensor_name: PARSIVEL
+reader: NCAR/PLOWS_MIPS
+raw_data_glob_pattern: '*.dat'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 41.29208
+longitude: -88.2259
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2009-02-11T15:19:30'
+time_coverage_end: '2009-02-11T18:55:10'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: Profiling of Winter Storms
+description: Profiling of Winter Storms IOP1
+project_name: PLOWS
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
+location: Braidwood, Illinois
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Rauber, Knupp, Market
+authors_url: ''
+contact: kevin.knupp@uah.edu
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: http://catalog.eol.ucar.edu/plows_08-09/report/science_director/20090210/report.science_director.200902100800.summary.pdf
+website: https://catalog.eol.ucar.edu/plows_08-09/missions/missions.html
+institution: University of Alabama-Huntsville
+source_repository: ''
+license: ''
+doi: ''

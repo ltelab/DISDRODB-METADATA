@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: PLOWS
+station_name: IOP8
+sensor_name: PARSIVEL
+reader: NCAR/PLOWS_MIPS
+raw_data_glob_pattern: '*.dat'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 41.9138
+longitude: -93.3931
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2009-11-24T03:13:50'
+time_coverage_end: '2009-11-24T23:59:50'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: Profiling of Winter Storms
+description: ''
+project_name: PLOWS
+keywords: ''
+summary: ''
+history: ''
+comment: Located outside Des Moines
+station_id: ''
+location: Maxwell, Iowa
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Rauber, McFarquhar, Knupp, Market, Brown
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: http://catalog.eol.ucar.edu/plows_09-10/report/science_director/20091124/report.science_director.200911240000.summary.pdf
+website: https://catalog.eol.ucar.edu/plows_09-10/missions/missions.html
+institution: University of Alabama-Huntsville
+source_repository: ''
+license: ''
+doi: ''

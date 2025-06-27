@@ -3,63 +3,62 @@ campaign_name: OWLES
 station_name: iop4
 sensor_name: PARSIVEL
 reader: NCAR/OWLES_MIPS
-raw_data_glob_pattern: "*.dat"
+raw_data_glob_pattern: '*.dat'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: -9999
-longitude: -9999
+latitude: 43.4493
+longitude: -76.5518
 altitude: -9999
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2013-12-15T21:27:10"
-time_coverage_end: "2013-12-16T06:56:20"
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2013-12-15T21:27:10'
+time_coverage_end: '2013-12-16T06:56:20'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: UAH MIPS Parsivel Disdrometer Data
-description: ""
+description: ''
 project_name: OWLeS
-keywords: ""
-summary: ""
-history: ""
-comment:
-  A surprise LLAP band was sampled on the east shores of Lake Ontario. The
+keywords: ''
+summary: ''
+history: ''
+comment: A surprise LLAP band was sampled on the east shores of Lake Ontario. The
   expectation from model guidance was that it would make landfall between Fairhaven
   and Oswego but instead the band moved Northward. In summary, this is a good case
   study for LLAP and orographic interests, but the coordination between aircraft and
   DOW measurements was rather poor, MIPS was nor under the band, and we did not have
   an east shore radiosonde north of the band.
 station_id: iop4
-location: ""
+location: 'SUNY Oswego parking lot'
 country: USA
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Dustin Phillips, Kevin Knupp
-authors_url: ""
+authors_url: ''
 contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ""
-references: ""
+acknowledgement: ''
+references: ''
 documentation: https://data.eol.ucar.edu/datafile/nph-get/382.034/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
 website: https://data.eol.ucar.edu/dataset/382.034
 institution: EOL Data
-source_repository: ""
-license: ""
+source_repository: ''
+license: ''
 doi: https://doi.org/10.26023/33H3-H9EE-7M0F

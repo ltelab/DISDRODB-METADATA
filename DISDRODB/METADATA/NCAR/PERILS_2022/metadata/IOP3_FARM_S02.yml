@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: PERILS_2022
+station_name: IOP3_FARM_S02
+sensor_name: PARSIVEL2
+reader: NCAR/FARM_PARSIVEL2
+raw_data_glob_pattern: '*.csv'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: -9999
+longitude: -9999
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: ''
+description: ''
+project_name: Flexible Array of Radars and Mesonets (FARM)
+keywords: ''
+summary: ''
+history: ''
+comment: Deployed by FARM SCOUT 2
+station_id: ''
+location: ''
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel2
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Joshua Wurman, Karen Kosiba
+authors_url: ''
+contact: jwurman@illinois.edu, kakosiba@illinois.edu
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: https://data.eol.ucar.edu/file/download/55427F663885A/FARM_PERiLS_2022_User_Guide.pdf
+website: https://data.eol.ucar.edu/dataset/610.025
+institution: University of Illinois
+source_repository: ''
+license: ''
+doi: ''

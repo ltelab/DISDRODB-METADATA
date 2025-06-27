@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: VORTEX_SE_2016
+station_name: IOP2_PIPS2A
+sensor_name: PARSIVEL2
+reader: NCAR/VORTEX_SE_2016_PIPS
+raw_data_glob_pattern: '*.txt'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 34.6312
+longitude: -86.9505
+altitude: 183
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2016-03-24T14:02:22'
+time_coverage_end: '2016-03-24T21:47:02'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: ''
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
+location: Tennessee/Alabama
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Daniel T. Dawson II
+authors_url: ''
+contact: dandawson@purdue.edu
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: https://data.eol.ucar.edu/file/download/52D57A335C1B7/PIPS_documentation.pdf
+website: https://data.eol.ucar.edu/dataset/527.025
+institution: Purdue University, University of Oklahoma
+source_repository: ''
+license: ''
+doi: ''

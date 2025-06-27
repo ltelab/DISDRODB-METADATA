@@ -1,0 +1,59 @@
+data_source: NCAR
+campaign_name: RELAMPAGO
+station_name: IOP16_FARM_S02
+sensor_name: PARSIVEL2
+reader: NCAR/FARM_PARSIVEL2
+raw_data_glob_pattern: csv
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: -32.069072
+longitude: -63.862259
+altitude: 329
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2018-12-11T12:58:00'
+time_coverage_end: '2018-12-11T20:30:20'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: ''
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
+location: ''
+country: Argentina
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Joshua Wurman, Karen Kosiba
+authors_url: ''
+contact: wurman@cswr.org, kakosiba@cswr.org
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: ''
+website: https://www.eol.ucar.edu/field_projects/relampago
+institution: Center for Severe Weather Research
+source_repository: ''
+license: ''
+doi: ''

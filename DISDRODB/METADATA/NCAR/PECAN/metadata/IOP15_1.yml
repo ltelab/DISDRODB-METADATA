@@ -3,7 +3,7 @@ campaign_name: PECAN
 station_name: IOP15_1
 sensor_name: PARSIVEL
 reader: NCAR/PECAN_MOBILE
-raw_data_glob_pattern: "*.dat*"
+raw_data_glob_pattern: '*.dat*'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
@@ -12,48 +12,48 @@ platform_type: fixed
 latitude: 40.885668
 longitude: -91.317509
 altitude: -9999.0
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2015-06-25T04:09:40"
-time_coverage_end: "2015-06-25T09:09:40"
-disdrodb_data_url: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2015-06-25T04:09:40'
+time_coverage_end: '2015-06-25T09:09:40'
+disdrodb_data_url: ''
 source: https://data.eol.ucar.edu/dataset/485.065
-source_convention: ""
-source_processing_date: ""
+source_convention: ''
+source_processing_date: ''
 title: NCAR/EOL Mobile Parsivel Disdrometer Data
-description: ""
+description: ''
 project_name: PECAN, https://data.eol.ucar.edu/project/PECAN
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: IOP15_1
-location: ""
+location: ''
 country: USA
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: David J. Bodine, Kristen Rasmussen
-authors_url: ""
+authors_url: ''
 contact: bodine@ou.edu, kristenr@ucar.edu
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ""
-references: ""
+acknowledgement: ''
+references: ''
 documentation: https://data.eol.ucar.edu/datafile/nph-get/485.065/Mobile_Disdrometer_README.pdf
 website: https://data.eol.ucar.edu/dataset/485.065
 institution: EOL Data
-source_repository: ""
-license: ""
+source_repository: ''
+license: ''
 doi: https://doi.org/10.5065/D6M043KW

@@ -3,63 +3,62 @@ campaign_name: OWLES
 station_name: iop1
 sensor_name: PARSIVEL
 reader: NCAR/OWLES_MIPS
-raw_data_glob_pattern: "*.dat"
+raw_data_glob_pattern: '*.dat'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: -9999
-longitude: -9999
+latitude: 43.3428
+longitude: -76.6970
 altitude: -9999
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2013-12-06T15:31:10"
-time_coverage_end: "2013-12-08T01:21:20"
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2013-12-06T15:31:10'
+time_coverage_end: '2013-12-08T01:21:20'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: UAH MIPS Parsivel Disdrometer Data
-description: ""
+description: ''
 project_name: OWLeS
-keywords: ""
-summary: ""
-history: ""
-comment:
-  A band-like structure, exhibiting small cellular features, formed early in
+keywords: ''
+summary: ''
+history: ''
+comment: A band-like structure, exhibiting small cellular features, formed early in
   the day near Oswego and persisted through the afternoon and early evening. The band
   was oriented approximately 280-290 degrees to the shoreline. Surface assets and
   soundings targeted this band. More substantial snow occurred with an E-W oriented
   band near Pulaksi, NY. The WY King Air flew parallel to the long axis of the lake.
   Upwind soundings were obtained in Ontario, Canada.
 station_id: iop1
-location: ""
+location: 'Fair Haven Beach State Park'
 country: USA
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Dustin Phillips, Kevin Knupp
-authors_url: ""
+authors_url: ''
 contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ""
-references: ""
+acknowledgement: ''
+references: ''
 documentation: https://data.eol.ucar.edu/datafile/nph-get/382.034/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
 website: https://data.eol.ucar.edu/dataset/382.034
 institution: EOL Data
-source_repository: ""
-license: ""
+source_repository: ''
+license: ''
 doi: https://doi.org/10.26023/33H3-H9EE-7M0F

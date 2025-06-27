@@ -3,7 +3,7 @@ campaign_name: RELAMPAGO
 station_name: sao_borja_rd80
 sensor_name: RD80
 reader: NCAR/RELAMPAGO_RD80
-raw_data_glob_pattern: "*.txt"
+raw_data_glob_pattern: '*.txt'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -12,50 +12,49 @@ platform_type: fixed
 latitude: -28.6352
 longitude: -56.0001
 altitude: -9999.0
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2018-11-01T17:04:00"
-time_coverage_end: "2018-12-12T17:23:20"
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2018-11-01T17:04:00'
+time_coverage_end: '2018-12-12T17:23:20'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Brazil Sao Borja RD-80 Disdrometer Data
-description: ""
+description: ''
 project_name: RELAMPAGO, https://data.eol.ucar.edu/project/RELAMPAGO
-keywords: ""
-summary: ""
-history: ""
-comment: ""
-station_id: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
 location: Sao Borja
 country: Brazil
 continent: South America
 sensor_long_name: RD-80
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Alan Calheiros, Luiz Machado
-authors_url: ""
+authors_url: ''
 contact: alan.calheiros@inpe.br, luiz.machado@inpe.br
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ""
-references: ""
-documentation:
-  https://data.eol.ucar.edu/datafile/nph-get/553.013/RD80_Disdrometer_User_Guide.pdf,
+acknowledgement: ''
+references: ''
+documentation: https://data.eol.ucar.edu/datafile/nph-get/553.013/RD80_Disdrometer_User_Guide.pdf,
   https://data.eol.ucar.edu/datafile/nph-get/553.013/Readme_RD80_disdrometer_Brazil.pdf
 website: https://data.eol.ucar.edu/dataset/553.013
 institution: EOL Data
-source_repository: ""
-license: ""
+source_repository: ''
+license: ''
 doi: https://doi.org/10.26023/NQDF-Q5AZ-A70N
