@@ -3,7 +3,7 @@ campaign_name: OWLES
 station_name: iop21
 sensor_name: PARSIVEL
 reader: NCAR/OWLES_MIPS
-raw_data_glob_pattern: '*.dat'
+raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
@@ -12,50 +12,55 @@ platform_type: fixed
 latitude: -9999
 longitude: -9999
 altitude: -9999
-platform_protection: ''
-platform_orientation: ''
-time_coverage_start: '2014-01-28T00:00:00'
-time_coverage_end: '2014-01-28T06:45:50'
-disdrodb_data_url: ''
-source: ''
-source_convention: ''
-source_processing_date: ''
-title: UAH MIPS Parsivel Disdrometer Data
-description: ''
-project_name: OWLeS
-keywords: ''
-summary: ''
-history: ''
-comment: This IOP focused on downwind persistence (DP) and upwind effects of the Lake
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: "2014-01-28T00:00:00"
+time_coverage_end: "2014-01-28T06:45:50"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: "OWLeS: UAH Mobile Integrated Profiling System (MIPS) Disdrometer Data"
+description: ""
+project_name: Ontario Winter Lake-effect Systems (OWLeS)
+keywords: ""
+summary: ""
+history: ""
+comment:
+  This IOP focused on downwind persistence (DP) and upwind effects of the Lake
   Ontario LLAP band, with a separate minor focus on any DP from Lake Erie in the area
   of Geneva.
 station_id: iop21
-location: ''
+location: ""
 country: USA
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
-contributors: ''
-authors: Dustin Phillips, Kevin Knupp
-authors_url: ''
-contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Kevin Knupp, Dustin Phillips
+authors_url: ""
+contact: kevin.knupp@uah.edu, phillips@nsstc.uah.edu
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ''
-references: ''
-documentation: https://data.eol.ucar.edu/datafile/nph-get/382.034/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
-website: https://data.eol.ucar.edu/dataset/382.034
-institution: EOL Data
-source_repository: ''
-license: ''
+acknowledgement: ""
+references:
+  "Knupp, K., Phillips, D. 2014. OWLeS: UAH MIPS Parsivel Disdrometer Data.
+  Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/33H3-H9EE-7M0F"
+documentation:
+  https://data.eol.ucar.edu/file/download/51B5262390782/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
+  , https://catalog.eol.ucar.edu/owles/tools/missions
+website: https://catalog.eol.ucar.edu/owles
+institution: University of Alabama In Huntsville
+source_repository: https://data.eol.ucar.edu/dataset/382.034
+license: ""
 doi: https://doi.org/10.26023/33H3-H9EE-7M0F

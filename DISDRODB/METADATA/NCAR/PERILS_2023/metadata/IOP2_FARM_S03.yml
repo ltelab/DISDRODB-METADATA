@@ -3,7 +3,7 @@ campaign_name: PERILS_2023
 station_name: IOP2_FARM_S03
 sensor_name: PARSIVEL2
 reader: NCAR/PERILS_PIPS
-raw_data_glob_pattern: '*.csv'
+raw_data_glob_pattern: "*.csv"
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
@@ -13,47 +13,54 @@ latitude: 34.452101
 longitude: -91.541677
 altitude: -9999
 platform_protection: unshielded
-platform_orientation: ''
-time_coverage_start: '2023-03-02T23:32:50'
-time_coverage_end: '2023-03-03T11:08:20'
-disdrodb_data_url: ''
-source: ''
-source_convention: ''
-source_processing_date: ''
-title: ''
-description: ''
-project_name: Flexible Array of Radars and Mesonets (FARM)
-keywords: ''
-summary: ''
-history: ''
-comment: ''
-station_id: ''
+platform_orientation: ""
+time_coverage_start: "2023-03-02T23:32:50"
+time_coverage_end: "2023-03-03T11:08:20"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title:
+  "PERiLS 2023: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
+  Data"
+description:
+  PERiLS provides observations necessary to address environmental factors
+  and storm processes that lead to quasi-linear convective systems (QLCS) tornadogenesis.
+project_name: Propagation, Evolution and Rotation in Linear Storms (PERiLS) 2023
+keywords: ""
+summary: ""
+history: ""
+comment: Parsivel sensors parts of Flexible Array of Radars and Mesonets (FARM)
+station_id: ""
 location: Boulder, Colorado
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
-contributors: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
 authors: Joshua Wurman, Karen Kosiba
-authors_url: ''
+authors_url: ""
 contact: jwurman@illinois.edu, kakosiba@illinois.edu
-contact_information: ''
-acknowledgement: ''
-references: ''
-documentation: https://data.eol.ucar.edu/file/download/5570CA6EF146F/FARM_PERiLS_2023_User_Guide.pdf
-website: https://data.eol.ucar.edu/dataset/626.014
-institution: University of Illinois
-source_repository: ''
-license: ''
-doi: ''
+contact_information: ""
+acknowledgement: ""
+references:
+  Wurman, J., & Kosiba, K. (2023). PERILS 2023 Mobile Mesonet, Sounding,
+  Pod, and Disdrometer Data (Version 1) [Data set]. Flexible Array of Radars and Mesonets
+  (FARM), University of Illinois. https://doi.org/10.48514/S52C-MH37
+documentation: http://www.farmfacility.org/projects/PERiLS/
+website: https://catalog.eol.ucar.edu/perils_2023
+institution: Center for Severe Weather Research, University of Illinois
+source_repository: https://data.eol.ucar.edu/dataset/626.014
+license: ""
+doi: https://doi.org/10.48514/S52C-MH37

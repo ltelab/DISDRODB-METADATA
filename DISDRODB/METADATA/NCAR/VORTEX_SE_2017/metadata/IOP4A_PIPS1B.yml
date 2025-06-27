@@ -3,7 +3,7 @@ campaign_name: VORTEX_SE_2017
 station_name: IOP4A_PIPS1B
 sensor_name: PARSIVEL2
 reader: NCAR/VORTEX_SE_2016_PIPS
-raw_data_glob_pattern: '*.dat'
+raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
@@ -13,50 +13,58 @@ latitude: 34.5542
 longitude: -86.9741
 altitude: 180
 platform_protection: unshielded
-platform_orientation: ''
-time_coverage_start: '2017-04-27T04:49:40'
-time_coverage_end: '2017-04-27T07:40:38'
-disdrodb_data_url: ''
-source: ''
-source_convention: ''
-source_processing_date: ''
-title: VORTEX-SE 2017 PIPS Deployment
-description: Data from Portable In-situ Precipitation Stations (PIPS) during the VORTEX-SE
-  2017 field campaign.
-project_name: VORTEX-SE_2017
+platform_orientation: ""
+time_coverage_start: "2017-04-27T04:49:40"
+time_coverage_end: "2017-04-27T07:40:38"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: "VORTEX-SE 2017: Portable In Situ Precipitation Stations (PIPS) Data"
+description:
+  Research program designed to understand how environmental factors characteristic
+  of the southeastern United States affect the formation, intensity, structure, and
+  path of tornadoes.
+project_name:
+  Verification of the Origins of Rotation in Tornadoes Experiment Southeast
+  (VORTEX-SE) 2017
 keywords: disdrometer, precipitation, VORTEX-SE
-summary: This dataset contains drop size distribution (DSD) and surface meteorological
+summary:
+  This dataset contains drop size distribution (DSD) and surface meteorological
   data from the Purdue University Portable In Situ Precipitation Stations (PIPS) deployed
   during VORTEX-SE 2017.
-history: ''
-comment: ''
-station_id: ''
+history: ""
+comment: ""
+station_id: ""
 location: Tennessee/Alabama
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
-sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
-contributors: ''
-authors: Daniel T. Dawson II, Michael I. Biggerstaff, Sean Waugh
-authors_url: ''
-contact: dandawson@purdue.edu
-contact_information: ''
-acknowledgement: ''
-references: ''
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Daniel T. Dawson, Michael Biggerstaff, Sean Waugh
+authors_url: ""
+contact: dandawson@purdue.edu, drdoppler@ou.edu, sean.waugh@noaa.gov
+contact_information: ""
+acknowledgement: ""
+references:
+  Dawson, D., Biggerstaff, M., Waugh, S. 2020. Purdue University Portable
+  In Situ Precipitation Stations (PIPS) Data. Version 1.0. UCAR/NCAR - Earth Observing
+  Laboratory. https://doi.org/10.26023/JSTF-C7ER-YT00
 documentation: https://data.eol.ucar.edu/file/download/53115C509A3A9/README_VSE2017_PIPS.pdf
-website: https://data.eol.ucar.edu/dataset/541.029
-institution: Purdue University, University of Oklahoma
-source_repository: ''
-license: ''
+website: https://catalog.eol.ucar.edu/vortex-se_2017
+institution: Purdue University
+source_repository: https://data.eol.ucar.edu/dataset/541.029
+license: ""
 doi: https://doi.org/10.26023/JSTF-C7ER-YT00
