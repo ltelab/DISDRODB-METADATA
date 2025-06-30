@@ -1,0 +1,59 @@
+data_source: ARM
+campaign_name: COURAGE
+station_name: crgldS3
+sensor_name: PARSIVEL2
+reader: ARM/ARM_PARSIVEL2
+raw_data_glob_pattern: "*.cdf"
+raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 38.838
+longitude: -76.37
+altitude: 3
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: Coast-Urban-Rural Atmospheric Gradient Experiment (CoURAGE)
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: "Bay station"
+station_id: crgldS3
+location: Baltimore, Maryland
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: "Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer (LD). ARM Mobile Facility (CRG) Baltimore, MD; Supplemental Facility 3 near bay (S3).  Compiled by Z. Zhu and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058."
+documentation: ""
+website: ""
+institution: ARM
+source_repository: ""
+license: ""
+doi: ""

@@ -1,0 +1,65 @@
+data_source: NCAR
+campaign_name: RELAMPAGO
+station_name: IOP12_FARM_S01
+sensor_name: PARSIVEL2
+reader: NCAR/FARM_PARSIVEL2
+raw_data_glob_pattern: csv
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: -31.6443
+longitude: -63.98812
+altitude: 359
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2018-11-30T10:46:40"
+time_coverage_end: "2018-11-30T23:08:30"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title:
+  "RELAMPAGO: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
+  Data"
+description: ""
+project_name:
+  Remote sensing of Electrification, Lightning, And Mesoscale/microscale
+  Processes with Adaptive Ground Observations
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+location: Lozada, Cordoba Province
+country: Argentina
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Joshua Wurman, Karen Kosiba
+authors_url: ""
+contact: jwurman@illinois.edu, kakosiba@illinois.edu
+contact_information: ""
+acknowledgement: ""
+references:
+  Wurman, J., & Kosiba, K. (2021). FARM-data-RELAMPAGO (Version 1) [Data
+  set]. Center for Severe Weather Research. https://doi.org/10.48514/NK1P-7J11
+documentation: ""
+website: https://catalog.eol.ucar.edu/relampago
+institution: Center for Severe Weather Research, University of Illinois
+source_repository: http://www.farmfacility.org/contents/facilitydata.php
+license: ""
+doi: https://doi.org/10.48514/NK1P-7J11

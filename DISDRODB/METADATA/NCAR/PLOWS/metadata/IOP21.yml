@@ -1,0 +1,65 @@
+data_source: NCAR
+campaign_name: PLOWS
+station_name: IOP21
+sensor_name: PARSIVEL
+reader: NCAR/PLOWS_MIPS
+raw_data_glob_pattern: "*.dat"
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 40.1865
+longitude: -89.1844
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2010-02-21T19:14:10"
+time_coverage_end: "2010-02-21T23:59:50"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: "PLOWS: UAH Mobile Integrated Profiling System (MIPS) Disdrometer Data"
+description:
+  The IOP-21 storm formed as a weak wave moved out of the Rockies and over
+  the plains.
+project_name: Profiling of Winter Storms (PLOWS)
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+location: Beason, Illinois
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Kevin Knupp, Dustin Phillips
+authors_url: ""
+contact: kevin.knupp@uah.edu, phillips@nsstc.uah.edu
+contact_information: ""
+acknowledgement: ""
+references:
+  "Knupp, K., Phillips, D. 2010. PLOWS: UAH MIPS Disdrometer Data. Version
+  1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/YBH3-S5R7-E90J"
+documentation:
+  https://data.eol.ucar.edu/file/download/41D2C105A208/readme_dsd.sfc
+  , https://catalog.eol.ucar.edu/plows_09-10/missions/missions.html
+website: https://catalog.eol.ucar.edu/plows_09-10
+institution: University of Alabama In Huntsville
+source_repository: https://data.eol.ucar.edu/dataset/113.073
+license: ""
+doi: https://doi.org/10.26023/YBH3-S5R7-E90J

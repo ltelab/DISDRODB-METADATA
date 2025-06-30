@@ -20,15 +20,15 @@ disdrodb_data_url: ""
 source: https://data.eol.ucar.edu/dataset/485.065
 source_convention: ""
 source_processing_date: ""
-title: NCAR/EOL Mobile Parsivel Disdrometer Data
+title: "PECAN: Mobile Disdrometer Data"
 description: ""
-project_name: PECAN, https://data.eol.ucar.edu/project/PECAN
+project_name: Plains Elevated Convection at Night (PECAN)
 keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: IOP21_2
-location: ""
+station_id: ""
+location: Texas
 country: USA
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
@@ -50,10 +50,12 @@ authors_url: ""
 contact: bodine@ou.edu, kristenr@ucar.edu
 contact_information: eol-datahelp@ucar.edu
 acknowledgement: ""
-references: ""
+references:
+  Bodine, D., Rasmussen, K. 2016. NCAR/EOL Mobile Parsivel Disdrometer Data.
+  Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.5065/D6M043KW
 documentation: https://data.eol.ucar.edu/datafile/nph-get/485.065/Mobile_Disdrometer_README.pdf
-website: https://data.eol.ucar.edu/dataset/485.065
-institution: EOL Data
-source_repository: ""
+website: https://catalog.eol.ucar.edu/pecan
+institution: University of Alabama In Huntsville
+source_repository: https://data.eol.ucar.edu/dataset/485.065
 license: ""
-doi: https://doi.org/10.5065/D6M043KW
+doi: " https://doi.org/10.5065/D6M043KW"

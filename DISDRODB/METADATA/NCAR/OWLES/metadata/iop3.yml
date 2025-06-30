@@ -20,9 +20,9 @@ disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: UAH MIPS Parsivel Disdrometer Data
+title: "OWLeS: UAH Mobile Integrated Profiling System (MIPS) Disdrometer Data"
 description: ""
-project_name: OWLeS
+project_name: Ontario Winter Lake-effect Systems (OWLeS)
 keywords: ""
 summary: ""
 history: ""
@@ -49,15 +49,19 @@ calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
 contributors: ""
-authors: Dustin Phillips, Kevin Knupp
+authors: Kevin Knupp, Dustin Phillips
 authors_url: ""
-contact: phillips@nsstc.uah.edu, kevin.knupp@uah.edu
+contact: kevin.knupp@uah.edu, phillips@nsstc.uah.edu
 contact_information: eol-datahelp@ucar.edu
 acknowledgement: ""
-references: ""
-documentation: https://data.eol.ucar.edu/datafile/nph-get/382.034/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
-website: https://data.eol.ucar.edu/dataset/382.034
-institution: EOL Data
-source_repository: ""
+references:
+  "Knupp, K., Phillips, D. 2014. OWLeS: UAH MIPS Parsivel Disdrometer Data.
+  Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/33H3-H9EE-7M0F"
+documentation:
+  https://data.eol.ucar.edu/file/download/51B5262390782/UAH_MIPS_Parsivel_Disdrometer_Data_readme.txt
+  , https://catalog.eol.ucar.edu/owles/tools/missions
+website: https://catalog.eol.ucar.edu/owles
+institution: University of Alabama In Huntsville
+source_repository: https://data.eol.ucar.edu/dataset/382.034
 license: ""
 doi: https://doi.org/10.26023/33H3-H9EE-7M0F

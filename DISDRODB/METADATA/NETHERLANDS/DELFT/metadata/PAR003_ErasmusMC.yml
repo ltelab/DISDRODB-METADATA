@@ -1,0 +1,59 @@
+data_source: NETHERLANDS
+campaign_name: DELFT
+station_name: PAR003_ErasmusMC
+sensor_name: PARSIVEL2
+reader: NETHERLANDS/DELFT_NC
+raw_data_glob_pattern: "*.nc"
+raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 51.912549818
+longitude: 4.4703434351
+altitude: 20
+platform_protection: "unshielded"
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: "https://ruisdael.citg.tudelft.nl/parsivel/DISDRODB_DATA/PAR003_ErasmusMC/"
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: TU Delft optical disdrometer data PAR003 at Erasmus MC in Rotterdam
+description: "This dataset was collected during the campaign RITA2022, which took place in the city of Rotterdam between August and September 2022. The RITA2022 campaign involved many other sensors from TU Delft and partners of the Ruisdael consortium"
+project_name: "Ruisdael"
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: PAR003
+location: "Erasmus MC, Wytemaweg 10, 3015 CN Rotterdam"
+country: Netherlands
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: "OTT Hydromet"
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, José Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman, Jesse Vleeschdraager"
+authors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, José Dias Neto"
+authors_url: ""
+contact: "Marc Schleiss"
+contact_information: "m.a.schleiss@tudelft.nl"
+acknowledgement: ""
+references: ""
+documentation: "https://github.com/ruisdael-observatory/disdroDL"
+website: "https://ruisdael-observatory.nl/"
+institution: "Dept. Geoscience and Remote Sensing, Delft University of Technology"
+source_repository: ""
+license: "CC-BY 4.0"
+doi: "https://doi.org/10.4121/30081ee3-a6ff-4b08-933e-6ec2ddc1a70c.v1"

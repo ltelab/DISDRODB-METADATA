@@ -1,0 +1,65 @@
+data_source: NCAR
+campaign_name: PERILS_2023
+station_name: IOP3_MIPS
+sensor_name: PARSIVEL2
+reader: NCAR/PERILS_MIPS
+raw_data_glob_pattern: "*.dat"
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 33.123954
+longitude: -91.381511
+altitude: 33
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2023-03-24T16:27:00"
+time_coverage_end: "2023-03-25T02:08:00"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title:
+  "PERiLS 2023: UAH MAPNet Mobile Integrated Profiling System (MIPS) Disdrometer
+  Data"
+description:
+  PERiLS provides observations necessary to address environmental factors
+  and storm processes that lead to quasi-linear convective systems (QLCS) tornadogenesis.
+project_name: Propagation, Evolution and Rotation in Linear Storms (PERiLS) 2023
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+location: Arkansas
+country: United States of America
+continent: North America
+sensor_long_name: "OTT Hydromet Parsivel\xB2"
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Preston Pangle, Kevin Knupp
+authors_url: ""
+contact: preston.pangle@uah.edu, kevin.knupp@uah.edu
+contact_information: ""
+acknowledgement: ""
+references:
+  "Pangle, P., Knupp, K. 2023. PERiLS 2023: UAH MAPNet MIPS Parsivel Disdrometer
+  Data. Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/M0VR-B3RM-VV11"
+documentation: https://data.eol.ucar.edu/file/download/5570E26F1F4AD/perils2023_mips_parsivel_Readme.pdf/
+website: https://catalog.eol.ucar.edu/perils_2023
+institution: University of Alabama In Huntsville
+source_repository: https://data.eol.ucar.edu/dataset/626.027
+license: ""
+doi: https://doi.org/10.26023/M0VR-B3RM-VV11

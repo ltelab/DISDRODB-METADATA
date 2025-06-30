@@ -1,0 +1,66 @@
+data_source: NCAR
+campaign_name: PERILS_2022
+station_name: IOP1_FARM_S01
+sensor_name: PARSIVEL2
+reader: NCAR/FARM_PARSIVEL2
+raw_data_glob_pattern: "*.csv"
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 32.748167
+longitude: -88.313167
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: "2022-03-22T16:01:20"
+time_coverage_end: "2022-03-23T01:12:10"
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title:
+  "PERiLS 2022: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
+  Data"
+description:
+  PERiLS provides observations necessary to address environmental factors
+  and storm processes that lead to quasi-linear convective systems (QLCS) tornadogenesis.
+project_name: Propagation, Evolution and Rotation in Linear Storms (PERiLS) 2023
+keywords: ""
+summary: ""
+history: ""
+comment: Parsivel sensors parts of Flexible Array of Radars and Mesonets (FARM)
+station_id: ""
+location: Emelle, Alabama
+country: United States of America
+continent: North America
+sensor_long_name: OTT Hydromet Parsivel2
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Joshua Wurman, Karen Kosiba
+authors_url: ""
+contact: jwurman@illinois.edu, kakosiba@illinois.edu
+contact_information: ""
+acknowledgement: ""
+references:
+  Wurman, J., & Kosiba, K. (2022). Flexible Array of Radars and Mesonets,
+  non-Radar data, PERILS [Data set]. Flexible Array of Radars and Mesonets, University
+  of Illinois. https://doi.org/10.48514/962K-9866
+documentation: http://www.farmfacility.org/projects/PERiLS/
+website: https://catalog.eol.ucar.edu/perils_2022
+institution: Center for Severe Weather Research, University of Illinois
+source_repository: https://data.eol.ucar.edu/dataset/610.025
+license: ""
+doi: https://doi.org/10.48514/962K-9866
