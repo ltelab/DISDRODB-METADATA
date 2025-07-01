@@ -3,7 +3,7 @@ campaign_name: VORTEX_SE_2017
 station_name: IOP1B_PIPS1B_D1
 sensor_name: PARSIVEL2
 reader: NCAR/VORTEX_SE_2016_PIPS
-raw_data_glob_pattern: "*.dat"
+raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
