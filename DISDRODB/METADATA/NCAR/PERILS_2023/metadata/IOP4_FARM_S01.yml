@@ -2,7 +2,7 @@ data_source: NCAR
 campaign_name: PERILS_2023
 station_name: IOP4_FARM_S01
 sensor_name: PARSIVEL2
-reader: NCAR/PERILS_PIPS
+reader: NCAR/FARM_PARSIVEL2
 raw_data_glob_pattern: "*.csv"
 raw_data_format: txt
 measurement_interval: 10
