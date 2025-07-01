@@ -9,8 +9,8 @@ measurement_interval: 120
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 38.745630
-longitude: -122.711200
+latitude: 38.74563
+longitude: -122.7112
 altitude: 972
 platform_protection: ""
 platform_orientation: ""
@@ -27,12 +27,13 @@ keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: "mdt"
+station_id: mdt
 location: Middletown, California
 country: United States of America
 continent: North America
-sensor_long_name: "Disdromet RD-80"
-sensor_manufacturer: "Disdromet Ltd."
+koppen_geiger: Csb
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""
 sensor_serial_number: ""
 firmware_iop: ""
@@ -49,10 +50,12 @@ authors: ""
 authors_url: ""
 contact: ""
 contact_information: ""
-acknowledgement: "Data provided by the NOAA Physical Sciences Laboratory, Boulder, Colorado, USA"
+acknowledgement:
+  Data provided by the NOAA Physical Sciences Laboratory, Boulder,
+  Colorado, USA
 references: ""
 documentation: ""
-website: "https://psl.noaa.gov/"
+website: https://psl.noaa.gov/
 institution: NOAA Physical Science Laboratory
 source_repository: ""
 license: ""

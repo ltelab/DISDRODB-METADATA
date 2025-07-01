@@ -36,6 +36,7 @@ station_id: Riso - on the ground next to the V52 met mast
 location: Riso - on the ground next to the V52 met mast
 country: Denmark
 continent: Europe
+koppen_geiger: Cfb
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

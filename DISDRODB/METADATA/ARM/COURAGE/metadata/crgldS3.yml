@@ -26,11 +26,12 @@ project_name: ""
 keywords: ""
 summary: ""
 history: ""
-comment: "Bay station"
+comment: Bay station
 station_id: crgldS3
 location: Baltimore, Maryland
 country: United States of America
 continent: North America
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -50,7 +51,11 @@ authors_url: ""
 contact: ""
 contact_information: ""
 acknowledgement: ""
-references: "Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer (LD). ARM Mobile Facility (CRG) Baltimore, MD; Supplemental Facility 3 near bay (S3).  Compiled by Z. Zhu and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058."
+references:
+  Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer
+  (LD). ARM Mobile Facility (CRG) Baltimore, MD; Supplemental Facility 3 near bay
+  (S3).  Compiled by Z. Zhu and Y. Shi. ARM Data Center. Data set accessed 2024-12-13
+  at http://dx.doi.org/10.5439/1973058.
 documentation: ""
 website: ""
 institution: ARM

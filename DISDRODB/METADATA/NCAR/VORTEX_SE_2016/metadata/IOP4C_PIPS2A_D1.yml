@@ -36,6 +36,7 @@ station_id: ""
 location: Alabama
 country: United States of America
 continent: North America
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

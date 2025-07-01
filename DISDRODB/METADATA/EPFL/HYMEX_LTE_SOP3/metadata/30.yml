@@ -33,6 +33,7 @@ station_id: "30"
 location: Le Pradel (Grainage)
 country: France
 continent: Europe
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

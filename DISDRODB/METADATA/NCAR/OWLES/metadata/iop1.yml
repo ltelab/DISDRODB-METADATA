@@ -37,6 +37,7 @@ station_id: iop1
 location: Fair Haven Beach State Park
 country: USA
 continent: North America
+koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -31,6 +31,7 @@ station_id: apu12
 location: Oklahoma
 country: USA
 continent: North America
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

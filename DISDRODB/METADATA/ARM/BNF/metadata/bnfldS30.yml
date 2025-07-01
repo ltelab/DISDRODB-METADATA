@@ -28,9 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: bnfldS30
-location: "Falkville, Bankhead National Forest, Alabama"
+location: Falkville, Bankhead National Forest, Alabama
 country: USA
 continent: North America
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -50,7 +51,11 @@ authors_url: ""
 contact: ""
 contact_information: ""
 acknowledgement: ""
-references: Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer (LD). Bankhead National Forest, AL, USA; Long-term Mobile Facility (BNF) Bankhead National Forest, AL, Supplemental facility at Falkville (S30).  Compiled by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058.
+references:
+  Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer
+  (LD). Bankhead National Forest, AL, USA; Long-term Mobile Facility (BNF) Bankhead
+  National Forest, AL, Supplemental facility at Falkville (S30).  Compiled by Z. Zhu,
+  D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058.
 documentation: ""
 website: ""
 institution: ARM

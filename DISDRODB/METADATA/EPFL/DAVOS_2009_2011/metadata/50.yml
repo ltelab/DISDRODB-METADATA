@@ -35,6 +35,7 @@ station_id: "50"
 location: Davos
 country: Switzerland
 continent: Europe
+koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

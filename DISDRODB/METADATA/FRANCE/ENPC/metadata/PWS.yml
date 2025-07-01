@@ -3,7 +3,7 @@ campaign_name: ENPC
 station_name: PWS
 sensor_name: PWS100
 reader: FRANCE/ENPC_PWS100
-raw_data_glob_pattern: "Raw_PWS_*.zip"
+raw_data_glob_pattern: Raw_PWS_*.zip
 raw_data_format: txt
 measurement_interval: 30
 deployment_status: ongoing
@@ -31,6 +31,7 @@ station_id: PWS
 location: ""
 country: France
 continent: Europe
+koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

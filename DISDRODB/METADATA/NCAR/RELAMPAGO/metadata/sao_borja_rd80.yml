@@ -33,6 +33,7 @@ station_id: ""
 location: Sao Borja
 country: Brazil
 continent: South America
+koppen_geiger: Cfa
 sensor_long_name: RD-80
 sensor_manufacturer: ""
 sensor_wavelength: ""

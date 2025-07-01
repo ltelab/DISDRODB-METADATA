@@ -12,27 +12,36 @@ platform_type: fixed
 latitude: 51.9960711
 longitude: 4.37870077
 altitude: 1
-platform_protection: "unshielded"
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
-disdrodb_data_url: "https://ruisdael.citg.tudelft.nl/parsivel/DISDRODB_DATA/PAR003_Green_Village/"
+disdrodb_data_url: https://ruisdael.citg.tudelft.nl/parsivel/DISDRODB_DATA/PAR003_Green_Village/
 source: ""
 source_convention: ""
 source_processing_date: ""
 title: TU Delft optical disdrometer data PAR003 at Green Village in Delft
 description: ""
-project_name: "Ruisdael"
+project_name: Ruisdael
 keywords: ""
 summary: ""
 history: ""
-comment: "The Green Village site is different from the other Ruisdael sites. Its primary purpose is to allow researchers to test sensors, perform calibration and develop new hardware/software solutions. The Green Village also serves as a temporary home basis for all the mobile sensors used during field campaigns. Due to the special nature of this site, data quality, reliability and availability may be lower than at other locations. There are also some nearby obstacles such as trees and fences which may affect the accuracy of the precipitation measurements depending on local wind patterns."
+comment:
+  The Green Village site is different from the other Ruisdael sites. Its primary
+  purpose is to allow researchers to test sensors, perform calibration and develop
+  new hardware/software solutions. The Green Village also serves as a temporary home
+  basis for all the mobile sensors used during field campaigns. Due to the special
+  nature of this site, data quality, reliability and availability may be lower than
+  at other locations. There are also some nearby obstacles such as trees and fences
+  which may affect the accuracy of the precipitation measurements depending on local
+  wind patterns.
 station_id: PAR003
-location: "Green Village, Van Den Broekweg 4, 2628 CR Delft"
+location: Green Village, Van Den Broekweg 4, 2628 CR Delft
 country: Netherlands
 continent: Europe
+koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: "OTT Hydromet"
+sensor_manufacturer: OTT Hydromet
 sensor_wavelength: ""
 sensor_serial_number: ""
 firmware_iop: ""
@@ -44,16 +53,21 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, José Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman, Jesse Vleeschdraager"
-authors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, José Dias Neto"
+contributors:
+  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9\
+  \ Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman,\
+  \ Jesse Vleeschdraager"
+authors:
+  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9 Dias\
+  \ Neto"
 authors_url: ""
-contact: "Marc Schleiss"
-contact_information: "m.a.schleiss@tudelft.nl"
+contact: Marc Schleiss
+contact_information: m.a.schleiss@tudelft.nl
 acknowledgement: ""
 references: ""
-documentation: "https://github.com/ruisdael-observatory/disdroDL"
-website: "https://ruisdael-observatory.nl/"
-institution: "Dept. Geoscience and Remote Sensing, Delft University of Technology"
+documentation: https://github.com/ruisdael-observatory/disdroDL
+website: https://ruisdael-observatory.nl/
+institution: Dept. Geoscience and Remote Sensing, Delft University of Technology
 source_repository: ""
-license: "CC-BY 4.0"
-doi: "https://doi.org/10.4121/c70b90ab-02a3-418c-a5ea-4125d40d06a5.v3"
+license: CC-BY 4.0
+doi: https://doi.org/10.4121/c70b90ab-02a3-418c-a5ea-4125d40d06a5.v3

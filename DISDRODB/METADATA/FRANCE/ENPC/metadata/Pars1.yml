@@ -3,7 +3,7 @@ campaign_name: ENPC
 station_name: Pars1
 sensor_name: PARSIVEL2
 reader: FRANCE/ENPC_PARSIVEL2
-raw_data_glob_pattern: "Raw_pars1_*.zip"
+raw_data_glob_pattern: Raw_pars1_*.zip
 raw_data_format: txt
 measurement_interval: 30
 deployment_status: ongoing
@@ -31,6 +31,7 @@ station_id: Pars1
 location: ""
 country: France
 continent: Europe
+koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

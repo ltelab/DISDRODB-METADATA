@@ -37,6 +37,7 @@ station_id: iop4
 location: SUNY Oswego parking lot
 country: USA
 continent: North America
+koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

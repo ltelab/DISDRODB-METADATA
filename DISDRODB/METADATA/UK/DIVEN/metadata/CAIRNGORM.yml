@@ -33,6 +33,7 @@ station_id: "11"
 location: Cairngorm
 country: United Kingdom
 continent: Europe
+koppen_geiger: Cfc
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: 2143 mv mm-2

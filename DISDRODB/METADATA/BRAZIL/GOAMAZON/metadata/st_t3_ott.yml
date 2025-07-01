@@ -31,6 +31,7 @@ station_id: ""
 location: ""
 country: ""
 continent: ""
+koppen_geiger: Af
 sensor_long_name: ""
 sensor_manufacturer: ""
 sensor_wavelength: ""

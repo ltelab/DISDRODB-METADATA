@@ -31,6 +31,7 @@ station_id: "70"
 location: Rietholzbach research site
 country: Switzerland
 continent: Europe
+koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

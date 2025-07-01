@@ -31,6 +31,7 @@ station_id: "51"
 location: ""
 country: Switzerland
 continent: Europe
+koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

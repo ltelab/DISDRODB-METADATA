@@ -31,6 +31,7 @@ station_id: APU07
 location: SkyDive
 country: Canada
 continent: North America
+koppen_geiger: Dfb
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

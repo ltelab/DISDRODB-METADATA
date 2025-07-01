@@ -34,6 +34,7 @@ station_id: LAURIESTON
 location: Laurieston
 country: United Kingdom
 continent: Europe
+koppen_geiger: Cfb
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: 2143 mv mm-2

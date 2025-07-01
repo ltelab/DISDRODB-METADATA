@@ -31,6 +31,7 @@ station_id: epcldS2
 location: Mt. Soledad Lab, San Diego, California
 country: United States of America
 continent: North America
+koppen_geiger: BSk
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -50,7 +51,11 @@ authors_url: ""
 contact: ""
 contact_information: ""
 acknowledgement: ""
-references: "Atmospheric Radiation Measurement (ARM) user facility. 2023. Laser Disdrometer (LD). ARM Mobile Facility (EPC) La Jolla, CA; Supplemental Facility 2 (Mt Soledad lab) (S2). Compiled by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058."
+references:
+  Atmospheric Radiation Measurement (ARM) user facility. 2023. Laser Disdrometer
+  (LD). ARM Mobile Facility (EPC) La Jolla, CA; Supplemental Facility 2 (Mt Soledad
+  lab) (S2). Compiled by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed
+  2024-12-13 at http://dx.doi.org/10.5439/1973058.
 documentation: ""
 website: ""
 institution: ARM

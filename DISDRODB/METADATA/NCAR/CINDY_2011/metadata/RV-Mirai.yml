@@ -31,6 +31,7 @@ station_id: RV-Mirai
 location: ""
 country: ""
 continent: ""
+koppen_geiger: ""
 sensor_long_name: RD-80
 sensor_manufacturer: ""
 sensor_wavelength: ""

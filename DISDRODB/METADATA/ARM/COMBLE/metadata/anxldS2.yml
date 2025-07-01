@@ -31,6 +31,7 @@ station_id: anxldS2
 location: Bear Island, Svalbard
 country: Norway
 continent: Europe
+koppen_geiger: ET
 sensor_long_name: OTT Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -9,9 +9,9 @@ measurement_interval: 10
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: -32.8220933
+latitude: 32.8220933
 longitude: -88.15901
-altitude: null
+altitude: 40.0
 platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: "2023-02-16T16:14:00"
@@ -32,6 +32,7 @@ summary: ""
 history: ""
 comment: Parsivel sensors parts of Flexible Array of Radars and Mesonets (FARM)
 station_id: ""
+koppen_geiger: ""
 location: Boulder, Colorado
 country: United States of America
 continent: North America

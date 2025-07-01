@@ -33,6 +33,7 @@ station_id: "41"
 location: Kara Sea
 country: Russia
 continent: Asia
+koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel 1
 sensor_manufacturer: OTT
 sensor_wavelength: ""

@@ -31,6 +31,7 @@ station_id: "02"
 location: Samoylov
 country: Russia
 continent: Asia
+koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

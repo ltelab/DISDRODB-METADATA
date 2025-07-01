@@ -27,12 +27,13 @@ keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: "crl"
+station_id: crl
 location: Curanilahue
 country: Chile
 continent: South America
-sensor_long_name: "Disdromet RD-80"
-sensor_manufacturer: "Disdromet Ltd."
+koppen_geiger: Csb
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""
 sensor_serial_number: ""
 firmware_iop: ""
@@ -49,10 +50,12 @@ authors: ""
 authors_url: ""
 contact: ""
 contact_information: ""
-acknowledgement: "Data provided by the NOAA Physical Sciences Laboratory, Boulder, Colorado, USA"
+acknowledgement:
+  Data provided by the NOAA Physical Sciences Laboratory, Boulder,
+  Colorado, USA
 references: ""
 documentation: ""
-website: "https://psl.noaa.gov/"
+website: https://psl.noaa.gov/
 institution: NOAA Physical Science Laboratory
 source_repository: ""
 license: ""

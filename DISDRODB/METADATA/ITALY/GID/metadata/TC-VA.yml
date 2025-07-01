@@ -31,6 +31,7 @@ station_id: TC-VA
 location: Varese
 country: Italy
 continent: Europe
+koppen_geiger: Csa
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""

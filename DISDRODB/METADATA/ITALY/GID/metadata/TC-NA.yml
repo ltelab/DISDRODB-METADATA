@@ -31,6 +31,7 @@ station_id: TC-NA
 location: Osservatorio di Montevergine
 country: Italy
 continent: Europe
+koppen_geiger: Csa
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""

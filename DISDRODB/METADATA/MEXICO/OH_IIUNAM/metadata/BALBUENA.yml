@@ -31,6 +31,7 @@ station_id: BALBUENA
 location: Mexico city
 country: Mexico
 continent: South America
+koppen_geiger: Cwb
 sensor_long_name: ""
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -31,6 +31,7 @@ station_id: kcgldS1
 location: Kennaook/Cape Grim, Tasmania
 country: Australia
 continent: Australia
+koppen_geiger: Csb
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -50,7 +51,11 @@ authors_url: ""
 contact: ""
 contact_information: ""
 acknowledgement: ""
-references: Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer (LD). ARM Mobile Facility (KCG) kennaook ⁄ Cape Grim, Tasmania, Australia; Suppl Fac 1, colocated at M1 (S1).  Compiled by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058.
+references:
+  "Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer\
+  \ (LD). ARM Mobile Facility (KCG) kennaook \u2044 Cape Grim, Tasmania, Australia;\
+  \ Suppl Fac 1, colocated at M1 (S1).  Compiled by Z. Zhu, D. Wang and Y. Shi. ARM\
+  \ Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058."
 documentation: ""
 website: ""
 institution: ARM

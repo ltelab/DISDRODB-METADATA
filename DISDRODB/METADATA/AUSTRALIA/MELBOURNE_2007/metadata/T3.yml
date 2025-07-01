@@ -33,6 +33,7 @@ station_id: T3
 location: Melbourne
 country: Australia
 continent: Australia
+koppen_geiger: Cfb
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""

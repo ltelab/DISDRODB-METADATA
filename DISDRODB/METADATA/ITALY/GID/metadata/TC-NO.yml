@@ -31,6 +31,7 @@ station_id: TC-NO
 location: Novara
 country: Italy
 continent: Europe
+koppen_geiger: Cfa
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""

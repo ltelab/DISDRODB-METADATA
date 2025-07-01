@@ -9,8 +9,8 @@ measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 40.00
-longitude: -105.00
+latitude: 40.0
+longitude: -105.0
 altitude: 1600
 platform_protection: ""
 platform_orientation: ""
@@ -27,12 +27,13 @@ keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: "lab"
+station_id: lab
 location: Boulder, Colorado
 country: United States of America
 continent: North America
-sensor_long_name: "Disdromet RD-80"
-sensor_manufacturer: "Disdromet Ltd."
+koppen_geiger: BSk
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""
 sensor_serial_number: ""
 firmware_iop: ""
@@ -49,10 +50,12 @@ authors: ""
 authors_url: ""
 contact: ""
 contact_information: ""
-acknowledgement: "Data provided by the NOAA Physical Sciences Laboratory, Boulder, Colorado, USA"
+acknowledgement:
+  Data provided by the NOAA Physical Sciences Laboratory, Boulder,
+  Colorado, USA
 references: ""
 documentation: ""
-website: "https://psl.noaa.gov/"
+website: https://psl.noaa.gov/
 institution: NOAA Physical Science Laboratory
 source_repository: ""
 license: ""

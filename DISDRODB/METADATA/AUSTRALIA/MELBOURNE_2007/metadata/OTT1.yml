@@ -33,6 +33,7 @@ station_id: OTT1
 location: Melbourne
 country: Australia
 continent: Australia
+koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

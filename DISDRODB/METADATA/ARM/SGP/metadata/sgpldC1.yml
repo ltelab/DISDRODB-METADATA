@@ -31,6 +31,7 @@ station_id: sgpldC1
 location: Central Facility, Lamont, Oklahoma
 country: USA
 continent: North America
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

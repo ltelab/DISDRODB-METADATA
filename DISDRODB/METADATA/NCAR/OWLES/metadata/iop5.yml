@@ -31,6 +31,7 @@ station_id: iop5
 location: Sandy Creek School
 country: USA
 continent: North America
+koppen_geiger: BSk
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

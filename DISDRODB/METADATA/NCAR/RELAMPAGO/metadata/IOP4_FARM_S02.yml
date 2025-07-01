@@ -35,6 +35,7 @@ station_id: ""
 location: Comuna de Las Bajadas, Cordoba Province
 country: Argentina
 continent: North America
+koppen_geiger: Cwa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

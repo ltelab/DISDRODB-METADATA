@@ -34,6 +34,7 @@ station_id: iop21
 location: ""
 country: USA
 continent: North America
+koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

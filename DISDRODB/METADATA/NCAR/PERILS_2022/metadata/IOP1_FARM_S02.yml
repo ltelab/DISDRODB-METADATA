@@ -35,6 +35,7 @@ station_id: ""
 location: ""
 country: United States of America
 continent: North America
+koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

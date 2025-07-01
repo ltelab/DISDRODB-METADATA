@@ -31,6 +31,7 @@ station_id: olilpmM1
 location: Oliktok Point, Alaska
 country: USA
 continent: North America
+koppen_geiger: ET
 sensor_long_name: Thies Clima
 sensor_manufacturer: ""
 sensor_wavelength: ""

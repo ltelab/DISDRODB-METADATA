@@ -33,6 +33,7 @@ station_id: "5026"
 location: ""
 country: China
 continent: Asia
+koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

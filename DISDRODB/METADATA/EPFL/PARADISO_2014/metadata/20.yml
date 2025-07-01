@@ -31,6 +31,7 @@ station_id: "20"
 location: Bellechasse
 country: Switzerland
 continent: Europe
+koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
