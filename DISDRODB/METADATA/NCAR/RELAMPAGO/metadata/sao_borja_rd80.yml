@@ -11,7 +11,7 @@ deployment_mode: land
 platform_type: fixed
 latitude: -28.6352
 longitude: -56.0001
-altitude: -9999.0
+altitude: 74.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: "2018-11-01T17:04:00"
@@ -52,12 +52,14 @@ authors_url: ""
 contact: alan.calheiros@inpe.br, luiz.machado@inpe.br
 contact_information: eol-datahelp@ucar.edu
 acknowledgement: ""
-references: "Calheiros, A., Machado, L. 2019. Brazil Sao Borja RD-80 Disdrometer Data. Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/NQDF-Q5AZ-A70N"
+references:
+  Calheiros, A., Machado, L. 2019. Brazil Sao Borja RD-80 Disdrometer Data.
+  Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/NQDF-Q5AZ-A70N
 documentation:
   https://data.eol.ucar.edu/datafile/nph-get/553.013/RD80_Disdrometer_User_Guide.pdf,
   https://data.eol.ucar.edu/datafile/nph-get/553.013/Readme_RD80_disdrometer_Brazil.pdf
 website: https://catalog.eol.ucar.edu/relampago
 institution: EOL Data
-source_repository: "https://data.eol.ucar.edu/dataset/553.013"
+source_repository: https://data.eol.ucar.edu/dataset/553.013
 license: ""
 doi: https://doi.org/10.26023/NQDF-Q5AZ-A70N

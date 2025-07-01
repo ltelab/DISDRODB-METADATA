@@ -11,7 +11,7 @@ deployment_mode: land
 platform_type: fixed
 latitude: 39.1585
 longitude: -96.0081
-altitude: -9999
+altitude: 286.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: "2015-07-01T02:50:40"

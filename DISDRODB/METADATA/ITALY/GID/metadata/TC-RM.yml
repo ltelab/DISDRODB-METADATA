@@ -11,7 +11,7 @@ deployment_mode: land
 platform_type: fixed
 latitude: 41.8425
 longitude: 12.6464
-altitude: -9999
+altitude: 91.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
@@ -22,7 +22,7 @@ source_convention: ""
 source_processing_date: ""
 title: GID
 description: ""
-project_name: "GID network"
+project_name: GID network
 keywords: ""
 summary: ""
 history: ""
