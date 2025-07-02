@@ -9,3 +9,5 @@ DISDRODB/RAW/*
 secret.yml
 venv
 node_modules
+
+.DS_Store
