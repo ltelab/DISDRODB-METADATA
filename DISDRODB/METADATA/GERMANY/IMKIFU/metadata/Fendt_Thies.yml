@@ -31,6 +31,7 @@ station_id: ''
 location: ''
 country: Germany
 continent: Europe
+koppen_geiger: ''
 sensor_long_name: Thies Laser Disdrometer
 sensor_manufacturer: ''
 sensor_wavelength: ''
