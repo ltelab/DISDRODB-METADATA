@@ -1,0 +1,60 @@
+data_source: SWITZERLAND
+campaign_name: INNERERIZ
+station_name: LPM
+sensor_name: LPM
+reader: SWITZERLAND/INNERERIZ_LPM
+raw_data_glob_pattern: "*.csv"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 46.787
+longitude: 7.78
+altitude: 1060
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: https://zenodo.org/records/3956815/files/ThiesClima_Disdrometer.zip?download=1
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: ""
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: "Co-located with a 2DVD"
+station_id: ""
+location: Innereriz
+country: Switzerland
+continent: Europe
+koppen_geiger: ""
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: "Thies CLIMA"
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: Michael Fehlmann, Mario Rohrer, Annakaisa von Lerber, Markus Stoffel
+authors: Michael Fehlmann, Mario Rohrer, Annakaisa von Lerber, Markus Stoffel
+authors_url: "https://orcid.org/0000-0002-0059-553X, https://orcid.org/0000-0002-5311-383X, https://orcid.org/0000-0003-0816-1303, https://orcid.org/0000-0003-2890-1217"
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: "https://doi.org/10.5194/amt-13-4683-2020"
+documentation: ""
+website: ""
+institution: Climate Change Impacts and Risks in the Anthropocene (C-CIA), Institute for Environmental Sciences, University of Geneva
+source_repository: ""
+license: ""
+doi: "https://doi.org/10.5281/zenodo.3956815, 2020"

@@ -1,0 +1,60 @@
+data_source: SLOVENIA
+campaign_name: UL
+station_name: Crni_Vrh
+sensor_name: LPM
+reader: SLOVENIA/UL
+raw_data_glob_pattern: "*.CSV"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 46.086522
+longitude: 14.259355
+altitude: 810
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: ""
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+koppen_geiger: ""
+location: ""
+country: Slovenia
+continent: Europe
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: Nejc Bezak
+authors: Nejc Bezak
+authors_url: https://orcid.org/0000-0003-2264-1901
+contact: nejc.bezak@fgg.uni-lj.si
+contact_information: https://www.unesco-floods.eu/cv-nejc-bezak/
+acknowledgement: ""
+references: https://actahydrotechnica.fgg.uni-lj.si/paper/a29ac.pdf
+documentation: ""
+website: ""
+institution: University of Ljubljana, Faculty of Civil and Geodetic Engineering
+source_repository: ""
+license: ""
+doi: ""

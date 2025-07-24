@@ -1,0 +1,60 @@
+data_source: BELGIUM
+campaign_name: ILVO
+station_name: Melle
+sensor_name: PARSIVEL2
+reader: BELGIUM/ILVO
+raw_data_glob_pattern: "*.tar.gz"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 50.985139
+longitude: 3.772194
+altitude: 21
+platform_protection: unshielded
+platform_orientation: 135
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: "https://zenodo.org/records/16324661/files/disdro.zip?download=1"
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: "UGent optical disdrometer data PAR002 at Melle"
+description: ""
+project_name: "ILVO Melle"
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+location: "Melle"
+country: Belgium
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: "OTT Hydromet"
+sensor_wavelength: "650 nm"
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Kwinten Van Weverberg, Amaury Frankl, Steven Caluwaerts
+authors_url: "https://orcid.org/0000-0002-5397-7320, https://orcid.org/0000-0002-1685-2780, https://orcid.org/0000-0001-7456-3891"
+contact: kwinten.vanweverberg@ugent.be
+contact_information: ""
+acknowledgement: ""
+references: ""
+documentation: "https://www.ott.com/products/meteorological-sensors-26/ott-parsivel2-laser-weather-sensor-2392/"
+website: "https://geoweb.ugent.be/research/physical-geography"
+institution: Climate and Earth Lab, Ghent University
+source_repository: ""
+license: ""
+doi: ""
+koppen_geiger: ""
