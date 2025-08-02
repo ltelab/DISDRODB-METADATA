@@ -1,0 +1,75 @@
+data_source: FRANCE
+campaign_name: OZCAR_OHMCV
+station_name: 08_MONT_REDON
+sensor_name: PARSIVEL2
+reader: FRANCE/OSUG
+raw_data_glob_pattern: parsivel*.dat.gz
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 44.614
+longitude: 4.515
+altitude: 630
+platform_protection: unshielded
+platform_orientation: 90
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title:
+  Data of IGE OTT Parsivel2 optical disdrometer at Mont-Redon above the village
+  of Mirabel
+description:
+  Data of IGE OTT Parsivel2 optical disdrometer at Mont-Redon above the
+  village of Mirabel
+project_name: OZCAR_OHMCV
+keywords: ""
+summary: ""
+history: ""
+comment:
+  "Raw data recorded directly from the data logger. Processed and validated
+  data will be released on the Theia data portal | OZCAR in 2026: https://in-situ.theia-land.fr/"
+station_id: 08
+koppen_geiger: ""
+location: Mont-Redon, Mirabel
+country: France
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: 261909
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: 180
+sensor_beam_width: 30
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: "Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele
+  ne Guyard, and their colleagues of the technical service of IGE as well as previously\
+  \ Gilles Molinie, Martin Calianno, Coralie Aubert, Matthieu Le Gall and Simon\
+  \ Gerard"
+authors: Brice Boudevillain
+authors_url: https://orcid.org/0000-0002-1771-4953
+contact: brice.boudevillain@univ-grenoble-alpes.fr
+contact_information: https://www.ige-grenoble.fr/
+acknowledgement:
+  "The following acknowledgement sentence should appear in publications
+  using OHMCV data and products: 'OHMCV is funded by the Institut National des Sciences
+  de l'Univers (INSU/CNRS) and the Observatoire des Sciences de l'Univers de Grenoble
+  (OSUG / Universite Grenoble Alpes)'. You are invited to contact the PI(s) or the
+  principal scientist for more information about the data and to include the acknowledgement
+  sentence in any publication using the data."
+references: ""
+documentation: ""
+website: https://www.ige-grenoble.fr/
+institution: "Institut des Geosciences de l'Environnement"
+source_repository: ""
+license: CC-BY 4.0
+doi: http://dx.doi.org/10.17178/OHMCV.DSD.MRE.12-14.1

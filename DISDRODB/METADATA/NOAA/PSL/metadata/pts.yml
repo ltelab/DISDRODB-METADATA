@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: pts
+koppen_geiger: Csb
 location: Point Sur, California
 country: United States of America
 continent: North America
-koppen_geiger: Csb
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

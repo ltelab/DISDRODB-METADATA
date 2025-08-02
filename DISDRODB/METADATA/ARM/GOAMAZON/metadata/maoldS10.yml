@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: maoldS10
+koppen_geiger: Af
 location: Manacapuru, Amazonia, Brazil
 country: Brazil
 continent: South America
-koppen_geiger: Af
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

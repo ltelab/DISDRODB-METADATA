@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: Bay station
 station_id: crgldS3
+koppen_geiger: Cfa
 location: Baltimore, Maryland
 country: United States of America
 continent: North America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

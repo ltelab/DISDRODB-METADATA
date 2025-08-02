@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: cfc
+koppen_geiger: Csa
 location: Colfax, California
 country: United States of America
 continent: North America
-koppen_geiger: Csa
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

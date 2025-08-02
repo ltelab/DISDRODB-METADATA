@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: P2-BO
+koppen_geiger: Cfa
 location: Bologna
 country: Italy
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

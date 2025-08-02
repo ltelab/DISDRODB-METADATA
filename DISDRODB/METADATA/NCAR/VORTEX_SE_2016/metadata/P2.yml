@@ -33,10 +33,10 @@ summary:
 history: ""
 comment: ""
 station_id: P2
+koppen_geiger: Cfa
 location: UAH berm site
 country: USA
 continent: North America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

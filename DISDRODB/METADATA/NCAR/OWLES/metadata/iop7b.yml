@@ -33,10 +33,10 @@ comment:
   north of the Utah MRR transect. Two UKWA flights occurred, the first a lawnmower
   through the band and the second a direct transit through the band.
 station_id: iop7b
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

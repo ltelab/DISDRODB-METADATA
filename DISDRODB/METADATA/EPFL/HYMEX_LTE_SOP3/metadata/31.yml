@@ -30,10 +30,10 @@ comment:
   This station had a different ID (30) in the previous campaign of the same
   location (HYMEX_LTE_SOP2), in 2012
 station_id: "31"
+koppen_geiger: Cfa
 location: Les Blaches
 country: France
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

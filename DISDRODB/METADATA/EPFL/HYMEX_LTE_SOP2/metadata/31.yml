@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: "31"
+koppen_geiger: Cfa
 location: Saint-Germain
 country: France
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

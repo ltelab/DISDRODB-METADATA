@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: P2-CE
+koppen_geiger: Csa
 location: Capua (CE)
 country: Italy
 continent: Europe
-koppen_geiger: Csa
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

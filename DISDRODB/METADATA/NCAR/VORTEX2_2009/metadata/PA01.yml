@@ -30,10 +30,10 @@ summary: https://data.eol.ucar.edu/project/VORTEX2
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

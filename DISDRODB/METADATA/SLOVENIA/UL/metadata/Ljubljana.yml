@@ -9,7 +9,7 @@ measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 46.041730
+latitude: 46.04173
 longitude: 14.492848
 altitude: 292
 platform_protection: unshielded
@@ -28,8 +28,8 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
-koppen_geiger: ""
-location: "Ljubljana"
+koppen_geiger: Cfb
+location: Ljubljana
 country: Slovenia
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel

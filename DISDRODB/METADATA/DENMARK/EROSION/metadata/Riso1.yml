@@ -34,10 +34,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: Riso - on the ground next to the tall met mast
+koppen_geiger: Cfb
 location: Riso - on the ground next to the tall met mast
 country: Denmark
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

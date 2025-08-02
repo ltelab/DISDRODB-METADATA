@@ -30,10 +30,10 @@ comment:
   The flight was designed to examine the influence of a weak convective band
   off of Georgian Bay on the development of the PBL over Lake Ontario.
 station_id: iop18
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

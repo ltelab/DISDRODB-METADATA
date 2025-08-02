@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-TO
+koppen_geiger: Cfa
 location: Torino
 country: Italy
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""

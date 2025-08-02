@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: "5004"
+koppen_geiger: Cwa
 location: ""
 country: China
 continent: Asia
-koppen_geiger: Cwa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

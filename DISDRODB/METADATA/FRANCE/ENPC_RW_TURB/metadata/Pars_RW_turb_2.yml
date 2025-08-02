@@ -1,0 +1,68 @@
+data_source: FRANCE
+campaign_name: ENPC_RW_TURB
+station_name: Pars_RW_turb_2
+sensor_name: PARSIVEL2
+reader: FRANCE/ENPC_PARSIVEL2
+raw_data_glob_pattern: "*.zip"
+raw_data_format: txt
+measurement_interval: 30
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 48.1715
+longitude: 3.5591
+altitude: 276
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: HMCO_ENPC_RW_Turb
+description: HMCO-ENPC campaign on the Pays d'Othe wind farm
+project_name:
+  HMCO-ENPC campaign on the Pays d'Othe wind farm in framework of RW-Turb
+  project
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: Pars_RW_turb_2
+koppen_geiger: Cfb
+location: Coulours
+country: France
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: 180
+sensor_nominal_width: 30
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: Auguste Gires, Jerry Jose, Daniel Schertzer, Ioulia Tchiguirinskaia
+authors: Auguste Gires, Jerry Jose, Daniel Schertzer, Ioulia Tchiguirinskaia
+authors_url:
+  http://orcid.org/0000-0002-4121-9928, https://orcid.org/0000-0002-8891-2690,
+  http://orcid.org/0000-0003-4930-5115, http://orcid.org/0000-0002-0483-987X
+contact: auguste.gires@enpc.fr
+contact_information: https://hmco.enpc.fr/
+acknowledgement:
+  This work has been supported by the ANR JCJC RW-Turb project (grant
+  no. ANR-19-CE05-0022)
+references: ""
+documentation: ""
+website: https://hmco.enpc.fr/
+institution:
+  "Laboratoire Hydrologie Meteorologie et Complexite - Ecole nationale\
+  \ des ponts et chaussees - Institut Polytechnique de Paris"
+source_repository: https://doi.org/10.5281/zenodo.5801900
+license: ""
+doi: ""

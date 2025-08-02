@@ -34,10 +34,10 @@ comment:
   DOW measurements was rather poor, MIPS was nor under the band, and we did not have
   an east shore radiosonde north of the band.
 station_id: iop4
+koppen_geiger: Dfb
 location: SUNY Oswego parking lot
 country: USA
 continent: North America
-koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

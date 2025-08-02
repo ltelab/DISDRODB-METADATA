@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: " Very frequent solid precipitation given to location and height of installation"
 station_id: "50"
+koppen_geiger: Dfc
 location: Klosters-Serneus
 country: Switzerland
 continent: Europe
-koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

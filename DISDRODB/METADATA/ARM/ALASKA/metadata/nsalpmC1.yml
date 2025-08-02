@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: nsalpmC1
+koppen_geiger: ET
 location: Barrow, Alaska
 country: USA
 continent: North America
-koppen_geiger: ET
 sensor_long_name: Thies Clima
 sensor_manufacturer: ""
 sensor_wavelength: ""

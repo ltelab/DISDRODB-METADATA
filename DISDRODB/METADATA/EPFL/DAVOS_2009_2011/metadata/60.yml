@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: Snow may be frequent
 station_id: "60"
+koppen_geiger: Dfc
 location: Davos
 country: Switzerland
 continent: Europe
-koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -32,11 +32,11 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: Cfa
 location: Livingston, Alabama
 country: United States of America
 continent: North America
-koppen_geiger: Cfa
-sensor_long_name: "OTT Hydromet Parsivel\xB2"
+sensor_long_name: "OTT Hydromet Parsivel2"
 sensor_manufacturer: ""
 sensor_wavelength: ""
 sensor_serial_number: ""

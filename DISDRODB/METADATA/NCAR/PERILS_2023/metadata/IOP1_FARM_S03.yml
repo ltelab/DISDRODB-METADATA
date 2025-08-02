@@ -32,7 +32,7 @@ summary: ""
 history: ""
 comment: Parsivel sensors parts of Flexible Array of Radars and Mesonets (FARM)
 station_id: ""
-koppen_geiger: ""
+koppen_geiger: Cfa
 location: Boulder, Colorado
 country: United States of America
 continent: North America

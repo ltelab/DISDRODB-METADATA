@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: APU05
+koppen_geiger: Dfb
 location: SteamShow
 country: Canada
 continent: North America
-koppen_geiger: Dfb
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

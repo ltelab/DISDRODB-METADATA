@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: Cwb
 location: Intiyaco, Cordoba Province
 country: Argentina
 continent: North America
-koppen_geiger: Cwb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

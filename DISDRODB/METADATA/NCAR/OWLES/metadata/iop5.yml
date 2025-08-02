@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: No UWKA flight but successful sounding launches yielded good data.
 station_id: iop5
+koppen_geiger: BSk
 location: Sandy Creek School
 country: USA
 continent: North America
-koppen_geiger: BSk
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

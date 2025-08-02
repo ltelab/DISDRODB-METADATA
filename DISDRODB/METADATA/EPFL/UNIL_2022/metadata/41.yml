@@ -30,10 +30,10 @@ comment:
   A couple of co-located Parsivels installed in the University of Lausanne
   (Switzerland), on a rooftop
 station_id: "41"
+koppen_geiger: Cfb
 location: Lausanne
 country: Switzerland
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

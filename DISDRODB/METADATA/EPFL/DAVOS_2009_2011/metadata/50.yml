@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: "Deployed in an Alpine field campaign. Snow may be frequent. "
 station_id: "50"
+koppen_geiger: Dfc
 location: Davos
 country: Switzerland
 continent: Europe
-koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

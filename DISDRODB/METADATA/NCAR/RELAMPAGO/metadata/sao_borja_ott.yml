@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: Cfa
 location: Sao Borja
 country: Brazil
 continent: South America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

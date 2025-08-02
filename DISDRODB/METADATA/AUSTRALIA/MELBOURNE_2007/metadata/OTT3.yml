@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: OTT3
+koppen_geiger: Cfb
 location: Melbourne
 country: Australia
 continent: Australia
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

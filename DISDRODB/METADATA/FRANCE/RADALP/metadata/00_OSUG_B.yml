@@ -3,11 +3,11 @@ campaign_name: RADALP
 station_name: 00_OSUG_B
 sensor_name: PARSIVEL2
 reader: FRANCE/OSUG
-raw_data_glob_pattern: "parsivel*.dat"
+raw_data_glob_pattern: parsivel*.dat.gz
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
-deployment_mode: "land"
+deployment_mode: land
 platform_type: fixed
 latitude: 45.194
 longitude: 5.762
@@ -21,19 +21,21 @@ source: ""
 source_convention: ""
 source_processing_date: ""
 title: IGE OTT Parsivel2 optical disdrometer data on the roof of the IGE-OSUG-B building
-description: Disdrometer on the roof of the building OSUG-B of IGE (Institute of Geosciences of the Environment)
+description:
+  Disdrometer on the roof of the building OSUG-B of IGE (Institute of Geosciences
+  of the Environment)
 project_name: RADALP
 keywords: ""
 summary: ""
 history: ""
-comment: ""
+comment: Raw data recorded directly from the data logger.
 station_id: "00"
-location: "Saint Martin d'Heres"
+koppen_geiger: Cfa
+location: Saint Martin d'Heres
 country: France
 continent: Europe
-koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: "OTT Hydromet"
+sensor_manufacturer: OTT Hydromet
 sensor_wavelength: ""
 sensor_serial_number: ""
 firmware_iop: ""
@@ -45,16 +47,24 @@ sensor_nominal_width: 30
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: Brice Boudevillain, Stéphane Boubkraoui, Romain Biron, Christophe Rousseau, Matthieu Blanc and their colleagues of the technical service of IGE
+contributors:
+  Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Christophe Rousseau,
+  Matthieu Blanc and their colleagues of the technical service of IGE
 authors: Brice Boudevillain
 authors_url: https://orcid.org/0000-0002-1771-4953
 contact: brice.boudevillain@univ-grenoble-alpes.fr
 contact_information: https://www.ige-grenoble.fr/
-acknowledgement: "The following acknowledgement sentence should appear in publications using IGE data and products: The Institute of Geosciences of the Environment IGE is a joint research unit (CNRS, INRAE, IRD, UGA, Grenoble INP) and is part of the Observatoire des Sciences de l’Univers de Grenoble (OSUG). You are invited to contact the principal scientist for more information about the data and to include the acknowledgement sentence in any publication using the data."
+acknowledgement:
+  "The following acknowledgement sentence should appear in publications
+  using IGE data and products: 'The Institute of Geosciences of the Environment IGE
+  is a joint research unit (CNRS, INRAE, IRD, UGA, Grenoble INP) and is part of the
+  Observatoire des Sciences de l'Univers de Grenoble (OSUG)'. You are invited to
+  contact the principal scientist for more information about the data and to include
+  the acknowledgement sentence in any publication using the data."
 references: ""
 documentation: ""
 website: https://www.ige-grenoble.fr/
-institution: Institut des Géosciences de l'Environnement
+institution: Institut des Geosciences de l'Environnement
 source_repository: ""
 license: CC-BY 4.0
 doi: ""

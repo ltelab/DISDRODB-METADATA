@@ -32,10 +32,10 @@ comment:
   at 1600 EST and ending operations at 0200 EST on 13 December, although some teams
   continued data collection until 0900 EST.
 station_id: iop3
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

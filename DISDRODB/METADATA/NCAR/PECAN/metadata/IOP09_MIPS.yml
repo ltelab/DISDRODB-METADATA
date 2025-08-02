@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: ET
 location: Qinghai
 country: USA
 continent: North America
-koppen_geiger: ET
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

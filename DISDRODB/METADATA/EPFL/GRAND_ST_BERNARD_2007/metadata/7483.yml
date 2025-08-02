@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: Instrument position reconstructed from pictures. Possible errors.
 station_id: "7483"
+koppen_geiger: Dfc
 location: ""
 country: Switzerland
 continent: Europe
-koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: czc
+koppen_geiger: Csb
 location: Cazadero, California
 country: United States of America
 continent: North America
-koppen_geiger: Csb
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

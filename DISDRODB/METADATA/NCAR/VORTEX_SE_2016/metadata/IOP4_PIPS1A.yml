@@ -33,10 +33,10 @@ summary: ""
 history: ""
 comment: Collocated with UMASS FMCW during IOP4A-C
 station_id: ""
+koppen_geiger: Cfa
 location: Alabama
 country: United States of America
 continent: North America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

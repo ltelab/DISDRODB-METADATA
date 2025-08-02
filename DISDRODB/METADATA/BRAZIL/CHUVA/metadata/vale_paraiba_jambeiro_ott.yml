@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: Cfa
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Cfa
 sensor_long_name: ""
 sensor_manufacturer: ""
 sensor_wavelength: ""

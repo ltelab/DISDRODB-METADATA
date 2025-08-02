@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: cfd
+koppen_geiger: BWk
 location: Carr, Utah
 country: United States of America
 continent: North America
-koppen_geiger: BWk
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

@@ -30,10 +30,10 @@ comment:
   Note that this station changed ID from 2012 to 2013. It was previously ID
   31 for the campaign_name HYMEX_LTE_SOP2
 station_id: "12"
+koppen_geiger: Cfa
 location: Saint-Germain
 country: France
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -30,10 +30,10 @@ comment:
   Installation terminated early because of instrumental issues. Instrument
   installed within a MeteoSwiss ground station
 station_id: "60"
+koppen_geiger: Dfb
 location: Cardada
 country: Switzerland
 continent: Europe
-koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

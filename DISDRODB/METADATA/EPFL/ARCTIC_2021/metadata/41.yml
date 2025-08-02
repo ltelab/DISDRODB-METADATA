@@ -30,10 +30,10 @@ comment:
   Installed onboard a scientific boat performing measurements in the Kara Sea
   during the Arctic Century Expedition 2021
 station_id: "41"
+koppen_geiger: ""
 location: Kara Sea
 country: Russia
 continent: Asia
-koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel 1
 sensor_manufacturer: OTT
 sensor_wavelength: ""

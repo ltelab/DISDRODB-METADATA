@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: RV-Mirai
+koppen_geiger: ""
 location: ""
 country: ""
 continent: ""
-koppen_geiger: ""
 sensor_long_name: RD-80
 sensor_manufacturer: ""
 sensor_wavelength: ""

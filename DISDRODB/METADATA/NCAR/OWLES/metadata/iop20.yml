@@ -34,10 +34,10 @@ comment:
   long-fetch band was well-developed along the southern shore and moved northward
   during the IOP.
 station_id: iop20
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

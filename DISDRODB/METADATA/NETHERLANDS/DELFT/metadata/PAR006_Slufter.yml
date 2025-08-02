@@ -38,10 +38,10 @@ comment:
   tends to be lower than at other sites, due to frequent maintenance and technical
   issues.
 station_id: PAR006
+koppen_geiger: Cfb
 location: Noordzeeboulevard, 3199 LV Maasvlakte
 country: Netherlands
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
 sensor_wavelength: ""
@@ -55,12 +55,10 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors:
-  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9\
+contributors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose\
   \ Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman,\
   \ Jesse Vleeschdraager"
-authors:
-  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9 Dias\
+authors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose Dias\
   \ Neto"
 authors_url: ""
 contact: Marc Schleiss

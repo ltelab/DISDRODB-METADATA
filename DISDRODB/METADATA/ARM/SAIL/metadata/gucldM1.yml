@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: gucldM1
+koppen_geiger: Dfc
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

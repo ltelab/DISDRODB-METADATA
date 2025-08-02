@@ -33,10 +33,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: Voulund - DMI station
+koppen_geiger: Cfb
 location: Voulund - DMI station
 country: Denmark
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

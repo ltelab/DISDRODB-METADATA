@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: Aw
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Aw
 sensor_long_name: ""
 sensor_manufacturer: ""
 sensor_wavelength: ""

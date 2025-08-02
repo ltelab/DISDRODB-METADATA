@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: ""
+koppen_geiger: Cwa
 location: KM 80, Cordoba Province
 country: Argentina
 continent: North America
-koppen_geiger: Cwa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: corldM1
+koppen_geiger: Cwb
 location: "M1: Cordoba, Argentina"
 country: Argentina
 continent: South America
-koppen_geiger: Cwb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

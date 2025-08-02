@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: Located outside Kansas City
 station_id: ""
+koppen_geiger: Dfa
 location: Odessa, Missouri
 country: United States of America
 continent: North America
-koppen_geiger: Dfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

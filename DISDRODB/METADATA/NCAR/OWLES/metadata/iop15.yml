@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: A potential LLAP band was forecast with the passage of the Arctic front.
 station_id: iop15
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

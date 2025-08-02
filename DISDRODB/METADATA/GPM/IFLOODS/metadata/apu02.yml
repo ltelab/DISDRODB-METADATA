@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: apu02
+koppen_geiger: Dfa
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Dfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

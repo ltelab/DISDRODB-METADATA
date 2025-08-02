@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: CRL
+koppen_geiger: Csb
 location: Nahuelbuta Mountains
 country: Chile
 continent: South America
-koppen_geiger: Csb
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: 650nm

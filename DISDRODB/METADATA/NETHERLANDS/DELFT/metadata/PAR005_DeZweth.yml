@@ -32,10 +32,10 @@ comment:
   of the historical areas of Delfland and Schieland. The sensor is placed on top of
   an air quality monitoring container belonging to TNO, at a height of approx. 4 meters.
 station_id: PAR005
+koppen_geiger: Cfb
 location: Zwethpad 1, 2636 KD Schipluiden
 country: Netherlands
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
 sensor_wavelength: ""
@@ -49,12 +49,10 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors:
-  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9\
+contributors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose\
   \ Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman,\
   \ Jesse Vleeschdraager"
-authors:
-  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9 Dias\
+authors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose Dias\
   \ Neto"
 authors_url: ""
 contact: Marc Schleiss

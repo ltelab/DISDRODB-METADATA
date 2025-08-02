@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: bnfldS30
+koppen_geiger: Cfa
 location: Falkville, Bankhead National Forest, Alabama
 country: USA
 continent: North America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

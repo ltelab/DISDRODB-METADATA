@@ -36,10 +36,10 @@ comment:
   which may affect the accuracy of the precipitation measurements depending on local
   wind patterns.
 station_id: PAR008
+koppen_geiger: Cfb
 location: Green Village, Van Den Broekweg 4, 2628 CR Delft
 country: Netherlands
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
 sensor_wavelength: ""
@@ -53,12 +53,10 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors:
-  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9\
+contributors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose\
   \ Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman,\
   \ Jesse Vleeschdraager"
-authors:
-  "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jos\xE9 Dias\
+authors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose Dias\
   \ Neto"
 authors_url: ""
 contact: Marc Schleiss

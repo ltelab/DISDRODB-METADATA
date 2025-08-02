@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: epcldS2
+koppen_geiger: BSk
 location: Mt. Soledad Lab, San Diego, California
 country: United States of America
 continent: North America
-koppen_geiger: BSk
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: lab
+koppen_geiger: BSk
 location: Boulder, Colorado
 country: United States of America
 continent: North America
-koppen_geiger: BSk
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

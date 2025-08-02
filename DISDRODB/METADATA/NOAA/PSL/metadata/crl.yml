@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: crl
+koppen_geiger: Csb
 location: Curanilahue
 country: Chile
 continent: South America
-koppen_geiger: Csb
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

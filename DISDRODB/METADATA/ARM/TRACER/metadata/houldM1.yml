@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: houldM1
+koppen_geiger: Cfa
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

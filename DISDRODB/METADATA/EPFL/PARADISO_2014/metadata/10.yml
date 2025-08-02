@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: Installed on a roof. Possible imperfections in horizontal levelling
 station_id: "10"
+koppen_geiger: Cfb
 location: Avenches
 country: Switzerland
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

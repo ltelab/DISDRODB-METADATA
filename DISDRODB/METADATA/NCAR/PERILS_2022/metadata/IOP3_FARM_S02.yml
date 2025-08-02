@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: Parsivel sensors parts of Flexible Array of Radars and Mesonets (FARM)
 station_id: ""
+koppen_geiger: EF
 location: ""
 country: United States of America
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

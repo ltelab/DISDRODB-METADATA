@@ -30,10 +30,10 @@ comment:
   Instrument co-deployed with a MRR (Micro Rain Radar) and a X-band dual-polarization
   radar
 station_id: "20"
+koppen_geiger: Cfb
 location: Montbrun
 country: France
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

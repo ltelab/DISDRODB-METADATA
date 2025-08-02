@@ -30,10 +30,10 @@ comment:
   Latitude, Longitude and Altitude are approximative, as only visual documentation
   of this installation could be found
 station_id: "7484"
+koppen_geiger: Dfc
 location: ""
 country: Switzerland
 continent: Europe
-koppen_geiger: Dfc
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

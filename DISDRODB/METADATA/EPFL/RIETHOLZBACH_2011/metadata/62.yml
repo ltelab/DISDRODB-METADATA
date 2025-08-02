@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: "62"
+koppen_geiger: Dfb
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

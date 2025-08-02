@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: anxldM1
+koppen_geiger: Dfc
 location: Andenes, Norway
 country: Norway
 continent: Europe
-koppen_geiger: Dfc
 sensor_long_name: OTT Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

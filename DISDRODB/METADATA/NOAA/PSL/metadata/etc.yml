@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: etc
+koppen_geiger: BSh
 location: Estacion Obispo
 country: Mexico
 continent: North America
-koppen_geiger: BSh
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
 sensor_wavelength: ""

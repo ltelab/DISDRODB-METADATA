@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: CRANFIELD-UNI
+koppen_geiger: Cfb
 location: Cranfield
 country: United Kingdom
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: 2143 mv mm-2

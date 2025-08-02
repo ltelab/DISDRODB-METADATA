@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: Deployed adjacent to the RaDAPS platform
 station_id: ""
+koppen_geiger: Cfa
 location: Pleasant Hill, Alabama
 country: United States of America
 continent: North America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

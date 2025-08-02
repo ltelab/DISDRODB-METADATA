@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: Instrument installed at the MeteoSwiss site in Locarno-Monti (Switzerland)
 station_id: "61"
+koppen_geiger: Cfa
 location: Locarno-Monti
 country: Switzerland
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

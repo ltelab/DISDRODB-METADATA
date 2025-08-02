@@ -30,10 +30,10 @@ comment:
   Location of the instrument reconstructed indirectly some years apart. Location
   error may be possible.
 station_id: "10"
+koppen_geiger: Cfa
 location: Mirabel
 country: France
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

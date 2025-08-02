@@ -30,11 +30,11 @@ summary: ""
 history: ""
 comment: Parsivel sensors parts of Flexible Array of Radars and Mesonets (FARM)
 station_id: ""
+koppen_geiger: Cfa
 location: Montgomery, Alabama
 country: United States of America
 continent: North America
-koppen_geiger: Cfa
-sensor_long_name: "OTT Hydromet Parsivel\xB2"
+sensor_long_name: "OTT Hydromet Parsivel2"
 sensor_manufacturer: ""
 sensor_wavelength: ""
 sensor_serial_number: ""

@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: "10"
+koppen_geiger: Cfa
 location: Mirabel
 country: France
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel 1
 sensor_manufacturer: ""
 sensor_wavelength: ""

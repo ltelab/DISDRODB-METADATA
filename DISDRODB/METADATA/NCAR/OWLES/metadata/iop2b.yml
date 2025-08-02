@@ -31,10 +31,10 @@ comment:
   assets. OWLeS operated through the night with all ground facilities commencing operations
   at 1800 EST and ending operations at 1900 EST on 11 December.
 station_id: iop2b
+koppen_geiger: Dfb
 location: Sandy Creek School
 country: USA
 continent: North America
-koppen_geiger: Dfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

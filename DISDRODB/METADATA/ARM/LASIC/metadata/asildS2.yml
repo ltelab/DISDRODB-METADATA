@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: asildS2
+koppen_geiger: BWh
 location: Ascension Island
 country: United Kingdom Overseas Territory
 continent: ""
-koppen_geiger: BWh
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

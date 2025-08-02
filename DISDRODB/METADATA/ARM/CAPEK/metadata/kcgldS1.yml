@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: kcgldS1
+koppen_geiger: Csb
 location: Kennaook/Cape Grim, Tasmania
 country: Australia
 continent: Australia
-koppen_geiger: Csb
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: ""
 sensor_wavelength: ""

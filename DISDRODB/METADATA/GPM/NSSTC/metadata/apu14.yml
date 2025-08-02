@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: apu14
+koppen_geiger: Cfa
 location: Alabama
 country: ""
 continent: ""
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

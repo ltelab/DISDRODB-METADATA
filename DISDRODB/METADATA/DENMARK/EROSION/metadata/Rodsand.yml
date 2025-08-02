@@ -32,10 +32,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: Rodsand - offshore wind farm
+koppen_geiger: ""
 location: Rodsand - offshore wind farm
 country: Denmark
 continent: Europe
-koppen_geiger: ""
 sensor_long_name: OTT_Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""

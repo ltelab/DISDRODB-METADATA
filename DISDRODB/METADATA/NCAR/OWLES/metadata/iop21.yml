@@ -31,10 +31,10 @@ comment:
   Ontario LLAP band, with a separate minor focus on any DP from Lake Erie in the area
   of Geneva.
 station_id: iop21
+koppen_geiger: EF
 location: ""
 country: USA
 continent: North America
-koppen_geiger: EF
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

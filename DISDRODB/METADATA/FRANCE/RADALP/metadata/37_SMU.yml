@@ -1,0 +1,69 @@
+data_source: FRANCE
+campaign_name: RADALP
+station_name: 37_SMU
+sensor_name: PARSIVEL2
+reader: FRANCE/OSUG
+raw_data_glob_pattern: parsivel*.dat.gz
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 45.1598
+longitude: 5.8616
+altitude: 904
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: Data of the IGE OTT Parsivel2 optical disdrometer at Saint-Martin d Uriage
+description: Data of the IGE OTT Parsivel2 optical disdrometer at Saint-Martin d Uriage
+project_name: RADALP
+keywords: ""
+summary: ""
+history: ""
+comment: Raw data recorded directly from the data logger.
+station_id: 37
+koppen_geiger: ""
+location: Saint-Martin-d-Uriage
+country: France
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: 180
+sensor_beam_width: 30
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors:
+  "Brice Boudevillain, Guy Delrieu, Stephane Boubkraoui, Romain Biron,\
+  \ Helene Guyard, and their colleagues of the technical service of IGE."
+authors: Brice Boudevillain
+authors_url: https://orcid.org/0000-0002-1771-4953
+contact: brice.boudevillain@univ-grenoble-alpes.fr
+contact_information: https://www.ige-grenoble.fr/
+acknowledgement:
+  "The following acknowledgement sentence should appear in publications\
+  \ using IGE data and products: 'The Institute of Geosciences of the Environment\
+  \ IGE is a joint research unit (CNRS, INRAE, IRD, UGA, Grenoble INP) and is part\
+  \ of the Observatoire des Sciences de l'Univers de Grenoble (OSUG) that founded\
+  \ a part of the experiment thank to the labex OSUG@2020'. You are invited to contact\
+  \ the principal scientist for more information about the data and to include the\
+  \ acknowledgement sentence in any publication using the data."
+references: ""
+documentation: ""
+website: https://www.ige-grenoble.fr/
+institution: "Institut des Geosciences de l'Environnement"
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

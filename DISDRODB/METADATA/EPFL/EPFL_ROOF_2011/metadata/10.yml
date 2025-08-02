@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: "10"
+koppen_geiger: Cfb
 location: ""
 country: ""
 continent: ""
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

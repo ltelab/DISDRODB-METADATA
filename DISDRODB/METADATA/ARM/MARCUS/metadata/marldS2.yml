@@ -30,10 +30,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: marldS2
+koppen_geiger: ""
 location: Resupply Vessel Aurora Australis, Southern Ocean
 country: ""
 continent: ""
-koppen_geiger: ""
 sensor_long_name: Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

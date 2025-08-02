@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-MI
+koppen_geiger: Cfa
 location: Milano
 country: Italy
 continent: Europe
-koppen_geiger: Cfa
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""

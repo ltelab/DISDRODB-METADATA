@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: mosldM1
+koppen_geiger: ""
 location: ""
 country: ""
 continent: ""
-koppen_geiger: ""
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

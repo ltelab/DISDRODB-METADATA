@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: enaldC1
+koppen_geiger: Cfb
 location: "C1: Graciosa Island, Azores"
 country: Portugal
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

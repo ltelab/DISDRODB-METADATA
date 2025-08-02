@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: "41"
-location: "Wangen-Br\xFCttisellen"
+koppen_geiger: Cfb
+location: "Wangen-Bruttisellen"
 country: Switzerland
 continent: Europe
-koppen_geiger: Cfb
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

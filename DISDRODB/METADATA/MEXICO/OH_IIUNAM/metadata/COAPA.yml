@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: ""
 station_id: COAPA
+koppen_geiger: Cwb
 location: Mexico city
 country: Mexico
 continent: South America
-koppen_geiger: Cwb
 sensor_long_name: ""
 sensor_manufacturer: ""
 sensor_wavelength: ""

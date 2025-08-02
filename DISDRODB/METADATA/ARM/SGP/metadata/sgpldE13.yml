@@ -28,10 +28,10 @@ summary: ""
 history: ""
 comment: Co-located with station sgpldC1
 station_id: sgpldE13
+koppen_geiger: Cfa
 location: Lamont, Oklahoma
 country: USA
 continent: North America
-koppen_geiger: Cfa
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
