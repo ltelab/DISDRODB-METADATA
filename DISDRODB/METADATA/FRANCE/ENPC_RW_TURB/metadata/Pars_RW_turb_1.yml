@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
-disdrodb_data_url: ""
+disdrodb_data_url: "https://zenodo.org/records/16904294/files/Pars_RW_turb_1.zip?download=1"
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -64,5 +64,5 @@ institution:
   "Laboratoire Hydrologie Meteorologie et Complexite - Ecole nationale\
   \ des ponts et chaussees - Institut Polytechnique de Paris"
 source_repository: https://doi.org/10.5281/zenodo.5801900
-license: ""
-doi: ""
+license: "CC 4.0"
+doi: "https://doi.org/10.5281/zenodo.16904294"
