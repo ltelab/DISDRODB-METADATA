@@ -1,0 +1,60 @@
+data_source: MPI
+campaign_name: BOWTIE
+station_name: RV_METEOR_PARSIVEL2_1
+sensor_name: PARSIVEL2
+reader: MPI/BOWTIE
+raw_data_glob_pattern: "Parsivel*.bz2"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: ship
+platform_type: mobile
+latitude: -9999
+longitude: -9999
+altitude: -9999
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ftp-projects.mpimet.mpg.de/acpc_barbados/BOWTIE/RV_METEOR_PARSIVEL2_1
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: MPI for Meteorology, RV METEOR, optical disdrometer data
+description: ""
+project_name: BOWTIE - Beobachtung von Ozean und Wolken - Das Trans ITCZ Experiment
+keywords: ""
+summary: "Parsivel2 onboard of RV METEOR for M203, M204, M205, M206 and M207."
+history: ""
+comment: ""
+station_id: RV METEOR
+koppen_geiger: ""
+location: RV METEOR
+country: ""
+continent: ""
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: "Friedhelm Jansen, Julia Windmiller"
+authors: "Julia Windmiller"
+authors_url: ""
+contact: Friedhelm Jansen
+contact_information: friedhelm.jansen@mpimet.mpg.de
+acknowledgement: ""
+references: ""
+documentation: https://orcestra-campaign.org/rvmeteor.html
+website: https://mpimet.mpg.de
+institution: MPI fuer Meteorologie, Tropical Cloud Observations TCO
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

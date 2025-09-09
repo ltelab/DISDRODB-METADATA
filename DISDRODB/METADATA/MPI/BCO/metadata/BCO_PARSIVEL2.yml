@@ -1,0 +1,60 @@
+data_source: MPI
+campaign_name: BCO
+station_name: BCO_PARSIVEL2
+sensor_name: PARSIVEL2
+reader: MPI/BCO_PARSIVEL2
+raw_data_glob_pattern: "Parsivel2_*.bz2"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 13.1627
+longitude: -59.4286
+altitude: 28
+platform_protection: unshielded
+platform_orientation: 90
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ftp-projects.mpimet.mpg.de/acpc_barbados/DISDROMETER/BCO_PARSIVEL2
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: MPI for Meteorology, BCO, optical disdrometer data
+description: ""
+project_name: Barbados Cloud Observatory
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: BCO
+koppen_geiger: ""
+location: BCO
+country: Barbados
+continent: ""
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: "Friedhelm Jansen, Julia Windmiller"
+authors: "Julia Windmiller"
+authors_url: ""
+contact: Friedhelm Jansen
+contact_information: friedhelm.jansen@mpimet.mpg.de
+acknowledgement: ""
+references: ""
+documentation: "https://tcodata.mpimet.mpg.de/intro.html"
+website: "https://barbados.mpimet.mpg.de"
+institution: MPI fuer Meteorologie, Tropical Cloud Observations TCO
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

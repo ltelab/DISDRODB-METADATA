@@ -1,0 +1,71 @@
+data_source: CANADA
+campaign_name: UQAM
+station_name: PAR001_UQAM_PK
+sensor_name: PARSIVEL2
+reader: CANADA/UQAM_NC
+raw_data_glob_pattern: "*.nc"
+raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 45.508667
+longitude: -73.568889
+altitude: 69
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: "https://graph.uqam.ca/instruments/disdrodb/PAR001_UQAM_PK"
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: UQAM-PK Rooftop Disdrometer (OTT Parsivel 2)
+description:
+  Parsivel 2 At The UQAM-PK Weather Station (69 m MSL) Measuring Drop Size/Velocity
+  Distributions And Precipitation.
+project_name: UQAM-PK Weather Station
+keywords:
+  - Parsivel2
+  - disdrometer
+  - Montreal
+  - UQAM
+  - PK
+  - DSD
+summary: Station At Universite Du Quebec Montreal, PK Building Roof.
+history: ""
+comment: ""
+station_id: ""
+koppen_geiger: ""
+location: UQAM-PK Weather Station, Montreal, QC, Canada
+country: Canada
+continent: North America
+sensor_long_name: OTT Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: 180
+sensor_beam_width: 30
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors:
+  - Amelie Sauvageau
+  - Hadleigh Thompson
+authors_url: ""
+contact:
+  - Amelie Sauvageau
+contact_information: sauvageau.amelie@uqam.ca
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution: UQAM
+source_repository: ""
+license: CC-BY-4.0
+doi: ""
