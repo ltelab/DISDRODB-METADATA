@@ -1,0 +1,63 @@
+data_source: GERMANY
+campaign_name: DWD
+station_name: LICHTENHAIN_MITTELNDORF
+sensor_name: LPM
+reader: GERMANY/DWD
+raw_data_glob_pattern: '*.txt'
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 50.93833
+longitude: 14.20938
+altitude: 321.0
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: German DWD Thies Laser Niederschlags Messer (LNM)
+description: See https://zenodo.org/records/15855617
+project_name: ''
+keywords: ''
+summary: ''
+history: See https://zenodo.org/records/15855617
+comment: ''
+station_id: ''
+koppen_geiger: Cfb
+location: LICHTENHAIN MITTELNDORF
+country: Germany
+continent: Europe
+sensor_long_name: Thies Laser Precipitation Monitor
+sensor_manufacturer: Thies Clima
+sensor_wavelength: ''
+sensor_serial_number: see record 6 of each data line
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: see record 7 of each data line
+sensor_beam_length: 228 mm
+sensor_beam_width: 20 mm
+sensor_nominal_width: 20 mm
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: Ulrich Blahak, Patrick Tracksdorf, Nikolaos Antonoglou
+authors: Ulrich Blahak, Patrick Tracksdorf, Nikolaos Antonoglou
+authors_url: ''
+contact: Ulrich Blahak
+contact_information: ulrich.blahak@dwd.de
+acknowledgement: ''
+references: Deutscher Wetterdienst (DWD) / German Meteorological Service, Blahak,
+  U., Tracksdorf, P., & Antonoglou, N. (2025). Distrometer data of the Thies Laser
+  Niederschlags Messer (LNM) since 2019 of about 150 German meteorological SYNOP stations
+  [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15855617
+documentation: See README in https://zenodo.org/records/15855617/files/Documentation.tgz
+website: https://www.dwd.de/research
+institution: Deutscher Wetterdienst (DWD)
+source_repository: https://zenodo.org/records/15855617
+license: CC-BY 4.0
+doi: https://doi.org/10.5281/zenodo.15855617
