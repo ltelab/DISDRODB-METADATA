@@ -3,7 +3,7 @@ campaign_name: BOWTIE
 station_name: RV_METEOR_PARSIVEL2_2
 sensor_name: PARSIVEL2
 reader: MPI/BOWTIE
-raw_data_glob_pattern: "Parsivel*.bz2"
+raw_data_glob_pattern: Parsivel*.bz2
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -11,7 +11,7 @@ deployment_mode: ship
 platform_type: mobile
 latitude: -9999
 longitude: -9999
-altitude: -9999
+altitude: 10
 platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
@@ -24,7 +24,7 @@ title: MPI for Meteorology, RV METEOR, optical disdrometer data
 description: ""
 project_name: BOWTIE - Beobachtung von Ozean und Wolken - Das Trans ITCZ Experiment
 keywords: ""
-summary: "Parsivel2 onboard of RV METEOR for M203, M204, M205, M206 and M207."
+summary: Parsivel2 onboard of RV METEOR for M203, M204, M205, M206 and M207.
 history: ""
 comment: ""
 station_id: RV METEOR
@@ -45,8 +45,8 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: "Friedhelm Jansen, Julia Windmiller"
-authors: "Julia Windmiller"
+contributors: Friedhelm Jansen, Julia Windmiller
+authors: Julia Windmiller
 authors_url: ""
 contact: Friedhelm Jansen
 contact_information: friedhelm.jansen@mpimet.mpg.de

@@ -34,7 +34,7 @@ koppen_geiger: Cfa
 location: Macon, Mississippi
 country: United States of America
 continent: North America
-sensor_long_name: "OTT Hydromet Parsivel2"
+sensor_long_name: OTT Hydromet Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""
 sensor_serial_number: ""

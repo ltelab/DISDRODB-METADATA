@@ -3,7 +3,7 @@ campaign_name: BCO
 station_name: BCO_PARSIVEL2
 sensor_name: PARSIVEL2
 reader: MPI/BCO_PARSIVEL2
-raw_data_glob_pattern: "Parsivel2_*.bz2"
+raw_data_glob_pattern: Parsivel2_*.bz2
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
@@ -28,7 +28,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: BCO
-koppen_geiger: ""
+koppen_geiger: Am
 location: BCO
 country: Barbados
 continent: ""
@@ -45,15 +45,15 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: "Friedhelm Jansen, Julia Windmiller"
-authors: "Julia Windmiller"
+contributors: Friedhelm Jansen, Julia Windmiller
+authors: Julia Windmiller
 authors_url: ""
 contact: Friedhelm Jansen
 contact_information: friedhelm.jansen@mpimet.mpg.de
 acknowledgement: ""
 references: ""
-documentation: "https://tcodata.mpimet.mpg.de/intro.html"
-website: "https://barbados.mpimet.mpg.de"
+documentation: https://tcodata.mpimet.mpg.de/intro.html
+website: https://barbados.mpimet.mpg.de
 institution: MPI fuer Meteorologie, Tropical Cloud Observations TCO
 source_repository: ""
 license: CC-BY 4.0

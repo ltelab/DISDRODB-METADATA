@@ -1,0 +1,66 @@
+data_source: ITALY
+campaign_name: HYDROX
+station_name: Rome
+sensor_name: PARSIVEL2
+reader: GREECE/NOA
+raw_data_glob_pattern: "*.mi7"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 41.8397
+longitude: 12.6473
+altitude: 103
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: https://zenodo.org/records/17136444/files/Rome.zip?download=1
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: NOA laser disdrometer data at Rome, Italy
+description: ""
+project_name: Advancing hydrometeorological uses of X-band dual-polarization radar
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: NOA_Rome
+koppen_geiger: Csa
+location: National Research Council, Rome
+country: Italy
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors:
+  John Kalogiros (NOA), Marios Anagnostou (NOA), Luca Baldini (CNR), Emmanouil
+  Anagnostou (UCONN)
+authors: John Kalogiros
+authors_url: https://www.iersd.noa.gr/en/staff/researchers/dr-kalogiros-john/
+contact: John Kalogiros
+contact_information: jkalog@noa.gr
+acknowledgement:
+  Greek General Secretariat forResearch and Technology under the Grant
+  Agreement Number PE10(975) HYDRO-X
+references: ""
+documentation: ""
+website: ""
+institution:
+  Institute of Environmental Research and Sustainable Development, National
+  Observatory of Athens
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

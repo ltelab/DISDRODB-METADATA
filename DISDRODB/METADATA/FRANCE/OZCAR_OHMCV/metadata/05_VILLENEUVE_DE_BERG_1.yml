@@ -32,7 +32,7 @@ comment:
   "Raw data recorded directly from the data logger. Processed and validated
   data will be released on the Theia data portal | OZCAR in 2026: https://in-situ.theia-land.fr/"
 station_id: 5
-koppen_geiger: ""
+koppen_geiger: Cfa
 location: Villeneuve-de-Berg
 country: France
 continent: Europe
@@ -49,10 +49,10 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: "Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele
-  ne Guyard, and their colleagues of the technical service of IGE as well as previously\
-  \ Gilles Molinie, Martin Calianno, Coralie Aubert, Matthieu Le Gall and Simon\
-  \ Gerard"
+contributors:
+  Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele ne Guyard,
+  and their colleagues of the technical service of IGE as well as previously Gilles
+  Molinie, Martin Calianno, Coralie Aubert, Matthieu Le Gall and Simon Gerard
 authors: Brice Boudevillain
 authors_url: https://orcid.org/0000-0002-1771-4953
 contact: brice.boudevillain@univ-grenoble-alpes.fr
@@ -67,7 +67,7 @@ acknowledgement:
 references: ""
 documentation: ""
 website: https://www.ige-grenoble.fr/
-institution: "Institut des Geosciences de l'Environnement"
+institution: Institut des Geosciences de l'Environnement
 source_repository: ""
 license: CC-BY 4.0
 doi: http://dx.doi.org/10.17178/OHMCV.DSD.VB1.12-16.1

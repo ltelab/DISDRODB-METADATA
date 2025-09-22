@@ -2,9 +2,9 @@ data_source: DENMARK
 campaign_name: EROSION
 station_name: Rodsand
 sensor_name: PARSIVEL2
-reader: DENMARK/EROSION_nc
-raw_data_glob_pattern: "*.nc"
-raw_data_format: netcdf
+reader: DENMARK/EROSION_raw
+raw_data_glob_pattern: "*.atm4"
+raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
@@ -16,7 +16,7 @@ platform_protection: ""
 platform_orientation: ""
 time_coverage_start: "2018-12-11T10:20:00"
 time_coverage_end: "2019-06-19T23:59:00"
-disdrodb_data_url: ""
+disdrodb_data_url: https://data.dtu.dk/ndownloader/files/57626701
 source: ""
 source_convention: ""
 source_processing_date: ""

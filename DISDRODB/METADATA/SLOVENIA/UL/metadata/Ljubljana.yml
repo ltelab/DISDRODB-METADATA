@@ -3,7 +3,7 @@ campaign_name: UL
 station_name: Ljubljana
 sensor_name: PARSIVEL
 reader: SLOVENIA/UL
-raw_data_glob_pattern: "*.CSV"
+raw_data_glob_pattern: "*.dat.gz"
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
-disdrodb_data_url: ""
+disdrodb_data_url: "https://zenodo.org/records/17136392/files/Ljubljana.zip?download=1"
 source: ""
 source_convention: ""
 source_processing_date: ""

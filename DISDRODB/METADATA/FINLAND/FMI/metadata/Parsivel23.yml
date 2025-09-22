@@ -20,7 +20,7 @@ disdrodb_data_url: https://cloudnet.fmi.fi/api/download/collection/62b089ed-9122
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: "Disdrometer data from Hyytiala"
+title: Disdrometer data from Hyytiala
 description: ""
 project_name: ""
 keywords: ""
@@ -31,7 +31,7 @@ comment:
   facility
 station_id: Parsivel23
 koppen_geiger: Dfc
-location: "Hyytiala"
+location: Hyytiala
 country: Finland
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel2
@@ -56,8 +56,8 @@ acknowledgement:
   We acknowledge ACTRIS and Finnish Meteorological Institute for providing
   the data set which is available for download from https://cloudnet.fmi.fi.
 references:
-  "Moisseev, D. (2025). Custom collection of disdrometer data from Hyytia\
-  la since 1 Jan 2014. ACTRIS Cloud remote sensing data centre unit (CLU). https://doi.org/10.60656/62b089ed91224a18"
+  Moisseev, D. (2025). Custom collection of disdrometer data from Hyytiala
+  since 1 Jan 2014. ACTRIS Cloud remote sensing data centre unit (CLU). https://doi.org/10.60656/62b089ed91224a18
 documentation: ""
 website: ""
 institution: University of Helsinki

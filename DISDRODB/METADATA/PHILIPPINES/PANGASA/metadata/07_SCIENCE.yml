@@ -1,0 +1,60 @@
+data_source: PHILIPPINES
+campaign_name: PANGASA
+station_name: 07_SCIENCE
+sensor_name: PARSIVEL2
+reader: PHILIPPINES/PANGASA
+raw_data_glob_pattern: "*.zip"
+raw_data_format: txt
+measurement_interval: 300
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 14.650668
+longitude: 121.039909
+altitude: 100 # dummy
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: PANGASA OTT Parsivel Disdrometer Network
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: "07_SCIENCE"
+koppen_geiger: Cfb
+location: "Science Garden"
+country: Philippines
+continent: "Asia"
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution: "Philippine Atmospheric, Geophysical and Astronomical Services Administration (PANGASA)"
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

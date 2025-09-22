@@ -16,7 +16,7 @@ platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
-disdrodb_data_url: "https://graph.uqam.ca/instruments/disdrodb/PAR001_UQAM_PK"
+disdrodb_data_url: https://graph.uqam.ca/instruments/disdrodb/PAR001_UQAM_PK
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -36,7 +36,7 @@ summary: Station At Universite Du Quebec Montreal, PK Building Roof.
 history: ""
 comment: ""
 station_id: ""
-koppen_geiger: ""
+koppen_geiger: Dfb
 location: UQAM-PK Weather Station, Montreal, QC, Canada
 country: Canada
 continent: North America

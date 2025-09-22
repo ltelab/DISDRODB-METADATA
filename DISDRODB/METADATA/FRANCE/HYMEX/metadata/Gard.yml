@@ -1,0 +1,66 @@
+data_source: FRANCE
+campaign_name: HYMEX
+station_name: Gard
+sensor_name: PARSIVEL2
+reader: GREECE/NOA
+raw_data_glob_pattern: "*.mi7"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 44.06392
+longitude: 4.14144
+altitude: 202.5
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: https://zenodo.org/records/17136444/files/Gard.zip?download=1
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: NOA laser disdrometer data at Gard, France
+description: ""
+project_name: HYdrological cycle in the Mediterranean EXperiment
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: NOA_Gard
+koppen_geiger: Csa
+location: Deaux airport, Gard
+country: France
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors:
+  John Kalogiros (NOA), Marios Anagnostou (NOA), Emmanouil Anagnostou
+  (UCONN), Guy Delrieu (UGA-LTHE), Brice Boudevillain (UGA-LTHE)
+authors: John Kalogiros
+authors_url: https://www.iersd.noa.gr/en/staff/researchers/dr-kalogiros-john/
+contact: John Kalogiros
+contact_information: jkalog@noa.gr
+acknowledgement:
+  Centre National de la Recherche Scientifique, France for financial
+  support of the campaign
+references: ""
+documentation: ""
+website: ""
+institution:
+  Institute of Environmental Research and Sustainable Development, National
+  Observatory of Athens
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

@@ -36,7 +36,7 @@ koppen_geiger: Cfa
 location: Pheba, Mississippi
 country: United States of America
 continent: North America
-sensor_long_name: "OTT Hydromet Parsivel2"
+sensor_long_name: OTT Hydromet Parsivel2
 sensor_manufacturer: ""
 sensor_wavelength: ""
 sensor_serial_number: ""

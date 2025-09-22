@@ -11,7 +11,7 @@ deployment_mode: ship
 platform_type: mobile
 latitude: -9999
 longitude: -9999
-altitude: -9999.0
+altitude: 10
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: "2011-09-26T00:00:00"

@@ -45,11 +45,11 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose\
-  \ Dias Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman,\
-  \ Jesse Vleeschdraager"
-authors: "Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose Dias\
-  \ Neto"
+contributors:
+  Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose Dias
+  Neto, Saverio Guzzo, Vasil Chirov, Mels Lutgerink, Ella Milinovic, Noky Soekarman,
+  Jesse Vleeschdraager
+authors: Marc Schleiss, Andre Castro, Rob Mackenzie, Mahaut Sourzac, Jose Dias Neto
 authors_url: ""
 contact: Marc Schleiss
 contact_information: m.a.schleiss@tudelft.nl

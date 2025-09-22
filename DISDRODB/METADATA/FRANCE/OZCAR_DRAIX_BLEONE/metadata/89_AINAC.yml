@@ -30,7 +30,7 @@ comment:
   "Raw data recorded directly from the data logger. Processed and validated
   data will be released on the Theia data portal | OZCAR in 2026: https://in-situ.theia-land.fr/"
 station_id: 89
-koppen_geiger: ""
+koppen_geiger: Dfb
 location: Ainac
 country: France
 continent: Europe
@@ -48,26 +48,26 @@ calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
 contributors:
-  "Cedric Legout, Brice Boudevillain, Romain Biron, and their colleagues\
-  \ of the technical service of IGE."
-authors: "Cedric Legout"
+  Cedric Legout, Brice Boudevillain, Romain Biron, and their colleagues
+  of the technical service of IGE.
+authors: Cedric Legout
 authors_url: https://orcid.org/0000-0003-2958-4815
 contact: cedric.legout@univ-grenoble-alpes.fr
 contact_information: https://www.ige-grenoble.fr/
 acknowledgement:
-  "The following acknowledging sentence should appear in publications\
-  \ using data and products from the Galabre watershed of the Draix Bleone Observatory:\
-  \ 'DRAIX BLEONE is funded by the Institut National des Sciences de l'Univers\
-  \ (INSU/CNRS) and the Observatoire des Sciences de l'Univers de Grenoble (OSUG\
-  \ / Universite Grenoble Alpes)'. Always quote below citation to Legout et al.\
-  \ when using these data. Legout C., Freche G., Biron R., Esteves M., Nord G, Navratil\
-  \ O., Uber M., Grangeon T., Hachgenei N., Boudevillain B. Voiron C., Spadini L.\
-  \ A critical zone observatory dedicated to suspended sediment transport: the meso-scale\
-  \ Galabre catchment (southern French Alps), Hydrological Processes, https://doi.org/10.1002/hyp.14084."
+  "The following acknowledging sentence should appear in publications
+  using data and products from the Galabre watershed of the Draix Bleone Observatory:
+  'DRAIX BLEONE is funded by the Institut National des Sciences de l'Univers (INSU/CNRS)
+  and the Observatoire des Sciences de l'Univers de Grenoble (OSUG / Universite Grenoble
+  Alpes)'. Always quote below citation to Legout et al. when using these data. Legout
+  C., Freche G., Biron R., Esteves M., Nord G, Navratil O., Uber M., Grangeon T.,
+  Hachgenei N., Boudevillain B. Voiron C., Spadini L. A critical zone observatory
+  dedicated to suspended sediment transport: the meso-scale Galabre catchment (southern
+  French Alps), Hydrological Processes, https://doi.org/10.1002/hyp.14084."
 references: https://doi.org/10.1002/hyp.14084
 documentation: ""
 website: https://www.ige-grenoble.fr/
-institution: "Institut des Geosciences de l'Environnement"
+institution: Institut des Geosciences de l'Environnement
 source_repository: OSUG
 license: CC-BY 4.0
 doi: http://dx.doi.org/10.17178/DRAIXBLEONE_GAL_AIN_DSD_1920

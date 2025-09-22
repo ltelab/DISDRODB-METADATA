@@ -1,0 +1,67 @@
+data_source: ITALY
+campaign_name: HYDROX
+station_name: Trafoi
+sensor_name: PARSIVEL2
+reader: ITALY/HYDROX
+raw_data_glob_pattern: "*.mi7"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 46.6488
+longitude: 10.7068
+altitude: 1383
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: https://zenodo.org/records/17136444/files/Trafoi.zip?download=1
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: NOA laser disdrometer data at Trafoi, Italy
+description: ""
+project_name: Advancing hydrometeorological uses of X-band dual-polarization radar
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: NOA_Trafoi
+koppen_geiger: Dfb
+location: Gadria basin, Italin Alps
+country: Italy
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors:
+  John Kalogiros (NOA), Marios Anagnostou (NOA), Marco Borga (UNIPD),
+  Emmanouil Anagnostou (UCONN)
+authors: John Kalogiros
+authors_url: https://www.iersd.noa.gr/en/staff/researchers/dr-kalogiros-john/
+contact: John Kalogiros
+contact_information: jkalog@noa.gr
+acknowledgement:
+  Greek General Secretariat for Research and Technology under the Grant
+  Agreement Number PE10(975) HYDRO-X, and Civil Protection Agency of the Autonomous
+  Province of Bolzano, Italy for technical support
+references: ""
+documentation: ""
+website: ""
+institution:
+  Institute of Environmental Research and Sustainable Development, National
+  Observatory of Athens
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

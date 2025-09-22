@@ -29,7 +29,7 @@ history: ""
 comment: ""
 station_id: "20"
 koppen_geiger: Cfb
-location: "Wangen-Bruttisellen"
+location: Wangen-Bruttisellen
 country: Switzerland
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel

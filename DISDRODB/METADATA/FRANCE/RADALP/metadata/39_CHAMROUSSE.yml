@@ -21,18 +21,18 @@ source: ""
 source_convention: ""
 source_processing_date: ""
 title:
-  "Data of the IGE OTT Parsivel2 optical disdrometer in the meteorological station\
-  \ (Meteo-France) of Le Recoin at Chamrousse"
+  Data of the IGE OTT Parsivel2 optical disdrometer in the meteorological station
+  (Meteo-France) of Le Recoin at Chamrousse
 description:
-  "Data of the IGE OTT Parsivel2 optical disdrometer in the meteorological\
-  \ station (Meteo-France) of Le Recoin at Chamrousse"
+  Data of the IGE OTT Parsivel2 optical disdrometer in the meteorological
+  station (Meteo-France) of Le Recoin at Chamrousse
 project_name: RADALP
 keywords: ""
 summary: ""
 history: ""
 comment: Raw data recorded directly from the data logger.
 station_id: 39
-koppen_geiger: ""
+koppen_geiger: Cfb
 location: Chamrousse
 country: France
 continent: Europe
@@ -49,24 +49,25 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: "Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele
-  ne Guyard, and their colleagues of the technical service of IGE."
+contributors:
+  Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele ne Guyard,
+  and their colleagues of the technical service of IGE.
 authors: Brice Boudevillain
 authors_url: https://orcid.org/0000-0002-1771-4953
 contact: brice.boudevillain@univ-grenoble-alpes.fr
 contact_information: https://www.ige-grenoble.fr/
 acknowledgement:
-  "The following acknowledgement sentence should appear in publications\
-  \ using IGE data and products: 'The Institute of Geosciences of the Environment\
-  \ IGE is a joint research unit (CNRS, INRAE, IRD, UGA, Grenoble INP) and is part\
-  \ of the Observatoire des Sciences de l'Univers de Grenoble (OSUG) that founded\
-  \ a part of the experiment thank to the labex OSUG@2020'. You are invited to contact\
-  \ the principal scientist for more information about the data and to include the\
-  \ acknowledgement sentence in any publication using the data."
+  "The following acknowledgement sentence should appear in publications
+  using IGE data and products: 'The Institute of Geosciences of the Environment IGE
+  is a joint research unit (CNRS, INRAE, IRD, UGA, Grenoble INP) and is part of the
+  Observatoire des Sciences de l'Univers de Grenoble (OSUG) that founded a part of
+  the experiment thank to the labex OSUG@2020'. You are invited to contact the principal
+  scientist for more information about the data and to include the acknowledgement
+  sentence in any publication using the data."
 references: ""
 documentation: ""
 website: https://www.ige-grenoble.fr/
-institution: "Institut des Geosciences de l'Environnement"
+institution: Institut des Geosciences de l'Environnement
 source_repository: ""
 license: CC-BY 4.0
 doi: ""
