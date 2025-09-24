@@ -1,0 +1,55 @@
+name: Build & Deploy Station Map
+
+on:
+  push:
+    branches: [main] # adjust to your default branch
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up micromamba
+        uses: mamba-org/setup-micromamba@v2
+        with:
+          environment-file: ci/environment_map.yml
+          create-args: >-
+            python=3.11
+          cache-downloads: true
+          cache-env: true
+          init-shell: bash
+
+      - name: Generate map
+        env:
+          OUTPUT_DIR: public
+        shell: bash -l {0} # IMPORTANT: ensures micromamba env is activated
+        run: |
+          python .github/scripts/generate_map.py
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
