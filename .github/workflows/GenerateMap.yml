@@ -36,7 +36,7 @@ jobs:
           OUTPUT_DIR: public
         shell: bash -l {0} # IMPORTANT: ensures micromamba env is activated
         run: |
-          python .github/scripts/generate_map.py
+          python .github/scripts/generate_html_map.py
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
