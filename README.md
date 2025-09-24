@@ -1,35 +1,56 @@
 # Welcome to the DISDRODB Metadata Archive
 
-**Documentation** : [disdrodb.readthedocs.io](https://disdrodb.readthedocs.io/en/latest/)
+📖 **Documentation**: [disdrodb.readthedocs.io](https://disdrodb.readthedocs.io/en/latest/)  
+💻 **Software repository**: [DISDRODB](https://github.com/ltelab/disdrodb)  
 
-**Software repository** : [disdrodb](https://github.com/ltelab/disdrodb)
+---
 
-DISDRODB is an international initiative to index, collect, and harmonize drop size distribution (DSD) data from around the world.
+## About DISDRODB  
 
-The DISDRODB project aims to also establish a global standard for sharing disdrometer observations.
-Built on FAIR data principles and Climate & Forecast (CF) conventions,
+DISDRODB is an international initiative to **index, collect, and harmonize drop size distribution (DSD) data** from disdrometers around the world.  
 
-DISDRODB standards facilitates the processing, analysis, and visualization of disdrometer data.
+The project also aims to establish a **global standard for sharing disdrometer observations**, following:  
+- **FAIR data principles** (Findable, Accessible, Interoperable, Reusable)  
+- **CF conventions** (Climate & Forecast metadata standards)  
 
-This repository hosts the DISDRODB Metadata Archive, which serves as a central registry for:
+By adopting these standards, DISDRODB facilitates the **processing, analysis, and visualization** of disdrometer data across diverse datasets and institutions.  
 
-- Station Inventory: a catalog of all available disdrometer sites
+---
 
-- Station Status: a register for any stations malfunctions
+## What this Repository Contains  
 
-- Raw Data Archives: URLs linking to the raw disdrometer data repositories
+This repository hosts the **DISDRODB Metadata Archive**, which serves as the central registry for:  
 
-By using GitHub, we enable the community to collaboratively improve station metadata,
-track sensor performance, and iteratively enhance data quality - while keeping every step transparent and fully reproducible.
+- 📍 **Station Inventory**: catalog of all available disdrometer sites  
 
-To ensure quality and metadata consistency, we follow a comprehensive [standard set of metadata keys](https://disdrodb.readthedocs.io/en/latest/metadata.html).
+- 🛠️ **Station Status**: a record of problematic timesteps or time periods affected by station malfunctions
 
-Contributors can report sensor issues or periods with erroneous data via dedicated YAML files, making it easy to pinpoint and document any anomalies.
+- 💾 **Raw Data Archives**: URLs linking to the original disdrometer data repositories  
+
+
+By using GitHub, the community can collaboratively:  
+- Improve and correct station metadata  
+- Track sensor performance over time  
+- Enhance data quality with a transparent, reproducible workflow  
+
+All metadata follow a comprehensive [standardized schema](https://disdrodb.readthedocs.io/en/latest/metadata.html) to ensure consistency.  
+
+Contributors can also report instrument malfunctions or erroneous measurements through **dedicated YAML files**, making it easy to document anomalies.  
+
+---
+
+## 🌍 Interactive Station Map
+
+Click on the image below to access the **full-screen interactive map** of all DISDRODB stations:
+
+[![Open the interactive map](https://ltelab.github.io/DISDRODB-METADATA/map_preview.png)](https://ltelab.github.io/DISDRODB-METADATA/stations_map.html)
+
+---
 
 ## DISDRODB Metadata Archive Structure
 
-The DISDRODB Metadata Archive is composed of many `<DATA_SOURCE>` (i.e. `EPFL`) that contain one or many `<CAMPAIGN_NAME>`(i.e. `HYMEX_LTE_SOP3`).
-Every campaign has one or many stations.
+The DISDRODB Metadata Archive is organized by data sources and campaigns. 
+Each `<DATA_SOURCE>` (e.g., `EPFL`) contains one or more `<CAMPAIGN_NAME>` (e.g., `HYMEX_LTE_SOP3`), which in turn contain station-level metadata.  
 
 ```
   📁 DISDRODB
@@ -44,13 +65,14 @@ Every campaign has one or many stations.
                   ├── 📜 <station_name_2>.yml  
 ```
 
-Each **metadata YAML** file contains relevant information of the station (e.g. type of device, position, disdrodb reader, disdrodb data url, …) which is required for the correct integration and processing into DISDRODB.
+- **Metadata YAML files** → contain station information (device type, position, reader, data URLs, etc.) needed for integration and processing.  
+- **Issue YAML files** → document time periods of malfunctioning instruments or erroneous data that must be excluded during processing.  
 
-Each **issue YAML** file reports timesteps or time periods with instrument malfunctioning and measurements errors that must be discarded when processing the data.
+---
 
-## Frequently Asked Questions (FAQs)
+## 📌 Frequently Asked Questions (FAQs)
 
-- [How to Download DISDRODB data ?](https://disdrodb.readthedocs.io/en/latest/quick_start.html)
+- [How to Download DISDRODB data?](https://disdrodb.readthedocs.io/en/latest/quick_start.html)
 - [How to Update the DISDRODB Metadata Archive ?](https://disdrodb.readthedocs.io/en/latest/metadata_archive.html)
 - [How to Contribute New Data to DISDRODB ?](https://disdrodb.readthedocs.io/en/latest/contribute_data.html)
 - [What are the DISDRODB Contributing Guidelines ?](https://disdrodb.readthedocs.io/en/latest/contributors_guidelines.html)
