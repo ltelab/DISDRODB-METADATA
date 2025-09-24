@@ -17,7 +17,7 @@ By adopting these standards, DISDRODB facilitates the **processing, analysis, an
 
 ---
 
-## What this Repository Contains  
+## Content of this repository 
 
 This repository hosts the **DISDRODB Metadata Archive**, which serves as the central registry for:  
 
@@ -35,11 +35,11 @@ By using GitHub, the community can collaboratively:
 
 All metadata follow a comprehensive [standardized schema](https://disdrodb.readthedocs.io/en/latest/metadata.html) to ensure consistency.  
 
-Contributors can also report instrument malfunctions or erroneous measurements through **dedicated YAML files**, making it easy to document anomalies.  
+Contributors can also report instrument malfunctions or erroneous measurements through dedicated issues YAML files, making it easy to document anomalies.  
 
 ---
 
-## 🌍 Interactive Station Map
+## 🌍 Interactive stations map
 
 Click on the image below to access the **full-screen interactive map** of all DISDRODB stations:
 
@@ -47,7 +47,7 @@ Click on the image below to access the **full-screen interactive map** of all DI
 
 ---
 
-## DISDRODB Metadata Archive Structure
+## DISDRODB Metadata Archive structure
 
 The DISDRODB Metadata Archive is organized by data sources and campaigns. 
 Each `<DATA_SOURCE>` (e.g., `EPFL`) contains one or more `<CAMPAIGN_NAME>` (e.g., `HYMEX_LTE_SOP3`), which in turn contain station-level metadata.  
