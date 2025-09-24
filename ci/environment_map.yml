@@ -6,3 +6,5 @@ dependencies:
   - numpy
   - folium
   - disdrodb
+  - playwright
+  - playwright-stealth
