@@ -1,0 +1,64 @@
+data_source: PHILIPPINES
+campaign_name: PAGASA
+station_name: 10_NUEVAEC
+sensor_name: PARSIVEL2
+reader: PHILIPPINES/PANGASA
+raw_data_glob_pattern: "*.zip"
+raw_data_format: txt
+measurement_interval: 300
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 15.73581
+longitude: 120.93688
+altitude: 79
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: PAGASA OTT Parsivel Disdrometer Network
+description: PAGASA CLSU Agromet Station
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: 10_NUEVAEC
+koppen_geiger: ""
+location:
+  "PAGASA Agromet Station, Maharlika Highway Science City of Mu\xF1oz, Nueva\
+  \ Ecija 3119"
+country: Philippines
+continent: Asia
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: 780 nm
+sensor_serial_number: 450015
+firmware_iop: 2.11.2
+firmware_dsp: 2.11.1
+firmware_version: ""
+sensor_beam_length: 180 mm
+sensor_beam_width: 30 mm
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution:
+  Philippine Atmospheric, Geophysical and Astronomical Services Administration
+  (PAGASA)
+source_repository: ""
+license: CC-BY 4.0
+doi: ""

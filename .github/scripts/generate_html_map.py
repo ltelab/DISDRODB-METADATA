@@ -28,14 +28,34 @@ df = df[
 ]
 
 
-# Jitter coordinates to avoid overlapping
-def rand_jitter(arr):
-    thr_degs = 0.01
-    return arr + np.random.randn(len(arr)) * thr_degs
+# Jitter stations coordinates to avoid overlapping
+def jitter_lat_lon(latitudes, longitudes, max_meters=10):
+    """Add random jitter up to ±max_meters to avoid overlapping points."""
+    latitudes = np.asarray(latitudes)
+    longitudes = np.asarray(longitudes)
+
+    # Latitude: constant conversion
+    meters_per_deg_lat = 111_320
+    dlat = (
+        np.random.uniform(-max_meters, max_meters, size=len(latitudes))
+        / meters_per_deg_lat
+    )
+
+    # Longitude: depends on latitude
+    meters_per_deg_lon = meters_per_deg_lat * np.cos(np.radians(latitudes))
+    dlon = (
+        np.random.uniform(-max_meters, max_meters, size=len(longitudes))
+        / meters_per_deg_lon
+    )
+
+    return latitudes + dlat, longitudes + dlon
 
 
-df["latitude"] = rand_jitter(df["latitude"])
-df["longitude"] = rand_jitter(df["longitude"])
+lats, lons = jitter_lat_lon(
+    latitudes=df["latitude"], longitudes=df["longitude"], max_meters=10
+)
+df["latitude"] = lats
+df["longitude"] = lons
 
 
 # Define popup

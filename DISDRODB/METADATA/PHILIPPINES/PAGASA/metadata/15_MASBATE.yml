@@ -1,0 +1,62 @@
+data_source: PHILIPPINES
+campaign_name: PAGASA
+station_name: 15_MASBATE
+sensor_name: PARSIVEL2
+reader: PHILIPPINES/PANGASA
+raw_data_glob_pattern: "*.zip"
+raw_data_format: txt
+measurement_interval: 300
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 12.36628
+longitude: 123.62923
+altitude: 14
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: PAGASA OTT Parsivel Disdrometer Network
+description: PAGASA Masbate Synoptic Station
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: 15_MASBATE
+koppen_geiger: ""
+location: Nursery St., Masbate City, Masbate 5400
+country: Philippines
+continent: Asia
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: 780 nm
+sensor_serial_number: 450013
+firmware_iop: 2.11.2
+firmware_dsp: 2.11.1
+firmware_version: ""
+sensor_beam_length: 180 mm
+sensor_beam_width: 30 mm
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution:
+  Philippine Atmospheric, Geophysical and Astronomical Services Administration
+  (PAGASA)
+source_repository: ""
+license: CC-BY 4.0
+doi: ""
