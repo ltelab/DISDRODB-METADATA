@@ -5,7 +5,7 @@ sensor_name: PARSIVEL2
 reader: PHILIPPINES/PANGASA
 raw_data_glob_pattern: "*.zip"
 raw_data_format: txt
-measurement_interval: 300
+measurement_interval: 600
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
