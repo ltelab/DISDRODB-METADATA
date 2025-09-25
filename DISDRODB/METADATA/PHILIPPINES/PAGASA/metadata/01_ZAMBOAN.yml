@@ -5,7 +5,9 @@ sensor_name: PARSIVEL2
 reader: PHILIPPINES/PANGASA
 raw_data_glob_pattern: "*.zip"
 raw_data_format: txt
-measurement_interval: [300, 600]
+measurement_interval:
+  - 300
+  - 600
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
@@ -28,7 +30,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: 01_ZAMBOAN
-koppen_geiger: ""
+koppen_geiger: Af
 location:
   Sapa Moro Elementary School, Latuan, Zamboanga City, Zamboanga del Sur,
   7025

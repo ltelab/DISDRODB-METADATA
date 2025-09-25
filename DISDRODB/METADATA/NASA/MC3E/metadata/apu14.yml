@@ -16,7 +16,7 @@ platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
-disdrodb_data_url: ""
+disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/MC3E/data/apu14/
 source: ""
 source_convention: ""
 source_processing_date: ""
