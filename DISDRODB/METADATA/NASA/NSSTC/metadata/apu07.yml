@@ -1,4 +1,4 @@
-data_source: GPM
+data_source: NASA
 campaign_name: NSSTC
 station_name: apu07
 sensor_name: PARSIVEL2

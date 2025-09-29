@@ -1,0 +1,60 @@
+data_source: SLOVENIA
+campaign_name: ARSO
+station_name: Topol
+sensor_name: LPM
+reader: SLOVENIA/ARSO
+raw_data_glob_pattern: SM05_*.M474
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 46.09413
+longitude: 14.37127
+altitude: 695
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: ARSO disdrometer data
+description: ""
+project_name: National meteorological observational network
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: M474
+koppen_geiger: Cfb
+location: Topol
+country: Slovenia
+continent: Europe
+sensor_long_name: Laser Precipitation Monitor
+sensor_manufacturer: Thies Clima
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: Saso Petan, Milorad Brujic
+authors: Saso Petan
+authors_url: ""
+contact: Saso Petan
+contact_information: saso.petan@gov.si
+acknowledgement: ""
+references: ""
+documentation: https://github.com/ltelab/disdrodb/blob/main/disdrodb/l0/readers/LPM/SLOVENIA/ARSO.py
+website: https://www.arso.gov.si/
+institution: Slovenian Environment Agency (ARSO)
+source_repository: ""
+license: CC-BY 4.0
+doi: https://doi.org/10.4121/7f3cbf43-c2a2-4db4-8a55-d5ca0ee3abec.v3
