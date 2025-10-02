@@ -1,0 +1,60 @@
+data_source: USA
+campaign_name: CW3E
+station_name: GVE
+sensor_name: PARSIVEL2
+reader: USA/CW3E
+raw_data_glob_pattern: "*.txt"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 40.139493
+longitude: -120.941998
+altitude: 1093
+platform_protection: "unshielded"
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: https://cw3e-datashare.ucsd.edu/CW3E_Disdrometer/GVE/raw/
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: CW3E Disdrometer Network
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: "Feather Watershed"
+station_id: ""
+koppen_geiger: ""
+location: "Greenville, California"
+country: USA
+continent: North America
+sensor_long_name: ""
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: Subin Yoon, Anna Wilson
+contact_information: suy015@ucsd.edu , amw061@ucsd.edu
+acknowledgement: ""
+references: ""
+documentation: "https://cw3e.ucsd.edu/metadata/sites/GVE"
+website: ""
+institution: "Center for Western Weather and Water Extremes"
+source_repository: ""
+license: ""
+doi: ""

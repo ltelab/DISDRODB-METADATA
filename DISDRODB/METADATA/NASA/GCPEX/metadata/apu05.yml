@@ -2,7 +2,7 @@ data_source: NASA
 campaign_name: GCPEX
 station_name: apu05
 sensor_name: PARSIVEL
-reader: GPM/PIERS
+reader: NASA/PIERS
 raw_data_glob_pattern: parsivel_apu05_*.txt
 raw_data_format: txt
 measurement_interval: 10

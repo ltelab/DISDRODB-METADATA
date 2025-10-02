@@ -1,0 +1,60 @@
+data_source: SWEDEN
+campaign_name: SMHI
+station_name: Norunda
+sensor_name: PARSIVEL2
+reader: SWEDEN/SMHI
+raw_data_glob_pattern: "*.log.gz"
+raw_data_format: txt
+measurement_interval: [30, 60]
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 60.0836684
+longitude: 17.483855
+altitude: 48
+platform_protection: ""
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: SMHI Disdrometer Network
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: "Located about 30 km north of Uppsala, in the southern part of the boreal forest zone."
+station_id: Norunda
+koppen_geiger: ""
+location: Norunda research station
+country: Sweden
+continent: Europe
+sensor_long_name: ""
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: ""
+authors_url: ""
+contact: ""
+contact_information: ""
+acknowledgement: ""
+references: ""
+documentation: ""
+website: ""
+institution: "Swedish Meteorological and Hydrological Institute"
+source_repository: ""
+license: ""
+doi: ""

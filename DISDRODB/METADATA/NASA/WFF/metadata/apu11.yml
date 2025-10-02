@@ -2,7 +2,7 @@ data_source: NASA
 campaign_name: WFF
 station_name: apu11
 sensor_name: PARSIVEL
-reader: GPM/PIERS
+reader: NASA/PIERS
 raw_data_glob_pattern: apu11_*.zip
 raw_data_format: txt
 measurement_interval: 10

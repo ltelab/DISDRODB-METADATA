@@ -2,7 +2,7 @@ data_source: NASA
 campaign_name: IFLOODS
 station_name: apu02
 sensor_name: PARSIVEL
-reader: GPM/PIERS
+reader: NASA/PIERS
 raw_data_glob_pattern: apu02_*.zip
 raw_data_format: txt
 measurement_interval: 10

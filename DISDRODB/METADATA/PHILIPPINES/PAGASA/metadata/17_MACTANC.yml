@@ -2,7 +2,7 @@ data_source: PHILIPPINES
 campaign_name: PAGASA
 station_name: 17_MACTANC
 sensor_name: PARSIVEL2
-reader: PHILIPPINES/PANGASA
+reader: PHILIPPINES/PAGASA
 raw_data_glob_pattern: "*.zip"
 raw_data_format: txt
 measurement_interval: 600

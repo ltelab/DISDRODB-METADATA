@@ -2,7 +2,7 @@ data_source: NASA
 campaign_name: MC3E
 station_name: apu04
 sensor_name: PARSIVEL
-reader: GPM/PIERS
+reader: NASA/PIERS
 raw_data_glob_pattern: parsivel_apu04_*.txt
 raw_data_format: txt
 measurement_interval: 10

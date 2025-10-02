@@ -2,7 +2,7 @@ data_source: NASA
 campaign_name: NSSTC
 station_name: apu12
 sensor_name: PARSIVEL2
-reader: GPM/NSSTC
+reader: NASA/NSSTC
 raw_data_glob_pattern: "*.dat"
 raw_data_format: txt
 measurement_interval: 10
