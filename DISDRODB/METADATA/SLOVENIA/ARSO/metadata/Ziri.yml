@@ -3,7 +3,7 @@ campaign_name: ARSO
 station_name: Ziri
 sensor_name: LPM
 reader: SLOVENIA/ARSO
-raw_data_glob_pattern: SM05_*.M490
+raw_data_glob_pattern: SM05_*.M490.gz
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
