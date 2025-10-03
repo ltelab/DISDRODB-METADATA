@@ -10,8 +10,8 @@ deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
 latitude: 14.64361
-longitude: 121.0442 
-altitude: 49    
+longitude: 121.0442
+altitude: 49
 platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""

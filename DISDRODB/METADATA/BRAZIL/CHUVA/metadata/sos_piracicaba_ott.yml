@@ -9,10 +9,10 @@ measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: -22.691194444444445
+latitude: -22.691194
 longitude: -47.64075
 altitude: 551.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: "2016-09-09T20:02:00"
 time_coverage_end: "2018-03-26T13:12:00"
@@ -20,7 +20,7 @@ disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: ""
+title: SOS CHUVA Campaign
 description: ""
 project_name: ""
 keywords: ""
@@ -29,9 +29,9 @@ history: ""
 comment: ""
 station_id: ""
 koppen_geiger: Aw
-location: ""
-country: ""
-continent: ""
+location: Piracicaba, Sao Paulo
+country: Brazil
+continent: South America
 sensor_long_name: ""
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -45,16 +45,20 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement: ""
-references: ""
+contributors: Alan James Peixoto Calheiros
+authors: Alan James Peixoto Calheiros
+authors_url: https://orcid.org/0000-0002-6408-3410
+contact: Alan James Peixoto Calheiros
+contact_information: alan.calheiros@inpe.br
+acknowledgement:
+  Funded by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+  Grants 2009/15235-8 and 2015/14497-0
+references:
+  "Machado, Luiz et al., 2014. The Chuva Project: How Does Convection Vary
+  across Brazil? Bull. Amer. Meteor. Soc., 95, 1365-1380. https://doi.org/10.1175/BAMS-D-13-00084.1."
 documentation: http://soschuva.cptec.inpe.br/soschuva/index.html
 website: ""
-institution: ""
-source_repository: ""
-license: ""
-doi: ""
+institution: INPE - Instituto Nacional de Pesquisas Espaciais
+source_repository: https://ftp.cptec.inpe.br/chuva/
+license: CC 4.0
+doi: "https://doi.org/10.60748/897k-pa89"
