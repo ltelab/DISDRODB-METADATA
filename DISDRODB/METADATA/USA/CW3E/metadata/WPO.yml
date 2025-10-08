@@ -5,7 +5,7 @@ sensor_name: PARSIVEL2
 reader: USA/CW3E
 raw_data_glob_pattern: "*.txt"
 raw_data_format: txt
-measurement_interval: 60
+measurement_interval: 10
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
