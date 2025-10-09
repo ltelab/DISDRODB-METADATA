@@ -1,17 +1,17 @@
 data_source: ITALY
 campaign_name: GID
-station_name: P2-CE
-sensor_name: PARSIVEL2
-reader: ITALY/GID_PARSIVEL2
+station_name: TC-CF
+sensor_name: LPM
+reader: ITALY/GID_LPM
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 41.1192
-longitude: 14.1721
-altitude: 11.0
+latitude: 42.2036
+longitude: 13.4508
+altitude: 1717.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
@@ -22,17 +22,17 @@ source_convention: ""
 source_processing_date: ""
 title: GID (Gruppo Italiano Disdrometria)
 description: ""
-project_name: ""
+project_name: GID network
 keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: P2-CE
-koppen_geiger: Csa
-location: Capua (CE)
+station_id: TC-CF
+koppen_geiger: ""
+location: Campo Felice (AQ)
 country: Italy
 continent: Europe
-sensor_long_name: OTT_Parsivel2
+sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""
 sensor_serial_number: ""
@@ -48,13 +48,13 @@ calibration_certification_url: ""
 contributors: ""
 authors: ""
 authors_url: ""
-contact: "Dr. Alessandra Lucia Zollo and Dr. Edoardo Bucchignani, a.zollo@cira.it and e.bucchignani@cira.it"
+contact: "Dr. Mario Montopoli, mario.montopoli@cnr.it"
 contact_information: ""
 acknowledgement: ""
-references: "https://doi.org/10.5281/zenodo.11102745"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
 website: ""
-institution:  Meteorology Lab, Centro Italiano Ricerche Aerospaziali - CIRA
+institution: National Research Council of Italy, Institute of Atmospheric Sciences and Climate, CNR-ISAC
 source_repository: ""
 license: ""
 doi: ""

@@ -11,7 +11,7 @@ deployment_mode: land
 platform_type: fixed
 latitude: 40.936502
 longitude: 14.72915
-altitude: 1280.0
+altitude: 433.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
@@ -20,7 +20,7 @@ disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: GID
+title: GID (Gruppo Italiano Disdrometria)
 description: ""
 project_name: ""
 keywords: ""
@@ -35,10 +35,10 @@ continent: Europe
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""
-sensor_serial_number: "0714"
+sensor_serial_number: ""
 firmware_iop: ""
 firmware_dsp: ""
-firmware_version: "2.62"
+firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
@@ -48,13 +48,13 @@ calibration_certification_url: ""
 contributors: ""
 authors: ""
 authors_url: ""
-contact: ""
+contact: "Dr. Paolo Valisa and Dr. Simone	Scapin, paolo.valisa@astrogeo.va.it and simone.scapin@astrogeo.va.it"
 contact_information: ""
 acknowledgement: ""
-references: ""
+references: "https://doi.org/10.5194/essd-15-2417-2023"
 documentation: ""
 website: ""
-institution: Gruppo Italiano Disdrometria
+institution: "Società Astronomica Schiaparelli, Centro Geofisico Prealpino" 
 source_repository: ""
 license: ""
 doi: ""
