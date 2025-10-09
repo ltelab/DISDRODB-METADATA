@@ -1,8 +1,8 @@
 data_source: NASA
 campaign_name: IPHEX
 station_name: apu09
-sensor_name: PARSIVEL
-reader: NASA/PIERS
+sensor_name: PARSIVEL2
+reader: NASA/APU
 raw_data_glob_pattern: apu09_*.dat
 raw_data_format: txt
 measurement_interval: 10
