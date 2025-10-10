@@ -20,7 +20,7 @@ disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: GID
+title: GID (Gruppo Italiano Disdrometria)
 description: ""
 project_name: ""
 keywords: ""
@@ -48,13 +48,13 @@ calibration_certification_url: ""
 contributors: ""
 authors: ""
 authors_url: ""
-contact: ""
+contact: Prof. Federico Porcù, federico.porcu@unibo.it
 contact_information: ""
 acknowledgement: ""
-references: ""
+references: https://doi.org/10.5281/zenodo.11102745
 documentation: ""
 website: ""
-institution: Gruppo Italiano Disdrometria
+institution:  Department of Physics and Astronomy "Augusto Righi", University of Bologna
 source_repository: ""
 license: ""
 doi: ""

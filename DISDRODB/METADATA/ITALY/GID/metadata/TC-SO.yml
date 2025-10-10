@@ -1,6 +1,6 @@
 data_source: ITALY
 campaign_name: GID
-station_name: TC-NA
+station_name: TC-SO
 sensor_name: LPM
 reader: ITALY/GID_LPM
 raw_data_glob_pattern: "*.txt*"
@@ -9,9 +9,9 @@ measurement_interval: 60
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 40.936502
-longitude: 14.72915
-altitude: 1280.0
+latitude: 46.4682
+longitude: 10.3640
+altitude: 1210.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
@@ -20,25 +20,25 @@ disdrodb_data_url: ""
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: GID
+title: GID (Gruppo Italiano Disdrometria)
 description: ""
 project_name: ""
 keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: TC-NA
-koppen_geiger: Csa
-location: Osservatorio di Montevergine
+station_id: TC-SO
+koppen_geiger: ""
+location: Bormio (SO)
 country: Italy
 continent: Europe
 sensor_long_name: Thies_LPM
 sensor_manufacturer: ""
 sensor_wavelength: ""
-sensor_serial_number: "0714"
+sensor_serial_number: ""
 firmware_iop: ""
 firmware_dsp: ""
-firmware_version: "2.62"
+firmware_version: ""
 sensor_beam_length: ""
 sensor_beam_width: ""
 sensor_nominal_width: ""
@@ -48,13 +48,13 @@ calibration_certification_url: ""
 contributors: ""
 authors: ""
 authors_url: ""
-contact: ""
+contact: "Dr. Orietta Cazzuli and Dr. Gian Paolo Minardi, o.cazzuli@arpalombardia.it and g.minardi@arpalombardia.it"
 contact_information: ""
 acknowledgement: ""
-references: ""
+references: "https://doi.org/10.5281/zenodo.11102745"
 documentation: ""
 website: ""
-institution: Gruppo Italiano Disdrometria
+institution:  Regional Agency for the Protection of the Environment of Lombardia - ARPA Lombardia
 source_repository: ""
 license: ""
 doi: ""
