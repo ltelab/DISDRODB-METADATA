@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 42.3831
 longitude: 13.3166
 altitude: 676.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -28,7 +28,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-AQ
-koppen_geiger: ""
+koppen_geiger: Cfb
 location: Casale Calore (AQ)
 country: Italy
 continent: Europe
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Vincenzo Rizzi
+authors: Dr. Vincenzo Rizzi
 authors_url: ""
-contact: "Dr. Vincenzo Rizzi, vincenzo.rizi@univaq.it"
-contact_information: ""
+contact: Dr. Vincenzo Rizzi
+contact_information: vincenzo.rizi@univaq.it
 acknowledgement: ""
-references: "https://doi.org/10.5194/essd-15-2417-2023"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
+website: https://www.gid-net.it/
 institution: University of L'Aquila, Physical and Chemical Sciences - DSFC
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

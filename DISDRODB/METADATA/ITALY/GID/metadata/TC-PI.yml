@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 43.7246
 longitude: 10.3829
 altitude: 15.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -28,7 +28,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-PI
-koppen_geiger: ""
+koppen_geiger: Csa
 location: Pisa
 country: Italy
 continent: Europe
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Attilio Vaccaro, Dr. Giovanni Scognamiglio,
+authors: Dr. Attilio Vaccaro, Dr. Giovanni Scognamiglio,
 authors_url: ""
-contact: "Dr. Attilio Vaccaro and Dr. Giovanni Scognamiglio, avaccaro@mbigroup.it and gscognamiglio@mbigroup.it"
-contact_information: ""
+contact: Dr. Attilio Vaccaro, Dr. Giovanni Scognamiglio,
+contact_information: avaccaro@mbigroup.it, gscognamiglio@mbigroup.it
 acknowledgement: ""
-references: "https://doi.org/10.5281/zenodo.11102745"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution: "MBI s.r.l."
+website: https://www.gid-net.it/
+institution: MBI s.r.l.
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

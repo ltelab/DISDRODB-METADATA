@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 41.8425
 longitude: 12.6464
 altitude: 102.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -45,16 +45,18 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Elisa Adirosi
+authors: Dr. Elisa Adirosi
 authors_url: ""
-contact: "Dr. Elisa Adirosi, elisa.adirosi@cnr.it"
-contact_information: ""
+contact: Dr. Elisa Adirosi
+contact_information: elisa.adirosi@cnr.it
 acknowledgement: ""
-references: "https://doi.org/10.5194/essd-15-2417-2023"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution: National Research Council of Italy, Institute of Atmospheric Sciences and Climate, CNR-ISAC
+website: https://www.gid-net.it/
+institution:
+  National Research Council of Italy, Institute of Atmospheric Sciences
+  and Climate, CNR-ISAC
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

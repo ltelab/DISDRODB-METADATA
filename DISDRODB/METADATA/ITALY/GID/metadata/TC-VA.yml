@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 40.936502
 longitude: 14.72915
 altitude: 433.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Paolo Valisa, Dr. Simone Scapin
+authors: Dr. Paolo Valisa, Dr. Simone Scapin
 authors_url: ""
-contact: "Dr. Paolo Valisa and Dr. Simone	Scapin, paolo.valisa@astrogeo.va.it and simone.scapin@astrogeo.va.it"
-contact_information: ""
+contact: Dr. Paolo Valisa, Dr. Simone Scapin
+contact_information: paolo.valisa@astrogeo.va.it, simone.scapin@astrogeo.va.it
 acknowledgement: ""
-references: "https://doi.org/10.5194/essd-15-2417-2023"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution: "Società Astronomica Schiaparelli, Centro Geofisico Prealpino" 
+website: https://www.gid-net.it/
+institution: Societa Astronomica Schiaparelli, Centro Geofisico Prealpino
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

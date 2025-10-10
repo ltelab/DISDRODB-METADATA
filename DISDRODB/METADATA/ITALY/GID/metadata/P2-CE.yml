@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 41.1192
 longitude: 14.1721
 altitude: 11.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Alessandra Lucia Zollo, Dr. Edoardo Bucchignani,
+authors: Dr. Alessandra Lucia Zollo, Dr. Edoardo Bucchignani,
 authors_url: ""
-contact: "Dr. Alessandra Lucia Zollo and Dr. Edoardo Bucchignani, a.zollo@cira.it and e.bucchignani@cira.it"
-contact_information: ""
+contact: Dr. Alessandra Lucia Zollo, Dr. Edoardo Bucchignani,
+contact_information: a.zollo@cira.it, e.bucchignani@cira.it
 acknowledgement: ""
-references: "https://doi.org/10.5281/zenodo.11102745"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution:  Meteorology Lab, Centro Italiano Ricerche Aerospaziali - CIRA
+website: https://www.gid-net.it/
+institution: Meteorology Lab, Centro Italiano Ricerche Aerospaziali - CIRA
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

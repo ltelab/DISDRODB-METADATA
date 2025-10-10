@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 37.6215
 longitude: 15.0278
 altitude: 725.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -28,7 +28,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-NI
-koppen_geiger: ""
+koppen_geiger: Csa
 location: Nicolosi (CA)
 country: Italy
 continent: Europe
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. M. Coltelli, Dr. Giuseppe Giammello,
+authors: Dr. M. Coltelli, Dr. Giuseppe Giammello,
 authors_url: ""
-contact: "Dr. M. Coltelli and Dr. Giuseppe Giammello, mauro.coltelli@ingv.it and giuseppe.giammello@phd.unict.it"
-contact_information: ""
+contact: Dr. M. Coltelli, Dr. Giuseppe Giammello,
+contact_information: mauro.coltelli@ingv.it, giuseppe.giammello@phd.unict.it
 acknowledgement: ""
-references: "https://doi.org/10.5194/essd-15-2417-2023"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
+website: https://www.gid-net.it/
 institution: Istituto Nazionale di Geofisica e Vulcanologia - INGV
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

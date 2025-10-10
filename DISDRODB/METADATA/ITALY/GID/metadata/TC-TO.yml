@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 45.02906
 longitude: 7.65481
 altitude: 250.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -45,16 +45,18 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Roberto Cremonini
+authors: Dr. Roberto Cremonini
 authors_url: ""
-contact: "Dr. Roberto Cremonini, r.cremonini@arpa.piemonte.it"
-contact_information: ""
+contact: Dr. Roberto Cremonini
+contact_information: r.cremonini@arpa.piemonte.it
 acknowledgement: ""
-references: "https://doi.org/10.5194/essd-15-2417-2023 "
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution: Regional Agency for the Protection of the Environment of Piemonte, Arpa Piemonte
+website: https://www.gid-net.it/
+institution:
+  Regional Agency for the Protection of the Environment of Piemonte, Arpa
+  Piemonte
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

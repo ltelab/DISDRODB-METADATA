@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 45.2819
 longitude: 8.9883
 altitude: 103.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -28,7 +28,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-MO
-koppen_geiger: ""
+koppen_geiger: Cfa
 location: Motta Visconti (MI)
 country: Italy
 continent: Europe
@@ -45,16 +45,18 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
+authors: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
 authors_url: ""
-contact: "Dr. Orietta Cazzuli and Dr. Gian Paolo Minardi, o.cazzuli@arpalombardia.it and g.minardi@arpalombardia.it"
-contact_information: ""
+contact: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
+contact_information: o.cazzuli@arpalombardia.it, g.minardi@arpalombardia.it
 acknowledgement: ""
-references: "https://doi.org/10.5281/zenodo.11102745"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution:  Regional Agency for the Protection of the Environment of Lombardia - ARPA Lombardia
+website: https://www.gid-net.it/
+institution:
+  Regional Agency for the Protection of the Environment of Lombardia -
+  ARPA Lombardia
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

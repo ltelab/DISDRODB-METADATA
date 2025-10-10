@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 40.936502
 longitude: 14.72915
 altitude: 1280.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: "Prof. Vincenzo Capozzi, vincenzo.capozzi@uniparthenope.it"
+contributors: Prof. Vincenzo Capozzi
+authors: Prof. Vincenzo Capozzi
 authors_url: ""
-contact: ""
-contact_information: ""
+contact: Prof. Vincenzo Capozzi
+contact_information: vincenzo.capozzi@uniparthenope.it
 acknowledgement: ""
-references: "https://doi.org/10.5281/zenodo.11102745"
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
+website: https://www.gid-net.it/
 institution: Department of Science and Technology, University of Naples "Parthenope"
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

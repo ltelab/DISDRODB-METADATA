@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 44.4993
 longitude: 11.3538
 altitude: 50.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -45,16 +45,16 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Prof. Federico Porcu
+authors: Prof. Federico Porcu
 authors_url: ""
-contact: Prof. Federico Porcù, federico.porcu@unibo.it
-contact_information: ""
+contact: Prof. Federico Porcu
+contact_information: federico.porcu@unibo.it
 acknowledgement: ""
-references: https://doi.org/10.5281/zenodo.11102745
+references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution:  Department of Physics and Astronomy "Augusto Righi", University of Bologna
+website: https://www.gid-net.it/
+institution: Department of Physics and Astronomy "Augusto Righi", University of Bologna
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745

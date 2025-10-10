@@ -12,7 +12,7 @@ platform_type: fixed
 latitude: 42.2036
 longitude: 13.4508
 altitude: 1717.0
-platform_protection: ""
+platform_protection: unshielded
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -28,7 +28,7 @@ summary: ""
 history: ""
 comment: ""
 station_id: TC-CF
-koppen_geiger: ""
+koppen_geiger: Dfb
 location: Campo Felice (AQ)
 country: Italy
 continent: Europe
@@ -45,16 +45,18 @@ sensor_nominal_width: ""
 calibration_sensitivity: ""
 calibration_certification_date: ""
 calibration_certification_url: ""
-contributors: ""
-authors: ""
+contributors: Dr. Mario Montopoli
+authors: Dr. Mario Montopoli
 authors_url: ""
-contact: "Dr. Mario Montopoli, mario.montopoli@cnr.it"
-contact_information: ""
+contact: Dr. Mario Montopoli
+contact_information: mario.montopoli@cnr.it
 acknowledgement: ""
 references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ""
-website: ""
-institution: National Research Council of Italy, Institute of Atmospheric Sciences and Climate, CNR-ISAC
+website: https://www.gid-net.it/
+institution:
+  National Research Council of Italy, Institute of Atmospheric Sciences
+  and Climate, CNR-ISAC
 source_repository: ""
-license: ""
-doi: ""
+license: CC 4.0
+doi: https://doi.org/10.5281/zenodo.11102745
