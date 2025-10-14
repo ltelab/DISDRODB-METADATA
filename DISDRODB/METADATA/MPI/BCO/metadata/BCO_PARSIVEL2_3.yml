@@ -1,9 +1,9 @@
 data_source: MPI
 campaign_name: BCO
-station_name: BCO_PARSIVEL2
+station_name: BCO_PARSIVEL2_3
 sensor_name: PARSIVEL2
 reader: MPI/BCO_PARSIVEL2
-raw_data_glob_pattern: Parsivel2_*.bz2
+raw_data_glob_pattern: Parsivel2_3_*.bz2
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: 90
 time_coverage_start: ""
 time_coverage_end: ""
-disdrodb_data_url: ftp-projects.mpimet.mpg.de/acpc_barbados/DISDROMETER/BCO_PARSIVEL2
+disdrodb_data_url: ftp-projects.mpimet.mpg.de/acpc_barbados/DISDROMETER/BCO_PARSIVEL2_3
 source: ""
 source_convention: ""
 source_processing_date: ""
@@ -35,7 +35,7 @@ continent: ""
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
 sensor_wavelength: ""
-sensor_serial_number: "451995"
+sensor_serial_number: "451997"
 firmware_iop: ""
 firmware_dsp: ""
 firmware_version: ""
