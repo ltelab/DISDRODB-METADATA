@@ -1,0 +1,63 @@
+data_source: NORWAY
+campaign_name: UIB_GFI
+station_name: Bergen_Florida
+sensor_name: PARSIVEL2
+reader: NORWAY/UIB
+raw_data_glob_pattern: "*.txt.gz"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 60.3837
+longitude: 5.3319
+altitude: 45
+platform_protection: unshielded
+platform_orientation: 90
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: Disdrometer data from the Geophysical Institute tower observatory
+description: ""
+project_name: ""
+keywords: Bergen, Norway, Geophysical institute, SNOWPACE, ISLAS
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+koppen_geiger: Cfb
+location: GFI Institute tower, Geophysical Institute, University of Bergen, Norway
+country: Norway
+continent: Europe
+sensor_long_name: OTT Hydromet Parsivel2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ""
+sensor_serial_number: 369157 until 2020-05, thereafter 450790
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: ""
+authors: Harald Sodemann
+authors_url: https://orcid.org/0000-0002-8167-0860
+contact: Harald Sodemann
+contact_information: harald.sodemann@uib.no
+acknowledgement: ""
+references:
+  "Weng, Y., Johannessen, A. and Sodemann, H., 2021: High-resolution stable\
+  \ isotope signature of a land-falling atmospheric river in southern Norway, Weather\
+  \ Clim. Dynam., 2, 713\u2013737, doi: 10.5194/wcd-2-713-2021."
+documentation: ""
+website: ""
+institution: Geophysical Insitute, University of Bergen, Norway
+source_repository: ""
+license: CC-BY 4.0
+doi: 10.5281/zenodo.17430461

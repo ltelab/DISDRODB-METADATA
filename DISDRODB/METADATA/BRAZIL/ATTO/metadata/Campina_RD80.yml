@@ -1,0 +1,60 @@
+data_source: BRAZIL
+campaign_name: ATTO
+station_name: Campina_RD80
+sensor_name: RD80
+reader: BRAZIL/ATTO_RD80
+raw_data_glob_pattern: RD-*.txt
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: -2.1820
+longitude: -59.0220
+altitude: 30
+platform_protection: unshielded
+platform_orientation: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: ATTO-Campina Experimental Site
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+koppen_geiger: EF
+location: "Campinas"
+country: Brazil
+continent: South America
+sensor_long_name: ""
+sensor_manufacturer: ""
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors: Alan James Peixoto Calheiros
+authors: Alan James Peixoto Calheiros
+authors_url: https://orcid.org/0000-0002-6408-3410
+contact: Alan James Peixoto Calheiros
+contact_information: alan.calheiros@inpe.br
+acknowledgement: "Funded by Fundacao de Amparo a Pesquisa do Estado de São Paulo (FAPESP) Grants 2022/13257-9, 2017/17047-0, 2022/07974-0; by the Max Planck Society; the German Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung – BMBF) grant nos. 01LB1001A, 01LK1602A, 01LK1602B; and the Brazilian Ministerio da Ciencia, Tecnologia e Inovacaoo (MCTI/FINEP grant no. 01.11.01248.00)"
+references: ""
+documentation: https://atto-campina.iag.usp.br/
+website: ""
+institution: INPE - Instituto Nacional de Pesquisas Espaciais
+source_repository: ""
+license: CC 4.0
+doi: ""

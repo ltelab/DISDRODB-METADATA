@@ -9,10 +9,10 @@ measurement_interval: 10
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 37.738
-longitude: 128.806
-altitude: 165.0
-platform_protection: ""
+latitude: 37.738157
+longitude: 128.805847
+altitude: 175.0
+platform_protection: "unshielded"
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -27,11 +27,11 @@ keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: ""
+station_id: "BKC"
 koppen_geiger: Dfa
-location: ""
-country: United States of America
-continent: North America
+location: "BoKwang1-ri community Center"
+country: South Korea
+continent: Asia
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

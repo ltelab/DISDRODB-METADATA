@@ -2,8 +2,8 @@ data_source: ITALY
 campaign_name: GID
 station_name: TC-PI
 sensor_name: LPM
-reader: ITALY/GID_LPM
-raw_data_glob_pattern: "*.txt*"
+reader: ITALY/GID_LPM_PI
+raw_data_glob_pattern: "*.raw*"
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing

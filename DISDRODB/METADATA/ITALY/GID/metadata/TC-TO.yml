@@ -1,8 +1,8 @@
 data_source: ITALY
 campaign_name: GID
 station_name: TC-TO
-sensor_name: LPM
-reader: ITALY/GID_LPM
+sensor_name: LPM_V0
+reader: ITALY/GID_LPM_V0
 raw_data_glob_pattern: "*.txt*"
 raw_data_format: txt
 measurement_interval: 60

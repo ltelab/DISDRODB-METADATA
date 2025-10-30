@@ -1,7 +1,7 @@
 data_source: BELGIUM
 campaign_name: ULIEGE
 station_name: Sart_Tilman
-sensor_name: LPM
+sensor_name: LPM_V0
 reader: BELGIUM/ULIEGE
 raw_data_glob_pattern: "*.zip"
 raw_data_format: txt

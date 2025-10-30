@@ -9,10 +9,10 @@ measurement_interval: 10
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 37.665
-longitude: 128.7
-altitude: 782.0
-platform_protection: ""
+latitude: 37.665208
+longitude: 128.699611
+altitude: 789.0
+platform_protection: "shielded"
 platform_orientation: ""
 time_coverage_start: ""
 time_coverage_end: ""
@@ -26,12 +26,12 @@ project_name: ""
 keywords: ""
 summary: ""
 history: ""
-comment: ""
-station_id: ""
+comment: "Shielded with DFIR"
+station_id: "MHS"
 koppen_geiger: Dwb
-location: ""
-country: United States of America
-continent: North America
+location: "MayHills Supersite"
+country: South Korea
+continent: Asia
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""

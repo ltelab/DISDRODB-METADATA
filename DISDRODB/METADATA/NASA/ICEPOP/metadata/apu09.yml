@@ -9,9 +9,9 @@ measurement_interval: 10
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 37.771
-longitude: 128.867
-altitude: 26.0
+latitude: 37.770897
+longitude: 128.866858
+altitude: 36.0
 platform_protection: ""
 platform_orientation: ""
 time_coverage_start: ""
@@ -27,11 +27,11 @@ keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: ""
+station_id: "GWU"
 koppen_geiger: Dfa
-location: ""
-country: United States of America
-continent: North America
+location: "Gangneung-Wonju national University"
+country: South Korea
+continent: Asia
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
