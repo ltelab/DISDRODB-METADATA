@@ -1,37 +1,37 @@
-data_source: EPFL
-campaign_name: SAMOYLOV_2019
-station_name: "62"
-sensor_name: PARSIVEL
-reader: EPFL/SAMOYLOV_2019
-raw_data_glob_pattern: "*.log.gz"
+data_source: NASA
+campaign_name: TAMU
+station_name: apu06
+sensor_name: PARSIVEL2
+reader: NASA/APU
+raw_data_glob_pattern: apu06_*.zip
 raw_data_format: txt
-measurement_interval: 30
-deployment_status: terminated
+measurement_interval: 10
+deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 72.371387
-longitude: 126.47478
-altitude: 12.0
+latitude: 30.5506
+longitude: -96.4336
+altitude: 73.0
 platform_protection: ""
 platform_orientation: ""
-time_coverage_start: "2018-08-24T11:01:30"
-time_coverage_end: "2019-08-31T23:59:30"
-disdrodb_data_url: ""
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/TAMU/data/apu06/
 source: ""
 source_convention: ""
 source_processing_date: ""
-title: SAMOYLOV_2019
+title: apu06
 description: ""
 project_name: ""
 keywords: ""
 summary: ""
 history: ""
 comment: ""
-station_id: "62"
-koppen_geiger: EF
+station_id: ""
+koppen_geiger: Cfa
 location: ""
-country: Russia
-continent: Asia
+country: United States of America
+continent: North America
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ""
 sensor_wavelength: ""
@@ -49,14 +49,12 @@ contributors: ""
 authors: ""
 authors_url: ""
 contact: ""
-contact_information: http://lte.epfl.ch
+contact_information: ""
 acknowledgement: ""
 references: ""
 documentation: ""
 website: ""
-institution:
-  Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
+institution: ""
 source_repository: ""
 license: ""
 doi: ""
