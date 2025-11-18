@@ -9,8 +9,8 @@ measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
-latitude: 75.0
-longitude: -20.0
+latitude: 75.63
+longitude: -35.99
 altitude: 2708
 platform_protection: unshielded
 platform_orientation: ""
