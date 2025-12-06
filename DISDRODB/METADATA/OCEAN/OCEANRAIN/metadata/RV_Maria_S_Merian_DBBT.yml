@@ -1,0 +1,71 @@
+data_source: OCEAN
+campaign_name: OCEANRAIN
+station_name: RV_Maria_S_Merian_DBBT
+sensor_name: ODM470
+reader: OCEAN/OCEANRAIN
+raw_data_glob_pattern: OceanRAIN-R*.nc
+raw_data_format: netcdf
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: ship
+platform_type: mobile
+latitude: -9999
+longitude: -9999
+altitude: 15
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2012-10-28 06:54:00'
+time_coverage_end: '2018-11-30 19:33:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: OceanRAINRV-Maria-S-Merian_DBBT
+description: ''
+project_name: OceanRAIN
+keywords: ''
+summary: This dataset contains the temporally discontinuous along-track shipboard
+  raw particle size distributions and precipitation microphysics of the Ocean Rainfall
+  And Ice-phase precipitation measurement Network - OceanRAIN-R version 1.0 for RV-Maria-S-Merian_DBBT
+  in minute-resolution
+history: ''
+comment: ''
+station_id: ''
+koppen_geiger: ''
+location: ''
+country: ''
+continent: ''
+sensor_long_name: Eigenbrodt ODM-470
+sensor_manufacturer: Eigenbrodt GmbH & Co. K
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: Christian Klepp, Alain Protat, Joerg Burdanowitz, Simon Michel, Nicole Albern,
+  Valentin Louf, Andrea Dahl,  Tanja Thiele, Marc Schroeder
+authors_url: ''
+contact: https://www.christianklepp.com/
+contact_information: mail@christianklepp.com
+acknowledgement: ''
+references: "Klepp, C., Michel S., Protat, A., Burdanowitz J., Albern N., Dahl A.,\
+  \ Kahnert M., Louf V., Bakan S. & Buehler, S.A. (2018). OceanRAIN, a new in-situ\
+  \ shipboard global ocean surface-reference dataset of all water cycle components.\
+  \ Nature Scientific Data, 5:180122. DOI:10.1038/sdata.2018.122.\n    Klepp, C. (2015).\
+  \ The Oceanic Shipboard Precipitation Measurement Network for Surface Validation\
+  \ - OceanRAIN. Atmos. Res., Special issue of the International Precipitation Working\
+  \ Group, 163, 74-90. DOI:10.1016/j.atmosres.2014.12.014."
+documentation: https://opendata.dwd.de/climate_environment/CDC/observations_global/ocean/OceanRAIN/V002/OceanRAIN2-user-manual.pdf
+website: ''
+institution: 'Publisher: Deutscher Wetterdienst, German Meteorological Service, Offenbach,
+  Germany, Host: Max Planck Institute for Meteorology, Hamburg, Germany'
+source_repository: https://opendata.dwd.de/climate_environment/CDC/observations_global/ocean/OceanRAIN/
+license: CC-BY 4.0
+doi: 10.1594/WDCC/OceanRAIN-R
