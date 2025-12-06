@@ -29,7 +29,7 @@ history: ""
 comment: ""
 station_id: piers30
 koppen_geiger: Dfa
-location: ""
+location: "Texas A&M University, Corpus Christi, Texas"
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
@@ -54,7 +54,7 @@ acknowledgement: ""
 references: ""
 documentation: ""
 website: ""
-institution: ""
+institution: "Texas A&M University, Corpus Christi"
 source_repository: ""
 license: ""
 doi: ""

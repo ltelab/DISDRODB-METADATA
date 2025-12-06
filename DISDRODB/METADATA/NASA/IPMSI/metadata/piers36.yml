@@ -29,7 +29,7 @@ history: ""
 comment: ""
 station_id: piers36
 koppen_geiger: Dfa
-location: ""
+location: "Prairie View A&M University Campus, Prairie View, Texas"
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
@@ -54,7 +54,7 @@ acknowledgement: ""
 references: ""
 documentation: ""
 website: ""
-institution: ""
+institution: "Prairie View A&M University"
 source_repository: ""
 license: ""
 doi: ""

@@ -29,7 +29,7 @@ history: ""
 comment: ""
 station_id: piers38
 koppen_geiger: Dfa
-location: ""
+location: "Chesapeake Bay Bridge Tunnel (CBBT), Hampton, Virginia"
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
@@ -54,7 +54,7 @@ acknowledgement: ""
 references: ""
 documentation: ""
 website: ""
-institution: ""
+institution: "Hampton University"
 source_repository: ""
 license: ""
 doi: ""

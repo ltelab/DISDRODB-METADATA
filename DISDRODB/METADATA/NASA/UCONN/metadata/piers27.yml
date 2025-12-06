@@ -29,7 +29,7 @@ history: ""
 comment: ""
 station_id: piers27
 koppen_geiger: Dfa
-location: ""
+location: "University of Connecticut, Storrs, Connecticut"
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
@@ -54,7 +54,7 @@ acknowledgement: ""
 references: ""
 documentation: ""
 website: ""
-institution: ""
+institution: "University of Connecticut"
 source_repository: ""
 license: ""
 doi: ""

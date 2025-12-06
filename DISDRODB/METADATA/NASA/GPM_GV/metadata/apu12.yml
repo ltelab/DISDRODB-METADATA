@@ -29,7 +29,7 @@ history: ""
 comment: ""
 station_id: ""
 koppen_geiger: Cfa
-location: ""
+location: "NWS Marquette, Michigan"
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
