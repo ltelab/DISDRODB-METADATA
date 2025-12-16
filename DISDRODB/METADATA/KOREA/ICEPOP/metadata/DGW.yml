@@ -1,0 +1,61 @@
+data_source: KOREA
+campaign_name: ICEPOP
+station_name: DGW
+sensor_name: PARSIVEL2
+reader: KOREA/ICEPOP_UCLM
+raw_data_glob_pattern: '*.csv.gzip'
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 37.677331
+longitude: 128.718825
+altitude: 773.0
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: ICEPOP Disdrometer Data
+description: ''
+project_name: International Collaborative Experiment for Pyeongchange Olympic and
+  Paralympics (ICEPOP)
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: DGW
+koppen_geiger: ''
+location: DaeGwallyeong regional Weather office
+country: Korea
+continent: Asia
+sensor_long_name: OTT Hydromet Parsivel 2
+sensor_manufacturer: OTT Hydromet
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: GyuWon Lee
+contact_information: gyuwon.lee@gmail.com
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Universidad de Castilla - La Mancha (UCLM) 
+source_repository: ''
+license: CC-BY 4.0
+doi: ''
