@@ -9,8 +9,8 @@ measurement_interval: 60
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 40.936502
-longitude: 14.72915
+latitude: 45.8316
+longitude: 8.7989
 altitude: 433.0
 platform_protection: unshielded
 platform_orientation: ""
