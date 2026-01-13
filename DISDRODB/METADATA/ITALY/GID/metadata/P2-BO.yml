@@ -3,7 +3,7 @@ campaign_name: GID
 station_name: P2-BO
 sensor_name: PARSIVEL2
 reader: ITALY/GID_PARSIVEL2
-raw_data_glob_pattern: "*.txt*"
+raw_data_glob_pattern: '*.txt*'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
@@ -13,48 +13,48 @@ latitude: 44.4993
 longitude: 11.3538
 altitude: 50.0
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: GID (Gruppo Italiano Disdrometria)
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: P2-BO
 koppen_geiger: Cfa
 location: Bologna
 country: Italy
 continent: Europe
 sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: Prof. Federico Porcu
 authors: Prof. Federico Porcu
-authors_url: ""
+authors_url: ''
 contact: Prof. Federico Porcu
 contact_information: federico.porcu@unibo.it
-acknowledgement: ""
+acknowledgement: ''
 references: https://doi.org/10.5194/essd-15-2417-2023
-documentation: ""
+documentation: ''
 website: https://www.gid-net.it/
 institution: Department of Physics and Astronomy "Augusto Righi", University of Bologna
-source_repository: ""
+source_repository: ''
 license: CC 4.0
 doi: https://doi.org/10.5281/zenodo.11102745

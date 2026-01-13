@@ -3,7 +3,7 @@ campaign_name: RELAMPAGO
 station_name: sao_borja_ott
 sensor_name: PARSIVEL2
 reader: NCAR/RELAMPAGO_PARSIVEL2
-raw_data_glob_pattern: "*"
+raw_data_glob_pattern: '*'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -12,55 +12,52 @@ platform_type: fixed
 latitude: -28.6352
 longitude: -56.0001
 altitude: 74.0
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2018-10-04T20:43:00"
-time_coverage_end: "2018-12-13T12:43:00"
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
-title: "RELAMPAGO: Brazil Sao Borja OTT Parsivel Disdrometer Data"
-description: ""
-project_name:
-  Remote sensing of Electrification, Lightning, And Mesoscale/microscale
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2018-10-04T20:43:00'
+time_coverage_end: '2018-12-13T12:43:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: 'RELAMPAGO: Brazil Sao Borja OTT Parsivel Disdrometer Data'
+description: ''
+project_name: Remote sensing of Electrification, Lightning, And Mesoscale/microscale
   Processes with Adaptive Ground Observations
-keywords: ""
-summary: ""
-history: ""
-comment: ""
-station_id: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
 koppen_geiger: Cfa
 location: Sao Borja
 country: Brazil
 continent: South America
 sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Bruno Ribeiro, Luiz Machado
-authors_url: ""
+authors_url: ''
 contact: bruno.ribeiro@inpe.br, luiz.machado@inpe.br
 contact_information: eol-datahelp@ucar.edu
-acknowledgement: ""
-references:
-  Ribeiro, B., Machado, L. 2019. Brazil Sao Borja OTT Parsivel Disdrometer
+acknowledgement: ''
+references: Ribeiro, B., Machado, L. 2019. Brazil Sao Borja OTT Parsivel Disdrometer
   Data. Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/PXYA-Z1XK-MP0W
-documentation:
-  https://data.eol.ucar.edu/datafile/nph-get/553.016/OTT_Parsivel_manual_EN.pdf,
+documentation: https://data.eol.ucar.edu/datafile/nph-get/553.016/OTT_Parsivel_manual_EN.pdf,
   https://data.eol.ucar.edu/datafile/nph-get/553.016/Readme_OTT_Parsivel_disdrometer_Brazil.pdf
 website: https://catalog.eol.ucar.edu/relampago
 institution: EOL Data
 source_repository: https://data.eol.ucar.edu/dataset/553.016
-license: ""
+license: ''
 doi: https://doi.org/10.26023/PXYA-Z1XK-MP0W

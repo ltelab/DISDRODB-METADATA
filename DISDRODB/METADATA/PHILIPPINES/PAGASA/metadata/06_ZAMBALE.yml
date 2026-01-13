@@ -3,7 +3,7 @@ campaign_name: PAGASA
 station_name: 06_ZAMBALE
 sensor_name: PARSIVEL2
 reader: PHILIPPINES/PAGASA
-raw_data_glob_pattern: "*.zip"
+raw_data_glob_pattern: '*.zip'
 raw_data_format: txt
 measurement_interval: 300
 deployment_status: ongoing
@@ -13,26 +13,24 @@ latitude: 14.97154
 longitude: 120.20042
 altitude: 65
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: PAGASA OTT Parsivel Disdrometer Network
-description:
-  The site is a pre-existing weather observation area of RMTU where different
+description: The site is a pre-existing weather observation area of RMTU where different
   AWS are installed. Some are of PAGASA and ASTI.
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: 06_ZAMBALE
 koppen_geiger: Am
-location:
-  Ramon Magsaysay Technological University, Nagbunga, San Marcelino, Zambales
+location: Ramon Magsaysay Technological University, Nagbunga, San Marcelino, Zambales
   2207
 country: Philippines
 continent: Asia
@@ -42,25 +40,24 @@ sensor_wavelength: 780 nm
 sensor_serial_number: 450008
 firmware_iop: 2.11.2
 firmware_dsp: 2.11.1
-firmware_version: ""
+firmware_version: ''
 sensor_beam_length: 180 mm
 sensor_beam_width: 30 mm
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement: ""
-references: ""
-documentation: ""
-website: ""
-institution:
-  Philippine Atmospheric, Geophysical and Astronomical Services Administration
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Philippine Atmospheric, Geophysical and Astronomical Services Administration
   (PAGASA)
-source_repository: ""
+source_repository: ''
 license: CC-BY 4.0
-doi: ""
+doi: ''

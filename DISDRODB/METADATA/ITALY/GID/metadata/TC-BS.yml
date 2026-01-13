@@ -3,7 +3,7 @@ campaign_name: GID
 station_name: TC-BS
 sensor_name: LPM
 reader: ITALY/GID_LPM
-raw_data_glob_pattern: "*.txt*"
+raw_data_glob_pattern: '*.txt*'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
@@ -13,50 +13,49 @@ latitude: 45.513
 longitude: 10.192
 altitude: 123.0
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: GID (Gruppo Italiano Disdrometria)
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: TC-BS
 koppen_geiger: Cfa
 location: Brescia
 country: Italy
 continent: Europe
 sensor_long_name: Thies_LPM
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
 authors: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
-authors_url: ""
+authors_url: ''
 contact: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
 contact_information: o.cazzuli@arpalombardia.it, g.minardi@arpalombardia.it
-acknowledgement: ""
+acknowledgement: ''
 references: https://doi.org/10.5194/essd-15-2417-2023
-documentation: ""
+documentation: ''
 website: https://www.gid-net.it/
-institution:
-  Regional Agency for the Protection of the Environment of Lombardia -
+institution: Regional Agency for the Protection of the Environment of Lombardia -
   ARPA Lombardia
-source_repository: ""
+source_repository: ''
 license: CC 4.0
 doi: https://doi.org/10.5281/zenodo.11102745

@@ -3,7 +3,7 @@ campaign_name: CW3E
 station_name: LBH
 sensor_name: PARSIVEL2
 reader: USA/CW3E
-raw_data_glob_pattern: "*.txt"
+raw_data_glob_pattern: '*.txt'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: ongoing
@@ -12,49 +12,49 @@ platform_type: fixed
 latitude: 39.6241
 longitude: -120.5777
 altitude: 1685
-platform_protection: "unshielded"
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2021-04-22T23:27:20'
+time_coverage_end: '2023-04-21T18:48:10'
 disdrodb_data_url: https://cw3e-datashare.ucsd.edu/CW3E_Disdrometer/LBH/raw/
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: CW3E Disdrometer Network
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: "Yuba/Feather Watershed"
-station_id: ""
-koppen_geiger: ""
-location: "Lower Bath House, California"
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: Yuba/Feather Watershed
+station_id: ''
+koppen_geiger: ''
+location: Lower Bath House, California
 country: USA
 continent: North America
-sensor_long_name: ""
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
+sensor_long_name: ''
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
 contact: Subin Yoon, Anna Wilson
 contact_information: suy015@ucsd.edu , amw061@ucsd.edu
-acknowledgement: ""
-references: ""
-documentation: "https://cw3e.ucsd.edu/metadata/sites/LBH"
-website: ""
-institution: "Center for Western Weather and Water Extremes"
-source_repository: ""
-license: ""
-doi: ""
+acknowledgement: ''
+references: ''
+documentation: https://cw3e.ucsd.edu/metadata/sites/LBH
+website: ''
+institution: Center for Western Weather and Water Extremes
+source_repository: ''
+license: ''
+doi: ''

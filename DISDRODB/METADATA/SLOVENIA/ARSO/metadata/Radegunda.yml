@@ -13,20 +13,20 @@ latitude: 46.36612
 longitude: 14.93295
 altitude: 794
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: "https://zenodo.org/records/17257452/files/Radegunda.zip?download=1"
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: '2022-06-10T18:44:00'
+time_coverage_end: '2025-02-28T23:49:00'
+disdrodb_data_url: https://zenodo.org/records/17257452/files/Radegunda.zip?download=1
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: ARSO disdrometer data
-description: ""
+description: ''
 project_name: National meteorological observational network
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: M413
 koppen_geiger: Dfb
 location: Radegunda
@@ -34,27 +34,27 @@ country: Slovenia
 continent: Europe
 sensor_long_name: Laser Precipitation Monitor
 sensor_manufacturer: Thies Clima
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: Saso Petan, Milorad Brujic
 authors: Saso Petan
-authors_url: ""
+authors_url: ''
 contact: Saso Petan
 contact_information: saso.petan@gov.si
-acknowledgement: ""
-references: ""
+acknowledgement: ''
+references: ''
 documentation: https://github.com/ltelab/disdrodb/blob/main/disdrodb/l0/readers/LPM/SLOVENIA/ARSO.py
 website: https://www.arso.gov.si/
 institution: Slovenian Environment Agency (ARSO)
-source_repository: ""
+source_repository: ''
 license: CC-BY 4.0
 doi: https://doi.org/10.4121/7f3cbf43-c2a2-4db4-8a55-d5ca0ee3abec.v3

@@ -3,7 +3,7 @@ campaign_name: PRECIP
 station_name: Yonaguni
 sensor_name: PARSIVEL2
 reader: JAPAN/PRECIP
-raw_data_glob_pattern: "*.txt"
+raw_data_glob_pattern: '*.txt'
 raw_data_format: txt
 measurement_interval: 30
 deployment_status: terminated
@@ -13,21 +13,21 @@ latitude: 24.4678
 longitude: 123.0083
 altitude: 42.0
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: '2022-06-07T18:26:00'
+time_coverage_end: '2022-08-12T04:12:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: PRECIP OTT Parsival Disdrometer
 description: Parsivel disdrometer deployed on Yonaguni, Japan.
 project_name: PRECIP
-keywords: ""
+keywords: ''
 summary: First installed in May of 2022. Deployed for the PRECIP field campaign.
-history: ""
+history: ''
 comment: The instrument logged measurements only during rainy timesteps.
-station_id: ""
+station_id: ''
 koppen_geiger: Af
 location: Yonaguni, Okinawa
 country: Japan
@@ -35,31 +35,29 @@ continent: Asia
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
 sensor_wavelength: 650 nm
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Ian Cornejo, Brenda Dolan, Kristen Rasmussen, Chelsea Nam
-authors_url:
-  https://orcid.org/0009-0007-7030-9790, https://orcid.org/0000-0003-2170-0164
+authors_url: https://orcid.org/0009-0007-7030-9790, https://orcid.org/0000-0003-2170-0164
   https://orcid.org/0000-0003-1321-0974, https://orcid.org/0000-0002-3607-7523
 contact: icornejo@wisc.edu
-contact_information: ""
-acknowledgement:
-  "Support for this instrument in the field was provided by the National
+contact_information: ''
+acknowledgement: 'Support for this instrument in the field was provided by the National
   Science Foundation Grant #AGS-1854559. The instrument was purchased by the Colorado
-  State University College of Engineering Graduate Student Technology Fees."
-references: ""
+  State University College of Engineering Graduate Student Technology Fees.'
+references: ''
 documentation: https://www.ott.com/products/meteorological-sensors-26/ott-parsivel2-laser-weather-sensor-2392/
 website: https://doi.org/10.26023/68DF-F1JW-8H04
 institution: Department of Atmospheric Science, Colorado State University
-source_repository: ""
-license: ""
-doi: "DOI: 10.26023/68DF-F1JW-8H04"
+source_repository: ''
+license: ''
+doi: 'DOI: 10.26023/68DF-F1JW-8H04'

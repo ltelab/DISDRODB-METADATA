@@ -3,7 +3,7 @@ campaign_name: COURAGE
 station_name: crgldS2
 sensor_name: PARSIVEL2
 reader: ARM/ARM_PARSIVEL2
-raw_data_glob_pattern: "*.cdf"
+raw_data_glob_pattern: '*.cdf'
 raw_data_format: netcdf
 measurement_interval: 60
 deployment_status: ongoing
@@ -12,20 +12,20 @@ platform_type: fixed
 latitude: 39.422
 longitude: -77.21
 altitude: 158
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2024-06-12T02:13:00'
+time_coverage_end: '2024-12-12T23:59:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Coast-Urban-Rural Atmospheric Gradient Experiment (CoURAGE)
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
 comment: Rural station
 station_id: crgldS2
 koppen_geiger: Cfa
@@ -33,32 +33,31 @@ location: Baltimore, Maryland
 country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement: ""
-references:
-  Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer
   (LD). ARM Mobile Facility (CRG) Baltimore, MD; Supplemental Facility 2 in rural
   setting (S2).  Compiled by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set
   accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058.
-documentation: ""
-website: ""
+documentation: ''
+website: ''
 institution: ARM
-source_repository: ""
-license: ""
-doi: ""
+source_repository: ''
+license: ''
+doi: ''

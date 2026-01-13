@@ -12,50 +12,50 @@ platform_type: fixed
 latitude: 37.665208
 longitude: 128.699611
 altitude: 789.0
-platform_protection: "shielded"
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
+platform_protection: shielded
+platform_orientation: ''
+time_coverage_start: '2017-04-27T00:59:30'
+time_coverage_end: '2018-04-24T08:55:20'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/ICEPOP/data/apu14/
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: ICEPOP Disdrometer Data
 description: ''
 project_name: International Collaborative Experiment for Pyeongchange Olympic and
   Paralympics (ICEPOP)
-keywords: ""
-summary: ""
-history: ""
-comment: "Shielded with DFIR"
-station_id: "MHS"
+keywords: ''
+summary: ''
+history: ''
+comment: Shielded with DFIR
+station_id: MHS
 koppen_geiger: Dwb
-location: "MayHills Supersite"
+location: MayHills Supersite
 country: South Korea
 continent: Asia
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement: ""
-references: ""
-documentation: ""
-website: ""
-institution: ""
-source_repository: ""
-license: ""
-doi: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: ''
+source_repository: ''
+license: ''
+doi: ''

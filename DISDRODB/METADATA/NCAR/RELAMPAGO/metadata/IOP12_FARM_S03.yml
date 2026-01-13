@@ -13,54 +13,51 @@ latitude: -31.780217
 longitude: -64.401976
 altitude: 515
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: "2018-11-30T10:29:10"
-time_coverage_end: "2018-11-30T22:52:00"
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
-title:
-  "RELAMPAGO: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
-  Data"
-description: ""
-project_name:
-  Remote sensing of Electrification, Lightning, And Mesoscale/microscale
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: 'RELAMPAGO: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
+  Data'
+description: ''
+project_name: Remote sensing of Electrification, Lightning, And Mesoscale/microscale
   Processes with Adaptive Ground Observations
-keywords: ""
-summary: ""
-history: ""
-comment: ""
-station_id: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: ''
 koppen_geiger: Cwa
 location: Jose de la Quintana, Cordoba Province
 country: Argentina
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Joshua Wurman, Karen Kosiba
-authors_url: ""
+authors_url: ''
 contact: jwurman@illinois.edu, kakosiba@illinois.edu
-contact_information: ""
-acknowledgement: ""
-references:
-  Wurman, J., & Kosiba, K. (2021). FARM-data-RELAMPAGO (Version 1) [Data
+contact_information: ''
+acknowledgement: ''
+references: Wurman, J., & Kosiba, K. (2021). FARM-data-RELAMPAGO (Version 1) [Data
   set]. Center for Severe Weather Research. https://doi.org/10.48514/NK1P-7J11
-documentation: ""
+documentation: ''
 website: https://catalog.eol.ucar.edu/relampago
 institution: Center for Severe Weather Research, University of Illinois
 source_repository: http://www.farmfacility.org/contents/facilitydata.php
-license: ""
+license: ''
 doi: https://doi.org/10.48514/NK1P-7J11

@@ -3,7 +3,7 @@ campaign_name: PSL
 station_name: bao_2004
 sensor_name: RD80
 reader: NOAA/PSL_RD80
-raw_data_glob_pattern: "*.txt"
+raw_data_glob_pattern: '*.txt'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -12,21 +12,21 @@ platform_type: fixed
 latitude: 40.05
 longitude: -105.0
 altitude: 1577
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
-title: ""
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2004-05-05T22:34:00'
+time_coverage_end: '2004-09-17T16:18:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: ''
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: bao
 koppen_geiger: BSk
 location: Erie, Colorado
@@ -34,29 +34,28 @@ country: United States of America
 continent: North America
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement:
-  Data provided by the NOAA Physical Sciences Laboratory, Boulder,
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: Data provided by the NOAA Physical Sciences Laboratory, Boulder,
   Colorado, USA
-references: ""
-documentation: ""
+references: ''
+documentation: ''
 website: https://psl.noaa.gov/
 institution: NOAA Physical Science Laboratory
-source_repository: ""
-license: ""
-doi: ""
+source_repository: ''
+license: ''
+doi: ''

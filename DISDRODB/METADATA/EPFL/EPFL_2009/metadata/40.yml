@@ -1,13 +1,13 @@
 data_source: EPFL
 campaign_name: EPFL_2009
-station_name: "40"
+station_name: '40'
 sensor_name: PARSIVEL
 reader: EPFL/EPFL_2009
-raw_data_glob_pattern: "*.dat.gz"
+raw_data_glob_pattern: '*.dat.gz'
 raw_data_format: txt
 measurement_interval:
-  - 20
-  - 30
+- 20
+- 30
 deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
@@ -15,50 +15,49 @@ latitude: 46.521017
 longitude: 6.569733
 altitude: 400
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: "2008-12-12T16:06:00"
-time_coverage_end: "2010-09-29T23:59:30"
+platform_orientation: ''
+time_coverage_start: '2008-12-12T16:06:00'
+time_coverage_end: '2010-09-29T23:59:30'
 disdrodb_data_url: https://zenodo.org/records/10361019/files/EPFL-EPFL_2009-40.zip?download=1
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: EPFL_2009
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
-station_id: "40"
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: '40'
 koppen_geiger: Cfb
 location: Lausanne
 country: Switzerland
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Alexis Berne, Joel Jaffrain
 authors_url: https://orcid.org/0000-0003-4977-1204
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
-acknowledgement: ""
-references: ""
-documentation: ""
-website: ""
-institution:
-  Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
   Federale de Lausanne
-source_repository: ""
-license: ""
-doi: ""
+source_repository: ''
+license: ''
+doi: ''

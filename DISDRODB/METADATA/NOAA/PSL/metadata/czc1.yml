@@ -3,7 +3,7 @@ campaign_name: PSL
 station_name: czc1
 sensor_name: RD80
 reader: NOAA/PSL_RD80
-raw_data_glob_pattern: "*.txt"
+raw_data_glob_pattern: '*.txt'
 raw_data_format: txt
 measurement_interval: 120
 deployment_status: ongoing
@@ -12,21 +12,21 @@ platform_type: fixed
 latitude: 38.6107
 longitude: -123.2152
 altitude: 478
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: '2014-10-09T15:00:00'
+time_coverage_end: '2015-03-17T15:48:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Hydrometeorology Testbed - West
-description: ""
+description: ''
 project_name: HMT
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: czc
 koppen_geiger: Csb
 location: Cazadero, California
@@ -34,29 +34,28 @@ country: United States of America
 continent: North America
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement:
-  Data provided by the NOAA Physical Sciences Laboratory, Boulder,
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: Data provided by the NOAA Physical Sciences Laboratory, Boulder,
   Colorado, USA
-references: ""
-documentation: ""
+references: ''
+documentation: ''
 website: https://psl.noaa.gov/
 institution: NOAA Physical Science Laboratory
-source_repository: ""
-license: ""
-doi: ""
+source_repository: ''
+license: ''
+doi: ''

@@ -3,7 +3,7 @@ campaign_name: FMI
 station_name: Parsivel23
 sensor_name: PARSIVEL2
 reader: FINLAND/FMI_PARSIVEL2
-raw_data_glob_pattern: "*_69dddc00.nc"
+raw_data_glob_pattern: '*_69dddc00.nc'
 raw_data_format: netcdf
 measurement_interval: 60
 deployment_status: ongoing
@@ -13,21 +13,20 @@ latitude: 61.844
 longitude: 24.287
 altitude: 150
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
+platform_orientation: ''
+time_coverage_start: '2014-01-04T00:00:00'
+time_coverage_end: '2025-06-01T23:59:00'
 disdrodb_data_url: https://cloudnet.fmi.fi/api/download/collection/62b089ed-9122-4a18-a68e-67b262260399
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Disdrometer data from Hyytiala
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment:
-  Deployed at the SMEAR-II station part of the ACTRIS cloud remote sensing
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: Deployed at the SMEAR-II station part of the ACTRIS cloud remote sensing
   facility
 station_id: Parsivel23
 koppen_geiger: Dfc
@@ -36,30 +35,28 @@ country: Finland
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel2
 sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
 authors: Dmitri Moisseev
 authors_url: https://orcid.org/0000-0002-4575-0409
-contact: ""
-contact_information: ""
-acknowledgement:
-  We acknowledge ACTRIS and Finnish Meteorological Institute for providing
+contact: ''
+contact_information: ''
+acknowledgement: We acknowledge ACTRIS and Finnish Meteorological Institute for providing
   the data set which is available for download from https://cloudnet.fmi.fi.
-references:
-  Moisseev, D. (2025). Custom collection of disdrometer data from Hyytiala
+references: Moisseev, D. (2025). Custom collection of disdrometer data from Hyytiala
   since 1 Jan 2014. ACTRIS Cloud remote sensing data centre unit (CLU). https://doi.org/10.60656/62b089ed91224a18
-documentation: ""
-website: ""
+documentation: ''
+website: ''
 institution: University of Helsinki
 source_repository: https://cloudnet.fmi.fi/collection/62b089ed-9122-4a18-a68e-67b262260399
 license: CC-BY 4.0

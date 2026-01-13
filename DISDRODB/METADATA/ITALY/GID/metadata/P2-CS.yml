@@ -3,7 +3,7 @@ campaign_name: GID
 station_name: P2-CS
 sensor_name: PARSIVEL2
 reader: ITALY/GID_PARSIVEL2
-raw_data_glob_pattern: "*.txt*"
+raw_data_glob_pattern: '*.txt*'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: ongoing
@@ -13,48 +13,49 @@ latitude: 41.05
 longitude: 14.3577
 altitude: 70.0
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: GID (Gruppo Italiano Disdrometria)
-description: ""
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: P2-CS
-koppen_geiger: ""
+koppen_geiger: ''
 location: Caserta
 country: Italy
 continent: Europe
 sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors: ""
-authors: ""
-authors_url: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: ''
+authors: ''
+authors_url: ''
 contact: Massimo Muraro, Paolo Duminuco, Mario Raffa
 contact_information: Massimo.Muraro@cmcc.it, paolo.duminuco@cmcc.it, Mario.Raffa@cmcc.it
-acknowledgement: ""
+acknowledgement: ''
 references: https://doi.org/10.5194/essd-15-2417-2023
-documentation: ""
+documentation: ''
 website: https://www.gid-net.it/
-institution: Research Division REMHI (Regional Model and geo-hydrological Impacts), Fondazione Centro Euro-Mediterraneo sui cambiamenti climatici (CMCC)
-source_repository: ""
+institution: Research Division REMHI (Regional Model and geo-hydrological Impacts),
+  Fondazione Centro Euro-Mediterraneo sui cambiamenti climatici (CMCC)
+source_repository: ''
 license: CC 4.0
 doi: https://doi.org/10.5281/zenodo.11102745

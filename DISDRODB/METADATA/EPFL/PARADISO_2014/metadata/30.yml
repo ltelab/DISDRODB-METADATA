@@ -1,9 +1,9 @@
 data_source: EPFL
 campaign_name: PARADISO_2014
-station_name: "30"
+station_name: '30'
 sensor_name: PARSIVEL
 reader: EPFL/PARADISO_2014
-raw_data_glob_pattern: "*.dat.gz"
+raw_data_glob_pattern: '*.dat.gz'
 raw_data_format: txt
 measurement_interval: 30
 deployment_status: terminated
@@ -13,50 +13,49 @@ latitude: 46.842456
 longitude: 6.918397
 altitude: 451
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: "2014-02-27T15:39:00"
-time_coverage_end: "2014-07-08T08:58:30"
+platform_orientation: ''
+time_coverage_start: '2014-02-27T15:39:00'
+time_coverage_end: '2014-07-08T08:58:30'
 disdrodb_data_url: https://zenodo.org/records/10360941/files/EPFL-PARADISO_2014-30.zip?download=1
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: PARADISO_2014
 description: PAyerne RAdar Disdrometer and ISOtops
 project_name: PAyerne RAdar Disdrometer and ISOtops
-keywords: ""
-summary: ""
-history: ""
-comment: ""
-station_id: "30"
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: '30'
 koppen_geiger: Cfb
 location: Payerne Airfield
 country: Switzerland
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: Alexis Berne, Jacopo Grazioli, Marc Schneebeli
 authors: Alexis Berne, Jacopo Grazioli, Marc Schneebeli
 authors_url: https://orcid.org/0000-0003-4977-1204, https://orcid.org/0000-0002-7097-3946
 contact: alexis.berne@epfl.ch
 contact_information: http://lte.epfl.ch
-acknowledgement: ""
-references: ""
-documentation: ""
-website: ""
-institution:
-  Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
   de Lausanne
-source_repository: ""
-license: ""
-doi: ""
+source_repository: ''
+license: ''
+doi: ''

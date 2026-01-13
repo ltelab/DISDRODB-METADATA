@@ -13,24 +13,22 @@ latitude: 44.629
 longitude: 4.124
 altitude: 920
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
-disdrodb_data_url: ""
-source: ""
-source_convention: ""
-source_processing_date: ""
+platform_orientation: ''
+time_coverage_start: '2012-07-26T18:11:00'
+time_coverage_end: '2020-04-10T07:58:00'
+disdrodb_data_url: ''
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: Data of the IGE OTT Parsivel2 optical disdrometer located at Bazendes, La Souche
-description:
-  Data of the IGE OTT Parsivel2 optical disdrometer located at Bazendes,
+description: Data of the IGE OTT Parsivel2 optical disdrometer located at Bazendes,
   La Souche
 project_name: OZCAR_OHMCV
-keywords: ""
-summary: ""
-history: ""
-comment:
-  "Raw data recorded directly from the data logger. Processed and validated
-  data will be released on the Theia data portal | OZCAR in 2026: https://in-situ.theia-land.fr/"
+keywords: ''
+summary: ''
+history: ''
+comment: 'Raw data recorded directly from the data logger. Processed and validated
+  data will be released on the Theia data portal | OZCAR in 2026: https://in-situ.theia-land.fr/'
 station_id: 85
 koppen_geiger: Cfb
 location: Bazendes, La Souche
@@ -38,36 +36,34 @@ country: France
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ""
+sensor_wavelength: ''
 sensor_serial_number: 291935
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
 sensor_beam_length: 180
 sensor_beam_width: 30
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
-contributors:
-  Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele ne Guyard,
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: Brice Boudevillain, Stephane Boubkraoui, Romain Biron, Hele ne Guyard,
   and their colleagues of the technical service of IGE as well as previously Gilles
   Molinie, Martin Calianno, Coralie Aubert, Matthieu Le Gall and Simon Gerard
 authors: Brice Boudevillain
 authors_url: https://orcid.org/0000-0002-1771-4953
 contact: brice.boudevillain@univ-grenoble-alpes.fr
 contact_information: https://www.ige-grenoble.fr/
-acknowledgement:
-  "The following acknowledgement sentence should appear in publications
-  using OHMCV data and products: 'OHMCV is funded by the Institut National des Sciences
-  de l'Univers (INSU/CNRS) and the Observatoire des Sciences de l'Univers de Grenoble
-  (OSUG / Universite Grenoble Alpes)'. You are invited to contact the PI(s) or the
+acknowledgement: 'The following acknowledgement sentence should appear in publications
+  using OHMCV data and products: ''OHMCV is funded by the Institut National des Sciences
+  de l''Univers (INSU/CNRS) and the Observatoire des Sciences de l''Univers de Grenoble
+  (OSUG / Universite Grenoble Alpes)''. You are invited to contact the PI(s) or the
   principal scientist for more information about the data and to include the acknowledgement
-  sentence in any publication using the data."
-references: ""
-documentation: ""
+  sentence in any publication using the data.'
+references: ''
+documentation: ''
 website: https://www.ige-grenoble.fr/
 institution: Institut des Geosciences de l'Environnement
-source_repository: ""
+source_repository: ''
 license: CC-BY 4.0
 doi: http://dx.doi.org/10.17178/OHMCV.DSD.SOU.12-16.1

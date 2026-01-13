@@ -12,55 +12,53 @@ platform_type: fixed
 latitude: 55.6942
 longitude: 12.0885
 altitude: 11.0
-platform_protection: ""
-platform_orientation: ""
-time_coverage_start: "2018-03-22T16:53:00"
-time_coverage_end: "2019-06-18T23:59:00"
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
 disdrodb_data_url: https://data.dtu.dk/ndownloader/files/57690418
-source: ""
-source_convention: ""
-source_processing_date: ""
-title:
-  Precipitation data from a disdrometer installed next to the tall Riso met mast,
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: Precipitation data from a disdrometer installed next to the tall Riso met mast,
   Denmark
-description:
-  This dataset consists of 1-minute and 20-seconds precipitation measurements
+description: This dataset consists of 1-minute and 20-seconds precipitation measurements
   observed with a OTT Parsivel2 installed on the ground next to the tall meteorological
   mast at DTU Riso campus. The period includes more than 3 years of measurements.
   See https://doi.org/10.1127/metz/2021/1063 for more details about the station.
-project_name: ""
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: Riso - on the ground next to the tall met mast
 koppen_geiger: Cfb
 location: Riso - on the ground next to the tall met mast
 country: Denmark
 continent: Europe
 sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ""
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+sensor_manufacturer: ''
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: Anna-Maria Tilg
 authors: Charlotte Hasager,  Flemming Vejen
-authors_url: ""
-contact: ""
-contact_information: ""
-acknowledgement: ""
-references: ""
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgement: ''
+references: ''
 documentation: https://www.rain-erosion.dk/publication
 website: https://www.rain-erosion.dk/
 institution: Innovationsfonden
-source_repository: ""
-license: ""
+source_repository: ''
+license: ''
 doi: https://doi.org/10.11583/DTU.14501577.v1

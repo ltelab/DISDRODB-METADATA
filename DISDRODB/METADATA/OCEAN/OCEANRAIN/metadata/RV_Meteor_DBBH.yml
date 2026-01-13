@@ -14,8 +14,8 @@ longitude: -9999
 altitude: 15
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2014-04-08 23:31:00'
-time_coverage_end: '2017-03-26 06:55:00'
+time_coverage_start: '2014-03-17T09:58:00'
+time_coverage_end: '2017-03-26T06:55:00'
 disdrodb_data_url: ''
 source: ''
 source_convention: ''

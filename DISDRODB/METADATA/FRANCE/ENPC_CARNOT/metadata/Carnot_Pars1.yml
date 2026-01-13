@@ -3,7 +3,7 @@ campaign_name: ENPC_CARNOT
 station_name: Carnot_Pars1
 sensor_name: PARSIVEL2
 reader: FRANCE/ENPC_PARSIVEL2
-raw_data_glob_pattern: "*.zip"
+raw_data_glob_pattern: '*.zip'
 raw_data_format: txt
 measurement_interval: 30
 deployment_status: ongoing
@@ -13,20 +13,20 @@ latitude: 48.841
 longitude: 2.5872
 altitude: 112
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
+platform_orientation: ''
+time_coverage_start: '2017-12-27T10:25:30'
+time_coverage_end: '2025-07-20T23:59:30'
 disdrodb_data_url: https://zenodo.org/records/16900405/files/Carnot_Pars1.zip?download=1
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: HMCO_ENPC_Carnot_roof
 description: HMCO-ENPC campaign on the roof of Carnot Building
 project_name: HMCO-ENPC campaign on the roof of Carnot Building
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: Pars1
 koppen_geiger: Cfb
 location: Champs-sur-Marne
@@ -34,34 +34,31 @@ country: France
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
 sensor_beam_width: 180
 sensor_nominal_width: 30
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: Auguste Gires, Daniel Schertzer, Ioulia Tchiguirinskaia
 authors: Auguste Gires, Daniel Schertzer, Ioulia Tchiguirinskaia
-authors_url:
-  http://orcid.org/0000-0002-4121-9928, http://orcid.org/0000-0003-4930-5115,
+authors_url: http://orcid.org/0000-0002-4121-9928, http://orcid.org/0000-0003-4930-5115,
   http://orcid.org/0000-0002-0483-987X
 contact: auguste.gires@enpc.fr
 contact_information: https://hmco.enpc.fr/
-acknowledgement:
-  The authors greatly acknowledge partial financial support from the
+acknowledgement: The authors greatly acknowledge partial financial support from the
   Chair of Hydrology for Resilient Cities (endowed by Veolia) of the Ecole des Ponts
   ParisTech, EU NEW INTERREG IV RainGain Project (www.raingain.eu), EU Climate KIC
   Blue Green Dream (www.bgd.org.uk), and the Ile-de-France region RadX@IdF Project.
-references: ""
-documentation: ""
+references: ''
+documentation: ''
 website: https://hmco.enpc.fr/
-institution:
-  Laboratoire Hydrologie Meteorologie et Complexite - Ecole nationale des
+institution: Laboratoire Hydrologie Meteorologie et Complexite - Ecole nationale des
   ponts et chaussees - Institut Polytechnique de Paris
 source_repository: http://doi.org/10.5281/zenodo.1240168
 license: CC 4.0

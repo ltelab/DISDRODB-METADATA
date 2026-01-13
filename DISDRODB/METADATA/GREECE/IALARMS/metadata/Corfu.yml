@@ -3,7 +3,7 @@ campaign_name: IALARMS
 station_name: Corfu
 sensor_name: PARSIVEL2
 reader: GREECE/NOA
-raw_data_glob_pattern: "*.mi7"
+raw_data_glob_pattern: '*.mi7'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -13,22 +13,21 @@ latitude: 39.6064
 longitude: 19.909401
 altitude: 10
 platform_protection: unshielded
-platform_orientation: ""
-time_coverage_start: ""
-time_coverage_end: ""
+platform_orientation: ''
+time_coverage_start: '2020-03-03T12:45:00'
+time_coverage_end: '2021-03-25T10:05:00'
 disdrodb_data_url: https://zenodo.org/records/17136444/files/Corfu.zip?download=1
-source: ""
-source_convention: ""
-source_processing_date: ""
+source: ''
+source_convention: ''
+source_processing_date: ''
 title: NOA laser disdrometer data at Corfu, Greece
-description: ""
-project_name:
-  "Ionian \u2013 Adriatic earLy wARning Monitoring System, Interreg -\
+description: ''
+project_name: "Ionian \u2013 Adriatic earLy wARning Monitoring System, Interreg -\
   \ IPA"
-keywords: ""
-summary: ""
-history: ""
-comment: ""
+keywords: ''
+summary: ''
+history: ''
+comment: ''
 station_id: NOA_Corfu
 koppen_geiger: Csa
 location: Corfu airport, Corfu
@@ -36,31 +35,29 @@ country: Greece
 continent: Europe
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ""
-sensor_serial_number: ""
-firmware_iop: ""
-firmware_dsp: ""
-firmware_version: ""
-sensor_beam_length: ""
-sensor_beam_width: ""
-sensor_nominal_width: ""
-calibration_sensitivity: ""
-calibration_certification_date: ""
-calibration_certification_url: ""
+sensor_wavelength: ''
+sensor_serial_number: ''
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
 contributors: John Kalogiros (NOA), Marios Anagnostou (NOA)
 authors: John Kalogiros
 authors_url: https://www.iersd.noa.gr/en/staff/researchers/dr-kalogiros-john/
 contact: John Kalogiros
 contact_information: jkalog@noa.gr
-acknowledgement: ""
-references: ""
-documentation: ""
-website: ""
-institution:
-  Institute of Environmental Research and Sustainable Development, National
+acknowledgement: ''
+references: ''
+documentation: ''
+website: ''
+institution: Institute of Environmental Research and Sustainable Development, National
   Observatory of Athens
-source_repository:
-  INTERREG IPA II CROSS-BORDER COOPERATION PROGRAMME GREECE-ALBANIA
+source_repository: INTERREG IPA II CROSS-BORDER COOPERATION PROGRAMME GREECE-ALBANIA
   2014-2020, MIS code 5031674, i-ALARMS
 license: CC-BY 4.0
-doi: ""
+doi: ''
