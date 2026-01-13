@@ -31,7 +31,7 @@ comment: First installed in June of 2018. Deployed for both the PRECIP and BACS 
   campigns, so no data from those periods. Data is included from the PRECIP field
   campaign from 20210501 - 20210831
 station_id: ''
-koppen_geiger: ''
+koppen_geiger: BSk
 location: Fort Collins, CO
 country: USA
 continent: North America
