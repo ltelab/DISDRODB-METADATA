@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: ''
 time_coverage_end: ''
-disdrodb_data_url: ''
+disdrodb_data_url: 'https://zenodo.org/records/17999617/files/JMO.zip?download=1'
 source: ''
 source_convention: ''
 source_processing_date: ''
@@ -58,4 +58,4 @@ website: ''
 institution: Universidad de Castilla - La Mancha (UCLM)
 source_repository: ''
 license: CC-BY 4.0
-doi: ''
+doi: 'https://doi.org/10.5281/zenodo.17999617'

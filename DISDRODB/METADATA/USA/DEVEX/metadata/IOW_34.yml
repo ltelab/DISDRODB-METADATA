@@ -1,0 +1,61 @@
+data_source: USA
+campaign_name: DEVEX
+station_name: IOW_34
+sensor_name: LPM
+reader:  "USA/DEVEX"
+raw_data_glob_pattern: "*.zip"
+raw_data_format: txt
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 41.639189
+longitude: -91.541327
+altitude: 208
+platform_protection: unshielded
+platform_orientation: 0
+time_coverage_start: ""
+time_coverage_end: ""
+disdrodb_data_url: ""
+source: ""
+source_convention: ""
+source_processing_date: ""
+title: University of Iowa optical disdrometer data Thies LPM at Iowa City Municipal Airport
+description: ""
+project_name: ""
+keywords: ""
+summary: ""
+history: ""
+comment: ""
+station_id: ""
+koppen_geiger: ""
+location: Iowa City Municipal Airpot, Iowa
+country: United States of America
+continent: North America
+sensor_long_name: Thies Laser Precipitation Monitor
+sensor_manufacturer: Adolf Thies GmbH & Co. KG
+sensor_wavelength: ""
+sensor_serial_number: ""
+firmware_iop: ""
+firmware_dsp: ""
+firmware_version: ""
+sensor_beam_length: ""
+sensor_beam_width: ""
+sensor_nominal_width: ""
+calibration_sensitivity: ""
+calibration_certification_date: ""
+calibration_certification_url: ""
+contributors:
+  Renato Prata de Moraes Frasson, Witold F. Krajewski, Luciana Kindl da Cunha
+authors: Renato Prata de Moraes Frasson, Witold F. Krajewski, Luciana Kindl da Cunha
+authors_url: ""
+contact: Renato Prata de Moraes Frasson
+contact_information: renato.prata.de.moraes.frasson@jpl.nasa.gov
+acknowledgement: ""
+references: "Frasson, R.P.d.M., Cunha, L.K.d., and Krajewski, W.F., “Assessment of the Thies optical disdrometer performance”, Atmospheric Research, 101, no 1-2, pp. 237-255, 2011, 10.1016/j.atmosres.2011.02.014"
+documentation: ""
+website: ""
+institution: IIHR Hydroscience and Engineering, the University of Iowa
+source_repository: ""
+license: CC-BY 4.0
+doi: https://doi.org/10.1016/j.atmosres.2011.02.014

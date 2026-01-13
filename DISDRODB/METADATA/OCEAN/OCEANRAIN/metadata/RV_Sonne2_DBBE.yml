@@ -1,6 +1,6 @@
 data_source: OCEAN
 campaign_name: OCEANRAIN
-station_name: RV_SonneI_DFCG
+station_name: RV_Sonne2_DBBE
 sensor_name: ODM470
 reader: OCEAN/OCEANRAIN
 raw_data_glob_pattern: OceanRAIN-R*.nc
@@ -14,19 +14,19 @@ longitude: -9999
 altitude: 15
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2012-09-11 04:18:00'
-time_coverage_end: '2012-10-05 23:02:00'
+time_coverage_start: '2014-12-04 14:17:00'
+time_coverage_end: '2018-12-31 23:59:00'
 disdrodb_data_url: ''
 source: ''
 source_convention: ''
 source_processing_date: ''
-title: OceanRAINRV-SonneI_DFCG
+title: OceanRAINRV-SonneII_DBBE
 description: ''
 project_name: OceanRAIN
 keywords: ''
 summary: This dataset contains the temporally discontinuous along-track shipboard
   raw particle size distributions and precipitation microphysics of the Ocean Rainfall
-  And Ice-phase precipitation measurement Network - OceanRAIN-R version 1.0 for RV-SonneI_DFCG
+  And Ice-phase precipitation measurement Network - OceanRAIN-R version 1.0 for RV-SonneII_DBBE
   in minute-resolution
 history: ''
 comment: ''
