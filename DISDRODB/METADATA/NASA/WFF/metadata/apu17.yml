@@ -6,7 +6,7 @@ reader: NASA/APU
 raw_data_glob_pattern: apu17_*.zip
 raw_data_format: txt
 measurement_interval: 10
-deployment_status: terminated
+deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
 latitude: 37.944

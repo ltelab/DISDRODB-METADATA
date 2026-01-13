@@ -1,17 +1,17 @@
 data_source: GERMANY
 campaign_name: DWD
-station_name: Langen_Bz
+station_name: List_auf_Sylt
 sensor_name: LPM
 reader: GERMANY/DWD
 raw_data_glob_pattern: '*.txt.gz'
 raw_data_format: txt
 measurement_interval: 60
-deployment_status: terminated
+deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 50.0075
-longitude: 8.6547
-altitude: 125.0
+latitude: 55.01099
+longitude: 8.41253
+altitude: 24.7
 platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: ''
@@ -29,7 +29,7 @@ history: See https://zenodo.org/records/15855617
 comment: ''
 station_id: ''
 koppen_geiger: Cfb
-location: LANGEN BZ
+location: LIST AUF SYLT
 country: Germany
 continent: Europe
 sensor_long_name: Thies Laser Precipitation Monitor

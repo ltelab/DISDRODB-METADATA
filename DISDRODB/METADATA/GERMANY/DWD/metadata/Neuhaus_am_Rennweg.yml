@@ -1,6 +1,6 @@
 data_source: GERMANY
 campaign_name: DWD
-station_name: Falkenberg_Grenzschichtmessfeld
+station_name: Neuhaus_am_Rennweg
 sensor_name: LPM
 reader: GERMANY/DWD
 raw_data_glob_pattern: '*.txt.gz'
@@ -9,9 +9,9 @@ measurement_interval: 60
 deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
-latitude: 52.16554
-longitude: 14.12236
-altitude: 73.0
+latitude: 50.50025
+longitude: 11.13446
+altitude: 845.0
 platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: ''
@@ -28,8 +28,8 @@ summary: ''
 history: See https://zenodo.org/records/15855617
 comment: ''
 station_id: ''
-koppen_geiger: Cfb
-location: FALKENBERG GRENZSCHICHTMESSFELD
+koppen_geiger: Dfb
+location: NEUHAUS AM RENNWEG
 country: Germany
 continent: Europe
 sensor_long_name: Thies Laser Precipitation Monitor

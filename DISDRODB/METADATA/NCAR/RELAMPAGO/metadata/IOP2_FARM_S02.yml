@@ -3,7 +3,7 @@ campaign_name: RELAMPAGO
 station_name: IOP2_FARM_S02
 sensor_name: PARSIVEL2
 reader: NCAR/FARM_PARSIVEL2
-raw_data_glob_pattern: csv
+raw_data_glob_pattern: '*.csv'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated

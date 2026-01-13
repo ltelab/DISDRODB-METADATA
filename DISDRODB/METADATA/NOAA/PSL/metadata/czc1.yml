@@ -6,7 +6,7 @@ reader: NOAA/PSL_RD80
 raw_data_glob_pattern: '*.txt'
 raw_data_format: txt
 measurement_interval: 120
-deployment_status: ongoing
+deployment_status: terminated
 deployment_mode: land
 platform_type: fixed
 latitude: 38.6107
