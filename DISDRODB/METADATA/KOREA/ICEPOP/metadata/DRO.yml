@@ -3,7 +3,7 @@ campaign_name: ICEPOP
 station_name: DRO
 sensor_name: PARSIVEL2
 reader: KOREA/ICEPOP_MSC
-raw_data_glob_pattern: '*.mis.gzip'
+raw_data_glob_pattern: '*.mis.gz'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated

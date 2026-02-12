@@ -3,7 +3,7 @@ campaign_name: ICEPOP
 station_name: DGW
 sensor_name: PARSIVEL2
 reader: KOREA/ICEPOP_UCLM
-raw_data_glob_pattern: '*.csv.gzip'
+raw_data_glob_pattern: '*.csv.gz'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
