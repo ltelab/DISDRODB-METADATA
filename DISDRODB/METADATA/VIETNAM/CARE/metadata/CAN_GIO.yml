@@ -9,7 +9,7 @@ measurement_interval: 60
 deployment_status: 'ongoing'
 deployment_mode: 'land'
 platform_type: fixed
-latitude: 10.402956718754835 
+latitude: 10.402956718754835
 longitude: 106.90341999756633
 altitude: 20
 platform_protection: ''
