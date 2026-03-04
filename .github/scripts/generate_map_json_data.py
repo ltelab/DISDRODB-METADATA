@@ -80,7 +80,9 @@ def generate_web_map_json(
         + ".yml"
     )
 
-    df = df.sort_values(["data_source", "campaign_name", "station_name"]).reset_index(drop=True)
+    df = df.sort_values(["data_source", "campaign_name", "station_name"]).reset_index(
+        drop=True
+    )
     df = df[[*FIELDS, "id", "github_url"]]
 
     list_stations_dict = [row.to_dict() for _, row in df.iterrows()]

@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.DISDRODB_WEBMAP_TOKEN }}
           path: disdrodb-webmap
           fetch-depth: 0
-          
+
       - name: Set up micromamba
         uses: mamba-org/setup-micromamba@v2
         with:
@@ -48,7 +48,7 @@ jobs:
           test -f disdrodb-webmap/public/data/stations.json
           test -f disdrodb-webmap/public/data/filter-options.json
           ls -lah disdrodb-webmap/public/data
-          
+
       - name: Commit & push JSON updates to disdrodb-webmap
         shell: bash
         run: |
@@ -64,7 +64,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-	
+
 	  git commit -m "Update webmap data — $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
- 
+
           git push origin HEAD:main
