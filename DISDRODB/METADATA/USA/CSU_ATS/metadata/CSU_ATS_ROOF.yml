@@ -33,7 +33,7 @@ comment: First installed in June of 2018. Deployed for both the PRECIP and BACS 
 station_id: ''
 koppen_geiger: BSk
 location: Fort Collins, CO
-country: USA
+country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel 2
 sensor_manufacturer: OTT Hydromet

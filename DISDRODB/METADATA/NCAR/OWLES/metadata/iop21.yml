@@ -32,7 +32,7 @@ comment: This IOP focused on downwind persistence (DP) and upwind effects of the
 station_id: iop21
 koppen_geiger: EF
 location: ''
-country: USA
+country: United States of America
 continent: North America
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
