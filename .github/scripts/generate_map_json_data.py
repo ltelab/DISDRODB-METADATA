@@ -121,9 +121,20 @@ def generate_web_map_json(
 
 
 if __name__ == "__main__":
-    df = disdrodb.read_metadata_archive()
 
-    # default local output: public/data
+    # Define temporary directory where to save Metadata Archive
+    tmp_dir = os.environ.get(
+        "TMPDIR", "/tmp/"
+    )  # locally create on /tmp directory (on Linux)
+    tmp_metadata_dir = os.path.join(tmp_dir, "DISDRODB-METADATA", "DISDRODB")
+
+    # Download metadata archive
+    disdrodb.download_metadata_archive(tmp_dir, force=True)
+
+    # Load metadata archive
+    df = disdrodb.read_metadata_archive(metadata_archive_dir=tmp_metadata_dir)
+
+    # Default local output: public/data
     output_dir = Path(os.environ.get("OUTPUT_DIR", "public/data"))
 
     generate_web_map_json(
