@@ -7,20 +7,28 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: "pages"
+  group: "map-data"
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-and-push-json:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        persist-credentials: false
 
+
+      - name: Checkout disdrodb-webmap repo
+        uses: actions/checkout@v4
+        with:
+          repository: ltelab/disdrodb-webmap
+          token: ${{ secrets.DISDRODB_WEBMAP_TOKEN }}
+          path: disdrodb-webmap
+          fetch-depth: 0
+          
       - name: Set up micromamba
         uses: mamba-org/setup-micromamba@v2
         with:
@@ -31,33 +39,32 @@ jobs:
           cache-env: true
           init-shell: bash
 
-      - name: Install Playwright browsers
-        run: playwright install chromium
+      - name: Generate JSON files into disdrodb-webmap/public/data
         shell: bash -l {0}
-
-      - name: Generate map
         env:
-          OUTPUT_DIR: public
-        shell: bash -l {0} # IMPORTANT: ensures micromamba env is activated
+          OUTPUT_DIR: disdrodb-webmap/public/data
         run: |
-          python .github/scripts/generate_html_map.py
+          python .github/scripts/generate_map_json_data.py
+          test -f disdrodb-webmap/public/data/stations.json
+          test -f disdrodb-webmap/public/data/filter-options.json
+          ls -lah disdrodb-webmap/public/data
+          
+      - name: Commit & push JSON updates to disdrodb-webmap
+        shell: bash
+        run: |
+          cd disdrodb-webmap
+          git status --porcelain
 
-      - name: Generate preview screenshot
-        shell: bash -l {0}
-        run: python .github/scripts/screenshot_map.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
+          git add public/data/stations.json public/data/filter-options.json
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+	
+	  git commit -m "Update webmap data — $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+ 
+          git push origin HEAD:main

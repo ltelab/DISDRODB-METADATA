@@ -44,7 +44,7 @@ ______________________________________________________________________
 
 Click on the image below to access the **full-screen interactive map** of all DISDRODB stations:
 
-[![Open the interactive map](https://ltelab.github.io/DISDRODB-METADATA/map_preview.png)](https://ltelab.github.io/DISDRODB-METADATA/stations_map.html)
+[![Open the interactive map](.github/map_preview.png)](https://ltelab.github.io/disdrodb-webmap/)
 
 ______________________________________________________________________
 
