@@ -36,7 +36,7 @@ jobs:
           create-args: >-
             python=3.11
           cache-downloads: true
-          cache-env: true
+          cache-environment: true
           init-shell: bash
 
       - name: Generate JSON files into disdrodb-webmap/public/data
@@ -65,6 +65,5 @@ jobs:
             exit 0
           fi
 
-	  git commit -m "Update webmap data — $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
-
+          git commit -m "Update webmap data — $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
           git push origin HEAD:main
