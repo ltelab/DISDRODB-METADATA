@@ -30,8 +30,8 @@ comment: ''
 station_id: ''
 koppen_geiger: Cfa
 location: ''
-country: United States of America
-continent: North America
+country: Italy
+continent: Europe
 sensor_long_name: OTT Hydromet Parsivel
 sensor_manufacturer: ''
 sensor_wavelength: ''
