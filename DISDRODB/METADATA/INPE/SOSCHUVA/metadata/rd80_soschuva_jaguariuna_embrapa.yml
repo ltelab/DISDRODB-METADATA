@@ -1,0 +1,64 @@
+data_source: INPE
+campaign_name: SOSCHUVA
+station_name: rd80_soschuva_jaguariuna_embrapa
+sensor_name: RD80
+reader: BRAZIL/CHUVA_RD80
+raw_data_format: txt
+raw_data_glob_pattern: 'rd80_soschuva_jaguariuna_embrapa_*.txt.gz'
+measurement_interval: 60
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: -22.717333
+longitude: -47.019667
+altitude: 612
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: 2016/09/14
+time_coverage_end: 2018/01/01
+disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/rd80_soschuva_jaguariuna_embrapa
+source: ''
+source_convention: ''
+source_processing_date: ''
+title: soschuva_jaguariuna_embrapa
+description: Disdrometer observations collected during the SOSCHUVA campaign using
+  a RD-80 Disdrometer. The dataset provides precipitation microphysical measurements
+  suitable for rainfall analysis, drop size distribution studies, and validation of
+  remote sensing products.
+project_name: SOSCHUVA
+keywords: disdrometer, precipitation, rainfall, drop size distribution, SOSCHUVA
+summary: Precipitation measurements acquired with a RD-80 Disdrometer disdrometer.
+history: ''
+comment: ''
+station_id: ''
+koppen_geiger: ''
+location: Site of the EMBRAPA in Jaguariuna, Sao Paulo, Brazil
+country: Brazil
+continent: South America
+sensor_long_name: RD-80 Disdrometer
+sensor_manufacturer: Disdromet
+sensor_wavelength: ''
+sensor_serial_number: '2102502'
+firmware_iop: ''
+firmware_dsp: ''
+firmware_version: ''
+sensor_beam_length: ''
+sensor_beam_width: ''
+sensor_nominal_width: ''
+calibration_sensitivity: ''
+calibration_certification_date: ''
+calibration_certification_url: ''
+contributors: Alan James Peixoto Calheiros, Luiz Augusto Toledo Machado
+authors: Alan James Peixoto Calheiros
+authors_url: https://orcid.org/0000-0002-6408-3410
+contact: Alan James Peixoto Calheiros
+contact_information: alan.calheiros@inpe.br
+acknowledgement: Funded by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+  Grants 2009/15235-8 and 2015/14497-0.
+references: ''
+documentation: https://ftp.cptec.inpe.br/chuva/read_me/
+website: ''
+institution: INPE - Instituto Nacional de Pesquisas Espaciais
+source_repository: ''
+license: CC-BY-4.0
+doi: https://doi.org/10.60748/wvay-q236

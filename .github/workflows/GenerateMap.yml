@@ -61,10 +61,15 @@ jobs:
 
           git add public/data/stations.json public/data/filter-options.json
 
+          # Show what's staged
+          git diff --cached --name-status
+          git diff --cached --stat
+
+          # Avoid empty commits
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "Update webmap data — $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+          git commit -m "Update webmap data — $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git push origin HEAD:main
