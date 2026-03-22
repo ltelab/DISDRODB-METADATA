@@ -30,7 +30,7 @@ comment: This station ID was assigned to a different station (Les Blaches locati
   in a previous campaign in this region (HYMEX_LTE_SOP2), in 2012
 station_id: '30'
 koppen_geiger: Cfa
-location: 'Le Pradel (Grainage) '
+location: Le Pradel (Grainage)
 country: France
 continent: Europe
 sensor_long_name: OTT HydroMet Parsivel

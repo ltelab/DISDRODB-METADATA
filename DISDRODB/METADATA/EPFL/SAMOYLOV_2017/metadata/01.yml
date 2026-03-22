@@ -26,7 +26,7 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: 'Data aquired as part of a student educational activity. '
+comment: Data aquired as part of a student educational activity.
 station_id: '01'
 koppen_geiger: EF
 location: Samoylov
@@ -54,8 +54,8 @@ acknowledgement: ''
 references: ''
 documentation: ''
 website: ''
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
 source_repository: ''
 license: ''
 doi: ''

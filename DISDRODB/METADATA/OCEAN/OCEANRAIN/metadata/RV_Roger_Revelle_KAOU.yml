@@ -50,18 +50,17 @@ calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: ''
 authors: Christian Klepp, Alain Protat, Joerg Burdanowitz, Simon Michel, Nicole Albern,
-  Valentin Louf, Andrea Dahl,  Tanja Thiele, Marc Schroeder
+  Valentin Louf, Andrea Dahl, Tanja Thiele, Marc Schroeder
 authors_url: ''
 contact: https://www.christianklepp.com/
 contact_information: mail@christianklepp.com
 acknowledgement: ''
-references: "Klepp, C., Michel S., Protat, A., Burdanowitz J., Albern N., Dahl A.,\
-  \ Kahnert M., Louf V., Bakan S. & Buehler, S.A. (2018). OceanRAIN, a new in-situ\
-  \ shipboard global ocean surface-reference dataset of all water cycle components.\
-  \ Nature Scientific Data, 5:180122. DOI:10.1038/sdata.2018.122.\n    Klepp, C. (2015).\
-  \ The Oceanic Shipboard Precipitation Measurement Network for Surface Validation\
-  \ - OceanRAIN. Atmos. Res., Special issue of the International Precipitation Working\
-  \ Group, 163, 74-90. DOI:10.1016/j.atmosres.2014.12.014."
+references: Klepp, C., Michel S., Protat, A., Burdanowitz J., Albern N., Dahl A.,
+  Kahnert M., Louf V., Bakan S. & Buehler, S.A. (2018). OceanRAIN, a new in-situ shipboard
+  global ocean surface-reference dataset of all water cycle components. Nature Scientific
+  Data, 5:180122. DOI:10.1038/sdata.2018.122. Klepp, C. (2015). The Oceanic Shipboard
+  Precipitation Measurement Network for Surface Validation - OceanRAIN. Atmos. Res.,
+  Special issue of the International Precipitation Working Group, 163, 74-90. DOI:10.1016/j.atmosres.2014.12.014.
 documentation: https://opendata.dwd.de/climate_environment/CDC/observations_global/ocean/OceanRAIN/V002/OceanRAIN2-user-manual.pdf
 website: ''
 institution: 'Publisher: Deutscher Wetterdienst, German Meteorological Service, Offenbach,
