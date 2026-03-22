@@ -32,9 +32,9 @@ koppen_geiger: Cfb
 location: BARTH
 country: Germany
 continent: Europe
-sensor_long_name: Thies Laser Precipitation Monitor
-sensor_manufacturer: Thies Clima
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: see record 6 of each data line
 firmware_iop: ''
 firmware_dsp: ''

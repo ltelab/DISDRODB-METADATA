@@ -33,9 +33,9 @@ koppen_geiger: Af
 location: Bohol Island State University, Loay Interior Road, Bilar, Bohol, 6317
 country: Philippines
 continent: Asia
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: 780 nm
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: 450020
 firmware_iop: 2.11.2
 firmware_dsp: 2.11.1

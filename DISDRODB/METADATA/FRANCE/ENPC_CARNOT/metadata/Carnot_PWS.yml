@@ -32,9 +32,9 @@ koppen_geiger: Cfb
 location: Champs-sur-Marne
 country: France
 continent: Europe
-sensor_long_name: Present Weather Sensor 100
-sensor_manufacturer: Campbell Scientific
-sensor_wavelength: ''
+sensor_long_name: Campbell Scientific Present Weather Sensor 100
+sensor_manufacturer: Campbell Scientific, Inc.
+sensor_wavelength: 830 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

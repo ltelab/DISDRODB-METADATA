@@ -34,9 +34,9 @@ koppen_geiger: Csa
 location: Valescure, Peyrolles_en_Cevennes
 country: France
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: 304578
 firmware_iop: ''
 firmware_dsp: ''

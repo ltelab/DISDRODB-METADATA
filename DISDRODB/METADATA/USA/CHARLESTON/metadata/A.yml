@@ -40,8 +40,8 @@ koppen_geiger: Cfa
 location: Hollywood, SC
 country: United States of America
 continent: North America
-sensor_long_name: Thies Clima Laser Precipitation Monitor
-sensor_manufacturer: Thies Clima
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
 sensor_wavelength: 785 nm
 sensor_serial_number: 5.4110.xx.x00
 firmware_iop: ''

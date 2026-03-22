@@ -3,8 +3,8 @@ campaign_name: GOAMAZON
 station_name: parsivel_goamazon_amazon_uea
 sensor_name: PARSIVEL2
 reader: BRAZIL/GOAMAZON_PARSIVEL2
+raw_data_glob_pattern: parsivel_goamazon_amazon_uea_*.txt.gz
 raw_data_format: txt
-raw_data_glob_pattern: 'parsivel_goamazon_amazon_uea_*.txt.gz'
 measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
@@ -35,9 +35,9 @@ koppen_geiger: ''
 location: Site of the UEA in Manacapuru, Amazonas, Brazil
 country: Brazil
 continent: South America
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: '390636'
 firmware_iop: ''
 firmware_dsp: ''

@@ -32,9 +32,9 @@ koppen_geiger: BSk
 location: Lecce
 country: Italy
 continent: Europe
-sensor_long_name: Thies_LPM
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

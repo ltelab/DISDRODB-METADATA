@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: ''
 time_coverage_end: ''
-disdrodb_data_url: 'https://zenodo.org/records/18375257/files/TC-TO.zip?download=1'
+disdrodb_data_url: https://zenodo.org/records/18375257/files/TC-TO.zip?download=1
 source: ''
 source_convention: ''
 source_processing_date: ''
@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Torino
 country: Italy
 continent: Europe
-sensor_long_name: Thies_LPM
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor V0
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

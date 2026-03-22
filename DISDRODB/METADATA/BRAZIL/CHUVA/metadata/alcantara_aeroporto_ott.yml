@@ -32,9 +32,9 @@ koppen_geiger: Aw
 location: Alcantara Airport
 country: Brazil
 continent: South America
-sensor_long_name: ''
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

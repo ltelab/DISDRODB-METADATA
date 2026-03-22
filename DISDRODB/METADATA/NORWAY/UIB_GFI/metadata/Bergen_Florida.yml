@@ -32,9 +32,9 @@ koppen_geiger: Cfb
 location: GFI Institute tower, Geophysical Institute, University of Bergen, Norway
 country: Norway
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: 369157 until 2020-05, thereafter 450790
 firmware_iop: ''
 firmware_dsp: ''

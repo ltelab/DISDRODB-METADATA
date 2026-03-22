@@ -3,8 +3,8 @@ campaign_name: ATTO
 station_name: rd80_atto_amazon_campina
 sensor_name: RD80
 reader: BRAZIL/ATTO_RD80
+raw_data_glob_pattern: rd80_atto_amazon_campina_*.txt.gz
 raw_data_format: txt
-raw_data_glob_pattern: 'rd80_atto_amazon_campina_*.txt.gz'
 measurement_interval: 60
 deployment_status: ongoing
 deployment_mode: land
@@ -36,9 +36,9 @@ location: Site of the Amazon Tall Tower Observatory (ATTO) 150 km from the city 
   Manaus, Brazil
 country: Brazil
 continent: South America
-sensor_long_name: RD-80 Disdrometer
-sensor_manufacturer: Disdromet
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: '2102502'
 firmware_iop: ''
 firmware_dsp: ''
@@ -54,11 +54,11 @@ authors: Alan James Peixoto Calheiros
 authors_url: https://orcid.org/0000-0002-6408-3410
 contact: Alan James Peixoto Calheiros
 contact_information: alan.calheiros@inpe.br
-acknowledgement: Funded by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
-  Grants 2022/13257-9, 2017/17047-0, 2022/07974-0; German Federal Ministry of Education
-  and Research (Bundesministerium fur Bildung und Forschung - BMBF) grant nos. 01LB1001A,
-  01LK1602A, 01LK1602B; and the Brazilian Ministerio da Ciência, Tecnologia e Inovacao
-  (MCTI/FINEP grant no. 01.11.01248.00).
+acknowledgement: "Funded by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)\
+  \ Grants 2022/13257-9, 2017/17047-0, 2022/07974-0; German Federal Ministry of Education\
+  \ and Research (Bundesministerium fur Bildung und Forschung - BMBF) grant nos. 01LB1001A,\
+  \ 01LK1602A, 01LK1602B; and the Brazilian Ministerio da Ci\xEAncia, Tecnologia e\
+  \ Inovacao (MCTI/FINEP grant no. 01.11.01248.00)."
 references: ''
 documentation: https://ftp.cptec.inpe.br/chuva/read_me/
 website: ''

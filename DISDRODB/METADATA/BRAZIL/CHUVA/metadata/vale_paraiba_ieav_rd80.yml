@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: IEAV, Val do Paraiba
 country: Brazil
 continent: South America
-sensor_long_name: ''
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

@@ -3,8 +3,8 @@ campaign_name: CHUVA
 station_name: rd80_chuva_santamaria_container
 sensor_name: RD80
 reader: BRAZIL/CHUVA_RD80
+raw_data_glob_pattern: rd80_chuva_santamaria_container_*.txt.gz
 raw_data_format: txt
-raw_data_glob_pattern: 'rd80_chuva_santamaria_container_*.txt.gz'
 measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
@@ -35,9 +35,9 @@ koppen_geiger: ''
 location: Site of the Container Station in Santa Maria, Rio Grande do Sul, Brazil
 country: Brazil
 continent: South America
-sensor_long_name: RD-80 Disdrometer
-sensor_manufacturer: Disdromet
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: '2102502'
 firmware_iop: ''
 firmware_dsp: ''

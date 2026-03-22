@@ -35,9 +35,9 @@ koppen_geiger: ''
 location: ''
 country: ''
 continent: ''
-sensor_long_name: Eigenbrodt ODM-470
+sensor_long_name: Eigenbrodt Optical Disdrometer 470
 sensor_manufacturer: Eigenbrodt GmbH & Co. K
-sensor_wavelength: ''
+sensor_wavelength: 880 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

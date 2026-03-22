@@ -33,9 +33,9 @@ koppen_geiger: ''
 location: Kara Sea
 country: Russia
 continent: Asia
-sensor_long_name: OTT Hydromet Parsivel 1
-sensor_manufacturer: OTT
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

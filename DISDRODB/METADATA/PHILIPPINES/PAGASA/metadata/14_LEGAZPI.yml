@@ -32,9 +32,9 @@ koppen_geiger: Af
 location: PAGASA SLPRSD, Magayon Drive, Legazpi City, Albay, 4500
 country: Philippines
 continent: Asia
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: 780 nm
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: 450016
 firmware_iop: 2.11.2
 firmware_dsp: 2.11.1

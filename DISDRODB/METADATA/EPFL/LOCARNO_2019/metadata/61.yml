@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Locarno-Monti
 country: Switzerland
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -53,8 +53,9 @@ contact_information: http://lte.epfl.ch
 acknowledgement: ''
 references: ''
 documentation: ''
-website: 'http://lte.epfl.ch'
-institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale de Lausanne
+website: http://lte.epfl.ch
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
 source_repository: ''
 license: ''
 doi: ''
