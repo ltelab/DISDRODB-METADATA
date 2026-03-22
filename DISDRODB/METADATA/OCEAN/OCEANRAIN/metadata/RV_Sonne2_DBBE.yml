@@ -67,5 +67,5 @@ website: ''
 institution: 'Publisher: Deutscher Wetterdienst, German Meteorological Service, Offenbach,
   Germany, Host: Max Planck Institute for Meteorology, Hamburg, Germany'
 source_repository: https://opendata.dwd.de/climate_environment/CDC/observations_global/ocean/OceanRAIN/
-license: CC-BY 4.0
-doi: 10.1594/WDCC/OceanRAIN-R
+license: CC BY 4.0
+doi: https://doi.org/10.1594/WDCC/OceanRAIN-R

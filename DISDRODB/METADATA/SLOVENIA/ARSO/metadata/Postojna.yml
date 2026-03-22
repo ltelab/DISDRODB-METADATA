@@ -56,5 +56,5 @@ documentation: https://github.com/ltelab/disdrodb/blob/main/disdrodb/l0/readers/
 website: https://www.arso.gov.si/
 institution: Slovenian Environment Agency (ARSO)
 source_repository: ''
-license: CC-BY 4.0
-doi: https://doi.org/10.4121/7f3cbf43-c2a2-4db4-8a55-d5ca0ee3abec.v3
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.17257452
