@@ -12,6 +12,9 @@ concurrency:
   group: "map-data"
   cancel-in-progress: true
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build-and-push-json:
     runs-on: ubuntu-latest
@@ -23,7 +26,7 @@ jobs:
 
 
       - name: Checkout disdrodb-webmap repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: ltelab/disdrodb-webmap
           token: ${{ secrets.DISDRODB_WEBMAP_TOKEN }}
