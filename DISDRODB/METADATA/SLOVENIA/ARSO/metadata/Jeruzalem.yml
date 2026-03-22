@@ -6,7 +6,7 @@ reader: SLOVENIA/ARSO
 raw_data_glob_pattern: SM05_*.M420.gz
 raw_data_format: txt
 measurement_interval: 60
-deployment_status: terminated
+deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
 latitude: 46.47586
