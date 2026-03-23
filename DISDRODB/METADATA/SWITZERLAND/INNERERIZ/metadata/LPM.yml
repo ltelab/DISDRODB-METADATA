@@ -14,8 +14,8 @@ longitude: 7.78
 altitude: 1060
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2017-11-01T00:01:00'
+time_coverage_end: '2019-06-30T23:59:00'
 disdrodb_data_url: https://zenodo.org/records/3956815/files/ThiesClima_Disdrometer.zip?download=1
 source: ''
 source_convention: ''

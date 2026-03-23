@@ -14,8 +14,8 @@ longitude: -91.541327
 altitude: 208
 platform_protection: unshielded
 platform_orientation: 0
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2007-06-21T20:00:00'
+time_coverage_end: '2009-02-11T14:59:00'
 disdrodb_data_url: https://zenodo.org/records/18574232/files/IOW_68.zip?download=1
 source: ''
 source_convention: ''

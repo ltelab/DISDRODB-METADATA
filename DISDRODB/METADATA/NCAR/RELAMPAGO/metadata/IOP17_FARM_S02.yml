@@ -14,8 +14,8 @@ longitude: -64.454759
 altitude: 662
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2018-12-13T17:46:20'
+time_coverage_end: '2018-12-14T06:43:10'
 disdrodb_data_url: ''
 source: ''
 source_convention: ''
