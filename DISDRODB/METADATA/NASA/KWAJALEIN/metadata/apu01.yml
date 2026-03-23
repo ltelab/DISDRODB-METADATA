@@ -2,7 +2,7 @@ data_source: NASA
 campaign_name: KWAJALEIN
 station_name: apu01
 sensor_name: PARSIVEL2
-reader: NASA/APU
+reader: NASA/KWAJALEIN
 raw_data_glob_pattern: apu01_*.dat
 raw_data_format: txt
 measurement_interval: 10
