@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2017-12-27T10:25:30'
 time_coverage_end: '2025-07-20T23:59:30'
 disdrodb_data_url: https://zenodo.org/records/16904004/files/Carnot_Pars2.zip?download=1
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: HMCO_ENPC_Carnot_roof
 description: HMCO-ENPC campaign on the roof of Carnot Building
 project_name: HMCO-ENPC campaign on the roof of Carnot Building
@@ -36,22 +33,13 @@ sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: 180
-sensor_nominal_width: 30
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: Auguste Gires, Daniel Schertzer, Ioulia Tchiguirinskaia
 authors: Auguste Gires, Daniel Schertzer, Ioulia Tchiguirinskaia
 authors_url: http://orcid.org/0000-0002-4121-9928, http://orcid.org/0000-0003-4930-5115,
   http://orcid.org/0000-0002-0483-987X
 contact: auguste.gires@enpc.fr
 contact_information: https://hmco.enpc.fr/
-acknowledgement: The authors greatly acknowledge partial financial support from the
+acknowledgements: The authors greatly acknowledge partial financial support from the
   Chair of Hydrology for Resilient Cities (endowed by Veolia) of the Ecole des Ponts
   ParisTech, EU NEW INTERREG IV RainGain Project (www.raingain.eu), EU Climate KIC
   Blue Green Dream (www.bgd.org.uk), and the Ile-de-France region RadX@IdF Project.

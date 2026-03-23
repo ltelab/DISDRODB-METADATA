@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2017-11-01T00:01:00'
 time_coverage_end: '2019-06-30T23:59:00'
 disdrodb_data_url: https://zenodo.org/records/3956815/files/ThiesClima_Disdrometer.zip?download=1
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: ''
 description: ''
 project_name: ''
@@ -36,22 +33,13 @@ sensor_long_name: Thies CLIMA Laser Precipitation Monitor
 sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
 sensor_wavelength: 785 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: Michael Fehlmann, Mario Rohrer, Annakaisa von Lerber, Markus Stoffel
 authors: Michael Fehlmann, Mario Rohrer, Annakaisa von Lerber, Markus Stoffel
 authors_url: https://orcid.org/0000-0002-0059-553X, https://orcid.org/0000-0002-5311-383X,
   https://orcid.org/0000-0003-0816-1303, https://orcid.org/0000-0003-2890-1217
 contact: ''
 contact_information: ''
-acknowledgement: ''
+acknowledgements: ''
 references: https://doi.org/10.5194/amt-13-4683-2020
 documentation: ''
 website: ''

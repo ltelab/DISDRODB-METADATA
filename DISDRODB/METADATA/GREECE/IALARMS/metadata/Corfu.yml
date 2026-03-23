@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2020-03-03T12:45:00'
 time_coverage_end: '2021-03-25T10:05:00'
 disdrodb_data_url: https://zenodo.org/records/17136444/files/Corfu.zip?download=1
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: NOA laser disdrometer data at Corfu, Greece
 description: ''
 project_name: "Ionian \u2013 Adriatic earLy wARning Monitoring System, Interreg -\
@@ -37,21 +34,12 @@ sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: John Kalogiros (NOA), Marios Anagnostou (NOA)
 authors: John Kalogiros
 authors_url: https://www.iersd.noa.gr/en/staff/researchers/dr-kalogiros-john/
 contact: John Kalogiros
 contact_information: jkalog@noa.gr
-acknowledgement: ''
+acknowledgements: ''
 references: ''
 documentation: ''
 website: ''

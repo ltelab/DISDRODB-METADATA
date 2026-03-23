@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: ''
 time_coverage_end: ''
 disdrodb_data_url: ''
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: 'PERiLS 2022: UAH MAPNet Mobile Doppler Lidar and Soundings (MoDLS) Disdrometer
   Data'
 description: PERiLS provides observations necessary to address environmental factors
@@ -38,21 +35,12 @@ sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: ''
 authors: Preston Pangle, Kevin Knupp
 authors_url: ''
 contact: preston.pangle@uah.edu, kevin.knupp@uah.edu
 contact_information: ''
-acknowledgement: ''
+acknowledgements: ''
 references: 'Pangle, P., Knupp, K. 2022. PERiLS_2022: UAH MAPNet Parsivel Disdrometer
   Data. Version 1.0. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.26023/GAGD-NA1F-9C13'
 documentation: https://data.eol.ucar.edu/file/download/553F356481919/perils2022_parsivel_Readme.pdf

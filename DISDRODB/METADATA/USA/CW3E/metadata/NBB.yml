@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2020-03-25T00:28:30'
 time_coverage_end: '2025-10-03T23:59:20'
 disdrodb_data_url: https://cw3e-datashare.ucsd.edu/CW3E_Disdrometer/NBB/raw/
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: CW3E Disdrometer Network
 description: ''
 project_name: ''
@@ -36,21 +33,12 @@ sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: ''
 authors: ''
 authors_url: ''
 contact: Subin Yoon, Anna Wilson
 contact_information: suy015@ucsd.edu , amw061@ucsd.edu
-acknowledgement: ''
+acknowledgements: ''
 references: ''
 documentation: https://cw3e.ucsd.edu/metadata/sites/NBB
 website: ''

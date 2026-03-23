@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: 2011/04/06
 time_coverage_end: 2011/04/30
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/parsivel_chuva_fortaleza_defesacivil
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: chuva_fortaleza_defesacivil
 description: Disdrometer observations collected during the CHUVA campaign using a
   OTT Hydromet Parsivel 2. The dataset provides precipitation microphysical measurements
@@ -32,28 +29,19 @@ history: ''
 comment: ''
 station_id: ''
 koppen_geiger: ''
-location: "Site near of the Defesa Civil building of Fortaleza, Ceara, Brazil"
+location: Site near of the Defesa Civil building of Fortaleza, Ceara, Brazil
 country: Brazil
 continent: South America
 sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: '390636'
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: Alan James Peixoto Calheiros, Luiz Augusto Toledo Machado
 authors: Alan James Peixoto Calheiros
 authors_url: https://orcid.org/0000-0002-6408-3410
 contact: Alan James Peixoto Calheiros
 contact_information: alan.calheiros@inpe.br
-acknowledgement: Funded by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+acknowledgements: Funded by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
   Grants 2009/15235-8 and 2015/14497-0.
 references: ''
 documentation: https://ftp.cptec.inpe.br/chuva/read_me/

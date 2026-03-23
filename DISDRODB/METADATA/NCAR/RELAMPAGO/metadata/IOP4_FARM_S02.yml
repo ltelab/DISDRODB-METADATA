@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2018-11-10T13:37:50'
 time_coverage_end: '2018-11-10T22:32:50'
 disdrodb_data_url: ''
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: 'RELAMPAGO: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
   Data'
 description: ''
@@ -38,21 +35,12 @@ sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: ''
 authors: Joshua Wurman, Karen Kosiba
 authors_url: ''
 contact: jwurman@illinois.edu, kakosiba@illinois.edu
 contact_information: ''
-acknowledgement: ''
+acknowledgements: ''
 references: Wurman, J., & Kosiba, K. (2021). FARM-data-RELAMPAGO (Version 1) [Data
   set]. Center for Severe Weather Research. https://doi.org/10.48514/NK1P-7J11
 documentation: ''

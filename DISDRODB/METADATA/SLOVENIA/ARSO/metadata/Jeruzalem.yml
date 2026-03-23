@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2018-01-31T23:50:00'
 time_coverage_end: '2025-02-28T23:49:00'
 disdrodb_data_url: https://zenodo.org/records/17257452/files/Jeruzalem.zip?download=1
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: ARSO disdrometer data
 description: ''
 project_name: National meteorological observational network
@@ -36,21 +33,12 @@ sensor_long_name: Thies CLIMA Laser Precipitation Monitor
 sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
 sensor_wavelength: 785 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: Saso Petan, Milorad Brujic
 authors: Saso Petan
 authors_url: ''
 contact: Saso Petan
 contact_information: saso.petan@gov.si
-acknowledgement: ''
+acknowledgements: ''
 references: ''
 documentation: https://github.com/ltelab/disdrodb/blob/main/disdrodb/l0/readers/LPM/SLOVENIA/ARSO.py
 website: https://www.arso.gov.si/

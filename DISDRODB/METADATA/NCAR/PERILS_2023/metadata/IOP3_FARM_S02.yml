@@ -17,9 +17,6 @@ platform_orientation: ''
 time_coverage_start: '2023-03-24T20:49:10'
 time_coverage_end: '2023-03-25T02:56:10'
 disdrodb_data_url: ''
-source: ''
-source_convention: ''
-source_processing_date: ''
 title: 'PERiLS 2023: UI Flexible Array of Radars and Mesonets (FARM) Parsivel Disdrometer
   Data'
 description: PERiLS provides observations necessary to address environmental factors
@@ -38,21 +35,12 @@ sensor_long_name: OTT HydroMet Parsivel 2
 sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
-firmware_iop: ''
-firmware_dsp: ''
-firmware_version: ''
-sensor_beam_length: ''
-sensor_beam_width: ''
-sensor_nominal_width: ''
-calibration_sensitivity: ''
-calibration_certification_date: ''
-calibration_certification_url: ''
 contributors: ''
 authors: Joshua Wurman, Karen Kosiba
 authors_url: ''
 contact: jwurman@illinois.edu, kakosiba@illinois.edu
 contact_information: ''
-acknowledgement: ''
+acknowledgements: ''
 references: Wurman, J., & Kosiba, K. (2023). PERILS 2023 Mobile Mesonet, Sounding,
   Pod, and Disdrometer Data (Version 1) [Data set]. Flexible Array of Radars and Mesonets
   (FARM), University of Illinois. https://doi.org/10.48514/S52C-MH37
