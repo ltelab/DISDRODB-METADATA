@@ -14,7 +14,7 @@ longitude: 15.58753
 altitude: 585
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '1999-11-30T01:01:00'
+time_coverage_start: '2018-01-31T23:50:00'
 time_coverage_end: '2025-02-28T23:49:00'
 disdrodb_data_url: https://zenodo.org/records/17257452/files/Hocko_Pohorje.zip?download=1
 source: ''
