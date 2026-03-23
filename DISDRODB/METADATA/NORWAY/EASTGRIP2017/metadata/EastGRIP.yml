@@ -34,9 +34,9 @@ location: Clean snow field near the ice core drilling site EastGRIP on the Green
   ice sheet
 country: Greenland
 continent: North America
-sensor_long_name: OTT Hydromet Parsivel2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: '369157'
 firmware_iop: ''
 firmware_dsp: ''
@@ -58,5 +58,5 @@ documentation: ''
 website: ''
 institution: Geophysical Insitute, University of Bergen, Norway
 source_repository: ''
-license: CC-BY 4.0
-doi: 10.5281/zenodo.17430461
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.17430461

@@ -32,9 +32,9 @@ koppen_geiger: Csb
 location: Kennaook/Cape Grim, Tasmania
 country: Australia
 continent: Australia
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -53,7 +53,7 @@ contact_information: ''
 acknowledgement: ''
 references: "Atmospheric Radiation Measurement (ARM) user facility. 2024. Laser Disdrometer\
   \ (LD). ARM Mobile Facility (KCG) kennaook \u2044 Cape Grim, Tasmania, Australia;\
-  \ Suppl Fac 1, colocated at M1 (S1).  Compiled by Z. Zhu, D. Wang and Y. Shi. ARM\
+  \ Suppl Fac 1, colocated at M1 (S1). Compiled by Z. Zhu, D. Wang and Y. Shi. ARM\
   \ Data Center. Data set accessed 2024-12-13 at http://dx.doi.org/10.5439/1973058."
 documentation: ''
 website: ''

@@ -29,15 +29,15 @@ project_name: ''
 keywords: ''
 summary: ''
 history: ''
-comment: 'Deployed in an Alpine field campaign. Snow may be frequent. '
+comment: Deployed in an Alpine field campaign. Snow may be frequent.
 station_id: '50'
 koppen_geiger: Dfc
 location: Davos
 country: Switzerland
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -57,8 +57,8 @@ acknowledgement: ''
 references: ''
 documentation: ''
 website: ''
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
 source_repository: ''
-license: ''
-doi: ''
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.10361005

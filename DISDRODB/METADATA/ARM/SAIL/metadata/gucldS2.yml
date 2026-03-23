@@ -32,9 +32,9 @@ koppen_geiger: Dfc
 location: ''
 country: ''
 continent: ''
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -52,7 +52,7 @@ contact: ''
 contact_information: ''
 acknowledgement: ''
 references: Atmospheric Radiation Measurement (ARM) user facility. 2021. Laser Disdrometer
-  (LD). ARM Mobile Facility (GUC) Gunnison, CO; Supplemental Facility 2 (S2).  Compiled
+  (LD). ARM Mobile Facility (GUC) Gunnison, CO; Supplemental Facility 2 (S2). Compiled
   by Z. Zhu, D. Wang and Y. Shi. ARM Data Center. Data set accessed 2024-12-17 at
   http://dx.doi.org/10.5439/1973058.
 documentation: ''
@@ -60,4 +60,4 @@ website: ''
 institution: ''
 source_repository: ''
 license: ''
-doi: 10.5439/1560674
+doi: https://doi.org/10.5439/1560674

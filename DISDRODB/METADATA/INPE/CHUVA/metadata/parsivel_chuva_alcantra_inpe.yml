@@ -3,8 +3,8 @@ campaign_name: CHUVA
 station_name: parsivel_chuva_alcantra_inpe
 sensor_name: PARSIVEL2
 reader: BRAZIL/CHUVA_PARSIVEL2
+raw_data_glob_pattern: parsivel_chuva_alcantra_inpe_*.txt.gz
 raw_data_format: txt
-raw_data_glob_pattern: 'parsivel_chuva_alcantra_inpe_*.txt.gz'
 measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
@@ -32,13 +32,13 @@ history: ''
 comment: ''
 station_id: ''
 koppen_geiger: ''
-location: Site of the INPE (National Institute for Space Research) in Alcântara Base,
-  Maranhão, Brazil
+location: "Site of the INPE (National Institute for Space Research) in Alc\xE2ntara\
+  \ Base, Maranhao, Brazil"
 country: Brazil
 continent: South America
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: '390636'
 firmware_iop: ''
 firmware_dsp: ''
@@ -61,5 +61,5 @@ documentation: https://ftp.cptec.inpe.br/chuva/read_me/
 website: ''
 institution: INPE - Instituto Nacional de Pesquisas Espaciais
 source_repository: ''
-license: CC-BY-4.0
+license: CC BY 4.0
 doi: https://doi.org/10.60748/ctxc-r997

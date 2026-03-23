@@ -34,9 +34,9 @@ koppen_geiger: Dfa
 location: Ellis, Kansas
 country: United States of America
 continent: North America
-sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -48,7 +48,7 @@ calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: ''
-authors: ' William Brown'
+authors: William Brown
 authors_url: ''
 contact: wbrown@ucar.edu
 contact_information: wbrown@ucar.edu

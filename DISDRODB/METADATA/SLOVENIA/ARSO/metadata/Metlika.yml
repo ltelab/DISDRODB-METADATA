@@ -6,7 +6,7 @@ reader: SLOVENIA/ARSO
 raw_data_glob_pattern: SM05_*.M441.gz
 raw_data_format: txt
 measurement_interval: 60
-deployment_status: terminated
+deployment_status: ongoing
 deployment_mode: land
 platform_type: fixed
 latitude: 45.64416
@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Metlika
 country: Slovenia
 continent: Europe
-sensor_long_name: Laser Precipitation Monitor
-sensor_manufacturer: Thies Clima
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -56,5 +56,5 @@ documentation: https://github.com/ltelab/disdrodb/blob/main/disdrodb/l0/readers/
 website: https://www.arso.gov.si/
 institution: Slovenian Environment Agency (ARSO)
 source_repository: ''
-license: CC-BY 4.0
-doi: https://doi.org/10.4121/7f3cbf43-c2a2-4db4-8a55-d5ca0ee3abec.v3
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.17257452

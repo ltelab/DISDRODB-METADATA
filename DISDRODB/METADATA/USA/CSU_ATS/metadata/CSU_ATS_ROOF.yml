@@ -33,10 +33,10 @@ comment: First installed in June of 2018. Deployed for both the PRECIP and BACS 
 station_id: ''
 koppen_geiger: BSk
 location: Fort Collins, CO
-country: USA
+country: United States of America
 continent: North America
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
 sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
@@ -62,4 +62,4 @@ website: https://www.atmos.colostate.edu
 institution: Department of Atmospheric Science, Colorado State University
 source_repository: ''
 license: ''
-doi: 10.5061/dryad.dz08kpsb9
+doi: https://doi.org/10.5061/dryad.dz08kpsb9

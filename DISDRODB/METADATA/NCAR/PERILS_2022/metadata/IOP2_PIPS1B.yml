@@ -33,9 +33,9 @@ koppen_geiger: Cfa
 location: New Hamilton, Mississipi
 country: United States of America
 continent: North America
-sensor_long_name: OTT Hydromet Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -54,7 +54,7 @@ contact_information: ''
 acknowledgement: ''
 references: 'Dawson, D., Biggerstaff, M., Waugh, S. 2025. PERiLS 2022: Portable In
   Situ Precipitation Stations (PIPS) Data. Version 1.0. UCAR/NCAR - Earth Observing
-  Laboratory. https://doi.org/10.26023/HFBG-7W5M-WA00. '
+  Laboratory. https://doi.org/10.26023/HFBG-7W5M-WA00.'
 documentation: https://data.eol.ucar.edu/file/download/55469A659AA45/PIPS_documentation_PERiLS_2022.pdf
 website: https://catalog.eol.ucar.edu/perils_2022
 institution: Purdue University

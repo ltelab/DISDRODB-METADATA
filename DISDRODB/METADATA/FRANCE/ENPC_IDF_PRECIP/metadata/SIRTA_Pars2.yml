@@ -32,9 +32,9 @@ koppen_geiger: Cfb
 location: Palaiseau
 country: France
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -61,5 +61,5 @@ website: https://hmco.enpc.fr/
 institution: Laboratoire Hydrologie Meteorologie et Complexite - Ecole nationale des
   ponts et chaussees - Institut Polytechnique de Paris
 source_repository: ''
-license: CC 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.5281/zenodo.16904175

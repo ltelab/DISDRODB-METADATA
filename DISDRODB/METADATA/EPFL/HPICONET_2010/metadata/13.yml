@@ -21,7 +21,7 @@ source: ''
 source_convention: ''
 source_processing_date: ''
 title: HPICONET_2010
-description: 'Pre-campaign of the HyMeX (https://hymex.org/) experiment '
+description: Pre-campaign of the HyMeX (https://hymex.org/) experiment
 project_name: HPICONET_2010
 keywords: ''
 summary: ''
@@ -33,9 +33,9 @@ koppen_geiger: Cfa
 location: Lavilledieu
 country: France
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -59,5 +59,5 @@ website: ''
 institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
   de Lausanne
 source_repository: ''
-license: ''
-doi: ''
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.10361123

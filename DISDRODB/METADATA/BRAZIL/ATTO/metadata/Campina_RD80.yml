@@ -32,9 +32,9 @@ koppen_geiger: EF
 location: Campinas
 country: Brazil
 continent: South America
-sensor_long_name: ''
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -61,5 +61,5 @@ documentation: https://atto-campina.iag.usp.br/
 website: ''
 institution: INPE - Instituto Nacional de Pesquisas Espaciais
 source_repository: ''
-license: CC 4.0
+license: CC BY 4.0
 doi: ''

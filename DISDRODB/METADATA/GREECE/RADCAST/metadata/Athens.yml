@@ -32,9 +32,9 @@ koppen_geiger: Csa
 location: Penteli hill, Athens
 country: Greece
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -57,5 +57,5 @@ website: ''
 institution: Institute of Environmental Research and Sustainable Development, National
   Observatory of Athens
 source_repository: ''
-license: CC-BY 4.0
-doi: ''
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.17136444

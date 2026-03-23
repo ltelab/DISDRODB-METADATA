@@ -32,9 +32,9 @@ koppen_geiger: BWh
 location: Ascension Island
 country: United Kingdom Overseas Territory
 continent: ''
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -53,7 +53,7 @@ contact_information: ''
 acknowledgement: ''
 references: Atmospheric Radiation Measurement (ARM) user facility. 2015. Laser Disdrometer
   (LD). ARM Mobile Facility (ASI) Ascension Island, South Atlantic Ocean; Collocated
-  Instruments (S2).  Compiled by Z. Zhu, M. Bartholomew and Y. Shi. ARM Data Center.
+  Instruments (S2). Compiled by Z. Zhu, M. Bartholomew and Y. Shi. ARM Data Center.
   Data set accessed 2024-12-17 at http://dx.doi.org/10.5439/1973058
 documentation: ''
 website: ''

@@ -33,9 +33,9 @@ location: Hydrological Open Air Laboratory HOAL catchment in Petzenkirchen, Lowe
   Austria
 country: Austria
 continent: Europe
-sensor_long_name: Campbell Present Weather Sensor PWS100
-sensor_manufacturer: Campbell
-sensor_wavelength: ''
+sensor_long_name: Campbell Scientific Present Weather Sensor 100
+sensor_manufacturer: Campbell Scientific, Inc.
+sensor_wavelength: 830 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -64,5 +64,5 @@ website: https://hoal.hydrology.at/the-hoal
 institution: Institute of Hydraulic Engineering and Water Resources Management, TU
   Wien
 source_repository: ''
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.4121/7f3cbf43-c2a2-4db4-8a55-d5ca0ee3abec.v3

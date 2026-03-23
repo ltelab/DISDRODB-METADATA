@@ -32,9 +32,9 @@ koppen_geiger: Aw
 location: Defesa Civil, Fortaleza
 country: Brazil
 continent: South America
-sensor_long_name: ''
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -58,5 +58,5 @@ documentation: ''
 website: ''
 institution: INPE - Instituto Nacional de Pesquisas Espaciais
 source_repository: https://ftp.cptec.inpe.br/chuva/
-license: CC 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.60748/zmv0-8614

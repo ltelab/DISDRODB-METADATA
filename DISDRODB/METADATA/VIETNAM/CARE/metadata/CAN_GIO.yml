@@ -1,15 +1,15 @@
 data_source: VIETNAM
 campaign_name: CARE
 station_name: CAN_GIO
-sensor_name: 'PARSIVEL2'
-reader: 'VIETNAM/CARE'
-raw_data_glob_pattern: 'Can_Gio_vn_SPO_parsivel_*.zip'
+sensor_name: PARSIVEL2
+reader: VIETNAM/CARE
+raw_data_glob_pattern: Can_Gio_vn_SPO_parsivel_*.zip
 raw_data_format: txt
 measurement_interval: 60
-deployment_status: 'ongoing'
-deployment_mode: 'land'
+deployment_status: ongoing
+deployment_mode: land
 platform_type: fixed
-latitude: 10.402956718754835 
+latitude: 10.402956718754835
 longitude: 106.90341999756633
 altitude: 20
 platform_protection: ''
@@ -30,11 +30,11 @@ comment: ''
 station_id: ''
 koppen_geiger: ''
 location: ''
-country: 'VIETNAM'
-continent: 'SEA'
-sensor_long_name: ''
-sensor_manufacturer: 'OTT'
-sensor_wavelength: ''
+country: Vietnam
+continent: Asia
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

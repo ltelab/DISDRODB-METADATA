@@ -30,11 +30,11 @@ comment: ''
 station_id: mcqldS1
 koppen_geiger: ET
 location: Macquarie Island
-country: Southwest Pacific Ocean
-continent: ''
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+country: Australia
+continent: Australia
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

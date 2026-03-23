@@ -32,9 +32,9 @@ koppen_geiger: Cfb
 location: Ljubljana
 country: Slovenia
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -56,5 +56,5 @@ documentation: ''
 website: ''
 institution: University of Ljubljana, Faculty of Civil and Geodetic Engineering
 source_repository: ''
-license: ''
-doi: ''
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.17136392

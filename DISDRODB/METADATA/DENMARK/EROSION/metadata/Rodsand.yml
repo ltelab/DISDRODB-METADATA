@@ -35,9 +35,9 @@ koppen_geiger: ''
 location: Rodsand - offshore wind farm
 country: Denmark
 continent: Europe
-sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -49,7 +49,7 @@ calibration_sensitivity: ''
 calibration_certification_date: ''
 calibration_certification_url: ''
 contributors: Anna-Maria Tilg
-authors: Charlotte Hasager,  Flemming Vejen
+authors: Charlotte Hasager, Flemming Vejen
 authors_url: ''
 contact: ''
 contact_information: ''

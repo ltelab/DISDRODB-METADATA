@@ -35,9 +35,9 @@ koppen_geiger: Cfb
 location: Zwethpad 1, 2636 KD Schipluiden
 country: Netherlands
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -61,5 +61,5 @@ documentation: https://github.com/ruisdael-observatory/disdroDL
 website: https://ruisdael-observatory.nl/
 institution: Dept. Geoscience and Remote Sensing, Delft University of Technology
 source_repository: ''
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.4121/1d7b8042-e8f9-4768-9a13-c6bac5832f2a.v3

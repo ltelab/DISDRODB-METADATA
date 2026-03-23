@@ -3,8 +3,8 @@ campaign_name: SOSCHUVA
 station_name: parsivel_soschuva_jaguariuna_embrapa
 sensor_name: PARSIVEL2
 reader: BRAZIL/CHUVA_PARSIVEL2
+raw_data_glob_pattern: parsivel_soschuva_jaguariuna_embrapa_*.txt.gz
 raw_data_format: txt
-raw_data_glob_pattern: 'parsivel_soschuva_jaguariuna_embrapa_*.txt.gz'
 measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
@@ -35,9 +35,9 @@ koppen_geiger: ''
 location: Site of the EMBRAPA in Jaguariuna, Sao Paulo, Brazil
 country: Brazil
 continent: South America
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: '390636'
 firmware_iop: ''
 firmware_dsp: ''
@@ -60,5 +60,5 @@ documentation: https://ftp.cptec.inpe.br/chuva/read_me/
 website: ''
 institution: INPE - Instituto Nacional de Pesquisas Espaciais
 source_repository: ''
-license: CC-BY-4.0
+license: CC BY 4.0
 doi: https://doi.org/10.60748/0m2q-f791

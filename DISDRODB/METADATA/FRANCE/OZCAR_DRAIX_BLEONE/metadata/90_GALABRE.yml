@@ -33,9 +33,9 @@ koppen_geiger: Cfb
 location: La_Robine_sur_Galabre
 country: France
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -66,5 +66,5 @@ documentation: ''
 website: https://www.ige-grenoble.fr/
 institution: Institut des Geosciences de l'Environnement
 source_repository: OSUG
-license: CC-BY 4.0
-doi: http://dx.doi.org/10.17178/DRAIXBLEONE_GAL_ROB_DSD_1420
+license: CC BY 4.0
+doi: https://doi.org/10.17178/DRAIXBLEONE_GAL_ROB_DSD_1420

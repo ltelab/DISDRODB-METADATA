@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Santa Maria
 country: Brazil
 continent: South America
-sensor_long_name: ''
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -58,5 +58,5 @@ documentation: ''
 website: ''
 institution: INPE - Instituto Nacional de Pesquisas Espaciais
 source_repository: https://ftp.cptec.inpe.br/chuva/
-license: CC 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.60748/hzn3-4k43

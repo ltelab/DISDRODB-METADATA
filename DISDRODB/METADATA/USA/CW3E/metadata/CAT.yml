@@ -30,11 +30,11 @@ comment: Santa Ana Watershed
 station_id: ''
 koppen_geiger: Csb
 location: Catalina Island, California
-country: USA
+country: United States of America
 continent: North America
-sensor_long_name: ''
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

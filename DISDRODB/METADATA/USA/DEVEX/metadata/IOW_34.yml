@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: 0
 time_coverage_start: ''
 time_coverage_end: ''
-disdrodb_data_url: 'https://zenodo.org/records/18574232/files/IOW_34.zip?download=1'
+disdrodb_data_url: https://zenodo.org/records/18574232/files/IOW_34.zip?download=1
 source: ''
 source_convention: ''
 source_processing_date: ''
@@ -33,9 +33,9 @@ koppen_geiger: Dfa
 location: Iowa City Municipal Airpot, Iowa
 country: United States of America
 continent: North America
-sensor_long_name: Thies Laser Precipitation Monitor
-sensor_manufacturer: Adolf Thies GmbH & Co. KG
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -60,5 +60,5 @@ documentation: ''
 website: ''
 institution: IIHR Hydroscience and Engineering, the University of Iowa
 source_repository: ''
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.1016/j.atmosres.2011.02.014

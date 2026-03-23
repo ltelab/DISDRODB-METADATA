@@ -35,9 +35,9 @@ koppen_geiger: Cfa
 location: Saint-Etienne-de-Fontbellon
 country: France
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: 304577 then 329768
 firmware_iop: ''
 firmware_dsp: ''
@@ -66,5 +66,5 @@ documentation: ''
 website: https://www.ige-grenoble.fr/
 institution: Institut des Geosciences de l'Environnement
 source_repository: ''
-license: CC-BY 4.0
-doi: http://dx.doi.org/10.17178/OHMCV.DSD.SEF.12-16.1
+license: CC BY 4.0
+doi: https://doi.org/10.17178/OHMCV.DSD.SEF.12-16.1

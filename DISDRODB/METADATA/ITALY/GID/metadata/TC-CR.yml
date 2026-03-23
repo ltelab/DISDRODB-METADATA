@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Cremona
 country: Italy
 continent: Europe
-sensor_long_name: Thies_LPM
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -49,7 +49,7 @@ contributors: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
 authors: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
 authors_url: ''
 contact: Dr. Orietta Cazzuli, Dr. Gian Paolo Minardi
-contact_information: 'o.cazzuli@arpalombardia.it, g.minardi@arpalombardia.it '
+contact_information: o.cazzuli@arpalombardia.it, g.minardi@arpalombardia.it
 acknowledgement: ''
 references: https://doi.org/10.5194/essd-15-2417-2023
 documentation: ''
@@ -57,5 +57,5 @@ website: https://www.gid-net.it/
 institution: Regional Agency for the Protection of the Environment of Lombardia -
   ARPA Lombardia
 source_repository: ''
-license: CC 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.5281/zenodo.11102745

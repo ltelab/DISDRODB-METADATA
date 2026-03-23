@@ -36,7 +36,7 @@ country: United States of America
 continent: North America
 sensor_long_name: Disdromet RD-80
 sensor_manufacturer: Disdromet Ltd.
-sensor_wavelength: ''
+sensor_wavelength: '-'
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

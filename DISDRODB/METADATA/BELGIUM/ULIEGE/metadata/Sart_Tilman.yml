@@ -32,8 +32,8 @@ koppen_geiger: Cfb
 location: Sart-Tilman
 country: Belgium
 continent: Europe
-sensor_long_name: Thies Clima 5.4110
-sensor_manufacturer: Thies Clima
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor V0
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
 sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''

@@ -30,11 +30,11 @@ comment: ''
 station_id: ''
 koppen_geiger: Dfa
 location: Molan Township, South Dakota
-country: USA
+country: United States of America
 continent: North America
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -58,4 +58,4 @@ website: https://catalog.eol.ucar.edu/pecan
 institution: University of Alabama In Huntsville
 source_repository: https://data.eol.ucar.edu/dataset/485.065
 license: ''
-doi: ' https://doi.org/10.5065/D6M043KW'
+doi: https://doi.org/10.5065/D6M043KW

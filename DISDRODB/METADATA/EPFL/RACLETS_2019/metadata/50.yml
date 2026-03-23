@@ -27,15 +27,15 @@ project_name: Role of Aerosols and CLouds Enhanced by Topography on Snow (RACLET
 keywords: ''
 summary: ''
 history: ''
-comment: ' Very frequent solid precipitation given to location and height of installation'
+comment: Very frequent solid precipitation given to location and height of installation
 station_id: '50'
 koppen_geiger: Dfc
 location: Klosters-Serneus
 country: Switzerland
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -55,8 +55,8 @@ acknowledgement: ''
 references: ''
 documentation: ''
 website: https://www.envidat.ch/group/about/raclets-field-campaign
-institution: Laboratoire de Teledetection Environnementale -  Ecole Polytechnique
-  Federale de Lausanne
+institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
+  de Lausanne
 source_repository: ''
 license: ''
 doi: ''

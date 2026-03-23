@@ -33,9 +33,9 @@ location: PAGASA Synoptic Station, Daniel Z. Romualdez Airport, Brgy. 88 San Jos
   Tacloban City, Leyte 6500
 country: Philippines
 continent: Asia
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: 780 nm
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: 4500xx
 firmware_iop: 2.11.2
 firmware_dsp: 2.11.1
@@ -58,5 +58,5 @@ website: ''
 institution: Philippine Atmospheric, Geophysical and Astronomical Services Administration
   (PAGASA)
 source_repository: ''
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: ''

@@ -35,11 +35,11 @@ comment: A band-like structure, exhibiting small cellular features, formed early
 station_id: iop1
 koppen_geiger: Dfb
 location: Fair Haven Beach State Park
-country: USA
+country: United States of America
 continent: North America
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

@@ -33,9 +33,9 @@ koppen_geiger: Dfc
 location: Haukeliseter Test Site, Vinje, Telemark
 country: Norway
 continent: Europe
-sensor_long_name: Thies LPM
-sensor_manufacturer: Thies Clima
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -58,5 +58,5 @@ documentation: ''
 website: https://met.no/
 institution: Norwegian Meteorological institute
 source_repository: ''
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: ''

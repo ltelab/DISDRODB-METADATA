@@ -32,9 +32,9 @@ koppen_geiger: Cfb
 location: DEUSELBACH
 country: Germany
 continent: Europe
-sensor_long_name: Thies Laser Precipitation Monitor
-sensor_manufacturer: Thies Clima
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: see record 6 of each data line
 firmware_iop: ''
 firmware_dsp: ''
@@ -59,5 +59,5 @@ documentation: See README in https://zenodo.org/records/15855617/files/Documenta
 website: https://www.dwd.de/research
 institution: Deutscher Wetterdienst (DWD)
 source_repository: https://zenodo.org/records/15855617
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.5281/zenodo.15855617

@@ -39,9 +39,9 @@ koppen_geiger: Dfb
 location: UQAM-PK Weather Station, Montreal, QC, Canada
 country: Canada
 continent: North America
-sensor_long_name: OTT Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -66,5 +66,5 @@ documentation: ''
 website: ''
 institution: UQAM
 source_repository: ''
-license: CC-BY-4.0
+license: CC BY 4.0
 doi: ''

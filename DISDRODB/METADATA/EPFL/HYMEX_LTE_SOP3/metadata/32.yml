@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Ardeche
 country: France
 continent: Europe
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -58,5 +58,5 @@ website: https://hymex.org/
 institution: Laboratoire de Teledetection Environnementale - Ecole Polytechnique Federale
   de Lausanne
 source_repository: https://mistrals.sedoo.fr/HyMeX/
-license: ''
-doi: ''
+license: CC BY 4.0
+doi: https://doi.org/10.5281/zenodo.10360955

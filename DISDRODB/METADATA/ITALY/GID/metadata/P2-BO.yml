@@ -32,9 +32,9 @@ koppen_geiger: Cfa
 location: Bologna
 country: Italy
 continent: Europe
-sensor_long_name: OTT_Parsivel2
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
@@ -56,5 +56,5 @@ documentation: ''
 website: https://www.gid-net.it/
 institution: Department of Physics and Astronomy "Augusto Righi", University of Bologna
 source_repository: ''
-license: CC 4.0
+license: CC BY 4.0
 doi: https://doi.org/10.5281/zenodo.11102745

@@ -3,7 +3,7 @@ campaign_name: RELAMPAGO
 station_name: IOP15_FARM_S03
 sensor_name: PARSIVEL2
 reader: NCAR/FARM_PARSIVEL2
-raw_data_glob_pattern: "*.csv"
+raw_data_glob_pattern: '*.csv'
 raw_data_format: txt
 measurement_interval: 10
 deployment_status: terminated
@@ -34,9 +34,9 @@ koppen_geiger: Cwa
 location: Vicuna Mackenna, Cordoba Province
 country: Argentina
 continent: North America
-sensor_long_name: OTT Hydromet Parsivel
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

@@ -3,8 +3,8 @@ campaign_name: CHUVA
 station_name: rd80_chuva_alcantra_inpe
 sensor_name: RD80
 reader: BRAZIL/CHUVA_RD80
+raw_data_glob_pattern: rd80_chuva_alcantra_inpe_*.txt.gz
 raw_data_format: txt
-raw_data_glob_pattern: 'rd80_chuva_alcantra_inpe_*.txt.gz'
 measurement_interval: 60
 deployment_status: terminated
 deployment_mode: land
@@ -32,13 +32,13 @@ history: ''
 comment: ''
 station_id: ''
 koppen_geiger: ''
-location: Site of the INPE (National Institute for Space Research) in Alcântara Base,
-  Maranhão, Brazil
+location: "Site of the INPE (National Institute for Space Research) in Alcantara\
+  \ Base, Maranhao, Brazil"
 country: Brazil
 continent: South America
-sensor_long_name: RD-80 Disdrometer
-sensor_manufacturer: Disdromet
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: '2102502'
 firmware_iop: ''
 firmware_dsp: ''
@@ -61,5 +61,5 @@ documentation: https://ftp.cptec.inpe.br/chuva/read_me/
 website: ''
 institution: INPE - Instituto Nacional de Pesquisas Espaciais
 source_repository: ''
-license: CC-BY-4.0
+license: CC BY 4.0
 doi: https://doi.org/10.60748/nf0a-x206

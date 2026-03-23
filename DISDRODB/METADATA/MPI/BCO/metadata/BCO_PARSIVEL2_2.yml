@@ -32,9 +32,9 @@ koppen_geiger: Am
 location: BCO
 country: Barbados
 continent: ''
-sensor_long_name: OTT Hydromet Parsivel 2
-sensor_manufacturer: OTT Hydromet
-sensor_wavelength: ''
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
 sensor_serial_number: '451996'
 firmware_iop: ''
 firmware_dsp: ''
@@ -56,5 +56,5 @@ documentation: https://tcodata.mpimet.mpg.de/intro.html
 website: https://barbados.mpimet.mpg.de
 institution: MPI fuer Meteorologie, Tropical Cloud Observations TCO
 source_repository: ''
-license: CC-BY 4.0
+license: CC BY 4.0
 doi: ''

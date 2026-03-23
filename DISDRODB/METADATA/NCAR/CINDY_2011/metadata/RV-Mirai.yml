@@ -32,9 +32,9 @@ koppen_geiger: ''
 location: ''
 country: ''
 continent: ''
-sensor_long_name: RD-80
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Disdromet RD-80
+sensor_manufacturer: Disdromet Ltd.
+sensor_wavelength: '-'
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''

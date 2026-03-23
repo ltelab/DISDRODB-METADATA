@@ -30,11 +30,11 @@ comment: ''
 station_id: nsalpmE10
 koppen_geiger: ET
 location: Barrow, Alaska
-country: USA
+country: United States of America
 continent: North America
-sensor_long_name: Thies Clima
-sensor_manufacturer: ''
-sensor_wavelength: ''
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: '06160016'
 firmware_iop: ''
 firmware_dsp: ''
@@ -57,4 +57,4 @@ website: ''
 institution: ARM
 source_repository: ''
 license: ''
-doi: 10.5439/1390571
+doi: https://doi.org/10.5439/1390571

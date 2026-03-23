@@ -34,9 +34,9 @@ koppen_geiger: Cfb
 location: Aberystwyth
 country: United Kingdom
 continent: Europe
-sensor_long_name: Thies_LPM
-sensor_manufacturer: ''
-sensor_wavelength: 2143 mv mm-2
+sensor_long_name: Thies CLIMA Laser Precipitation Monitor
+sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
+sensor_wavelength: 785 nm
 sensor_serial_number: ''
 firmware_iop: ''
 firmware_dsp: ''
