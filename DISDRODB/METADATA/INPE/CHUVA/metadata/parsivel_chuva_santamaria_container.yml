@@ -14,8 +14,8 @@ longitude: -53.721472
 altitude: 102
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: 2012/12/01
-time_coverage_end: 2012/12/30
+time_coverage_start: '2012-11-05T12:13:00'
+time_coverage_end: '2012-12-17T10:18:00'
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/parsivel_chuva_santamaria_container
 title: chuva_santamaria_container
 description: Disdrometer observations collected during the CHUVA campaign using a

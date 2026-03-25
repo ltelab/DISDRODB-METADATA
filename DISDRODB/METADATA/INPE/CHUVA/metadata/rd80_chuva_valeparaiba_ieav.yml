@@ -14,8 +14,8 @@ longitude: -45.85767
 altitude: 677
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: 2011/10/27
-time_coverage_end: 2012/03/30
+time_coverage_start: '2011-10-27T11:50:00'
+time_coverage_end: '2012-03-30T11:52:00'
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/rd80_chuva_valeparaiba_ieav
 title: chuva_valeparaiba_ieav
 description: Disdrometer observations collected during the CHUVA campaign using a

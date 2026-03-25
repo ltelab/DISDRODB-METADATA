@@ -14,8 +14,8 @@ longitude: -48.44856
 altitude: 12
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: 2011/06/01
-time_coverage_end: 2011/06/30
+time_coverage_start: '2011-06-01T18:54:00'
+time_coverage_end: '2011-06-30T11:01:00'
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/parsivel_chuva_belem_outeiro
 title: chuva_belem_outeiro
 description: Disdrometer observations collected during the CHUVA campaign using a

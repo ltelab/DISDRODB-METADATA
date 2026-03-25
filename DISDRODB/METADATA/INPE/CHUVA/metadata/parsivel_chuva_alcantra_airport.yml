@@ -14,8 +14,8 @@ longitude: -44.3999734
 altitude: 24
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: 2010/03/01
-time_coverage_end: 2010/03/24
+time_coverage_start: '2010-03-05T18:55:00'
+time_coverage_end: '2010-03-25T15:46:00'
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/parsivel_chuva_alcantra_airport
 title: chuva_alcantra_airport
 description: Disdrometer observations collected during the CHUVA campaign using a

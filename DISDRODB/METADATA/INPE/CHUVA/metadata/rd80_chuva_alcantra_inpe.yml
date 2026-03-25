@@ -14,8 +14,8 @@ longitude: -44.4
 altitude: 44
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: 2010/03/01
-time_coverage_end: 2010/03/24
+time_coverage_start: '2010-03-02T11:57:00'
+time_coverage_end: '2010-03-24T11:51:00'
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/rd80_chuva_alcantra_inpe
 title: chuva_alcantra_inpe
 description: Disdrometer observations collected during the CHUVA campaign using a

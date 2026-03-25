@@ -14,8 +14,8 @@ longitude: -60.628075
 altitude: 42
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: 2013/11/24
-time_coverage_end: 2014/10/12
+time_coverage_start: '2013-11-24T20:03:00'
+time_coverage_end: '2014-10-12T05:15:00'
 disdrodb_data_url: https://ftp.cptec.inpe.br/rainfall/disdrometers/processed/parsivel_goamazon_amazon_uea
 title: goamazon_amazon_uea
 description: Disdrometer observations collected during the GOAMAZON campaign using
