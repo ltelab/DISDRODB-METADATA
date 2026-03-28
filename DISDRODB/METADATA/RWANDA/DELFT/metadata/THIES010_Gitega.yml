@@ -17,7 +17,7 @@ platform_orientation: 0
 time_coverage_start: '2025-08-20T09:46:00'
 time_coverage_end: '2025-10-22T23:59:00'
 disdrodb_data_url: https://ruisdael.citg.tudelft.nl/thies/Thies010_rwanda001/
-title: TU Delft optical disdrometer data Thies010 in Rwanda
+title: Optical disdrometer data Thies010 (TU Delft) in Rwanda
 description: ''
 project_name: Horton Research Grant 2024
 keywords: ''
@@ -26,16 +26,16 @@ history: ''
 comment: ''
 station_id: Thies010_Rwanda001
 koppen_geiger: Aw
-location: Gitega Meteo Rwanda weather station
+location: Gitega Meteo Rwanda meteorological station
 country: Rwanda
 continent: Africa
 sensor_long_name: Thies CLIMA Laser Precipitation Monitor
 sensor_manufacturer: Thies CLIMA - Adolf Thies GmbH & Co. KG
 sensor_wavelength: 785 nm
 sensor_serial_number: ''
-contributors: Bas Walraven, Rob Mackenzie, Jean de Dieu Ndayisenga, Desire Ntirenganya,
-  Marc Schleiss, Remko Uijlenhoet, Andre Castro, Mahaut Sourzac, Jose Dias Neto
-authors: Bas Walraven, Rob Mackenzie, Marc Schleiss, Andre Castro, Mahaut Sourzac,
+contributors: Bas Walraven, Jean de Dieu Ndayisenga, Rob Mackenzie, Desire Ntirenganya, Christian Bikorimana,
+  Remko Uijlenhoet, Marc Schleiss, Jose Dias Neto
+authors: Bas Walraven, Rob Mackenzie, Jean de Dieu Ndayisenga, Marc Schleiss, Andre Castro, Mahaut Sourzac,
   Jose Dias Neto
 authors_url: ''
 contact: Bas Walraven
