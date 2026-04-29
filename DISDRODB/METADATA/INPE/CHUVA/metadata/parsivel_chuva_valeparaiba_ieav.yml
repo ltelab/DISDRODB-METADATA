@@ -28,7 +28,7 @@ summary: Precipitation measurements acquired with a OTT Hydromet Parsivel 2 disd
 history: ''
 comment: ''
 station_id: ''
-koppen_geiger: ''
+koppen_geiger: Cfa
 location: Site of the IEAV in Sao Jose dos Campos, Sao Paulo, Brazil
 country: Brazil
 continent: South America

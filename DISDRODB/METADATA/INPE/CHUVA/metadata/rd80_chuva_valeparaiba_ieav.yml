@@ -28,7 +28,7 @@ summary: Precipitation measurements acquired with a RD-80 Disdrometer disdromete
 history: ''
 comment: ''
 station_id: ''
-koppen_geiger: ''
+koppen_geiger: Cfa
 location: Site of the IEAV in Sao Jose dos Campos, Sao Paulo, Brazil
 country: Brazil
 continent: South America
