@@ -14,8 +14,8 @@ longitude: -76.84
 altitude: 63.0
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2024-02-07T20:10:00'
+time_coverage_end: '2024-12-31T23:49:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/WFF/data/piers41/
 title: WFF
 description: ''

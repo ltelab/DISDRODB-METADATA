@@ -14,7 +14,7 @@ longitude: 6.567867
 altitude: 400
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2010-10-01T00:00:00'
+time_coverage_start: '2010-10-01T00:00:30'
 time_coverage_end: '2010-11-07T23:59:30'
 disdrodb_data_url: https://zenodo.org/records/10361099/files/EPFL-EPFL_ROOF_2010-40.zip?download=1
 title: EPFL_ROOF_2010

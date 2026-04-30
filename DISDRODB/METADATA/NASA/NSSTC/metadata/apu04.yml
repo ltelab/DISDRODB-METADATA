@@ -14,7 +14,7 @@ longitude: -86.63
 altitude: 203.0
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2010-07-01T00:00:00'
+time_coverage_start: '2010-07-01T00:00:10'
 time_coverage_end: '2011-03-29T11:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/NSSTC/data/apu04/
 title: NSSTC

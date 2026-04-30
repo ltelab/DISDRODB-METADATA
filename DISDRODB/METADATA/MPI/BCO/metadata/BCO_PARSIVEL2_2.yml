@@ -15,7 +15,7 @@ altitude: 28
 platform_protection: unshielded
 platform_orientation: 180
 time_coverage_start: '2025-09-22T00:01:00'
-time_coverage_end: '2025-12-14T23:59:00'
+time_coverage_end: '2026-02-12T00:00:00'
 disdrodb_data_url: ftp-projects.mpimet.mpg.de/acpc_barbados/DISDROMETER/BCO_PARSIVEL2_2/
 title: MPI for Meteorology, BCO, optical disdrometer data
 description: ''

@@ -14,7 +14,7 @@ longitude: -91.8737
 altitude: 255
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2013-03-19T03:50:30'
+time_coverage_start: '2013-03-19T03:50:40'
 time_coverage_end: '2013-06-18T12:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/IFLOODS/data/apu10/
 title: apu10

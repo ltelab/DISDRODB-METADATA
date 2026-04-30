@@ -14,7 +14,7 @@ longitude: 15.148369
 altitude: 277
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2014-01-01T00:00:00'
+time_coverage_start: '2014-01-01T00:01:00'
 time_coverage_end: '2018-12-31T23:59:00'
 disdrodb_data_url: ''
 title: TU Wien optical disdrometer data Campbell PWS100 at HOAL in Petzenkirchen Austria

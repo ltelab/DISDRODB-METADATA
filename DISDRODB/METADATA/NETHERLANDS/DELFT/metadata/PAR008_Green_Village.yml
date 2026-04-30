@@ -14,8 +14,8 @@ longitude: 4.37870077
 altitude: 1
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2023-12-18T08:52:00'
-time_coverage_end: '2025-05-31T23:59:00'
+time_coverage_start: '2023-06-22T11:44:00'
+time_coverage_end: '2026-02-28T23:59:00'
 disdrodb_data_url: https://ruisdael.citg.tudelft.nl/parsivel/DISDRODB_DATA/PAR008_Green_Village/
 title: TU Delft optical disdrometer data PAR008 at Green Village in Delft
 description: ''

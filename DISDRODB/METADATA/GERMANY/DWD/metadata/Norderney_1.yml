@@ -14,7 +14,7 @@ longitude: 7.15192
 altitude: 11.5
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2019-01-01T00:00:00'
+time_coverage_start: '2019-01-01T00:01:00'
 time_coverage_end: '2023-06-19T23:59:00'
 disdrodb_data_url: ''
 title: German DWD Thies Laser Niederschlags Messer (LNM)

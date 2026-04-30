@@ -14,7 +14,7 @@ longitude: 4.4703434351
 altitude: 20
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2022-07-27T00:01:00'
+time_coverage_start: '2022-07-27T13:28:00'
 time_coverage_end: '2022-09-12T23:59:00'
 disdrodb_data_url: https://ruisdael.citg.tudelft.nl/parsivel/DISDRODB_DATA/PAR003_ErasmusMC/
 title: TU Delft optical disdrometer data PAR003 at Erasmus MC in Rotterdam

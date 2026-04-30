@@ -14,7 +14,7 @@ longitude: -72.29426
 altitude: 148.4
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2021-12-01T00:00:00'
+time_coverage_start: '2021-12-01T00:00:10'
 time_coverage_end: '2022-04-28T10:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/IMPACTS/data/apu18/
 title: apu18

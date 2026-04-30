@@ -14,8 +14,8 @@ longitude: 30.057854
 altitude: 1
 platform_protection: unshielded
 platform_orientation: 0
-time_coverage_start: '2025-08-20T09:46:00'
-time_coverage_end: '2025-10-22T23:59:00'
+time_coverage_start: '2025-01-27T13:30:00'
+time_coverage_end: '2026-03-12T23:59:00'
 disdrodb_data_url: https://ruisdael.citg.tudelft.nl/thies/Thies010_rwanda001/
 title: TU Delft optical disdrometer data Thies010 in Rwanda
 description: ''

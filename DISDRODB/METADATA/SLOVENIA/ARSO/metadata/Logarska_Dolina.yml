@@ -14,7 +14,7 @@ longitude: 14.63113
 altitude: 776
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2018-02-03T00:00:00'
+time_coverage_start: '2018-01-31T23:50:00'
 time_coverage_end: '2025-02-28T23:49:00'
 disdrodb_data_url: https://zenodo.org/records/17257452/files/Logarska_Dolina.zip?download=1
 title: ARSO disdrometer data

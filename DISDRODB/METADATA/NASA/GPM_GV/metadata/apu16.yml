@@ -14,8 +14,8 @@ longitude: -134.56922
 altitude: 29.0
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2019-10-09T20:14:50'
+time_coverage_end: '2021-11-28T14:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/GPM_GV/data/apu16/
 title: apu16
 description: ''

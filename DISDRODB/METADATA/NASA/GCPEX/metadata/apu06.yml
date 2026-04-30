@@ -14,7 +14,7 @@ longitude: -79.71796
 altitude: 219
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2012-01-01T00:00:00'
+time_coverage_start: '2012-01-01T00:00:10'
 time_coverage_end: '2012-03-10T23:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/GCPEX/data/apu06
 title: apu06

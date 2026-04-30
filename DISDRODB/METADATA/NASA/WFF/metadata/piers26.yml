@@ -14,8 +14,8 @@ longitude: -75.677628
 altitude: 8.0
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2023-05-01T00:00:40'
+time_coverage_end: '2024-11-26T14:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/WFF/data/piers26/
 title: WFF
 description: ''

@@ -14,8 +14,8 @@ longitude: -149.98475
 altitude: 47.4
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: ''
-time_coverage_end: ''
+time_coverage_start: '2019-11-26T20:49:40'
+time_coverage_end: '2022-06-07T13:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/GPM_GV/data/apu02/
 title: apu02
 description: ''

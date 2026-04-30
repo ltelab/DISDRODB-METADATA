@@ -14,7 +14,7 @@ longitude: 167.7316
 altitude: 0
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2013-03-01T00:00:00'
+time_coverage_start: '2013-03-01T00:00:10'
 time_coverage_end: '2016-10-09T23:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/KWAJALEIN/data/apu01/
 title: apu01

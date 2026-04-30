@@ -14,7 +14,7 @@ longitude: -14.34981
 altitude: 340.77
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2016-06-01T00:00:00'
+time_coverage_start: '2016-06-01T00:01:00'
 time_coverage_end: '2017-09-14T11:22:00'
 disdrodb_data_url: ''
 title: Layered Atlantic Smoke Interactions with Clouds (LASIC)

@@ -14,7 +14,7 @@ longitude: 9.2347
 altitude: 150
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2023-01-01T00:00:00'
+time_coverage_start: '2023-01-01T00:01:00'
 time_coverage_end: '2024-12-31T23:59:00'
 disdrodb_data_url: https://zenodo.org/records/17234624/files/TC-MI2.zip?download=1
 title: GID (Gruppo Italiano Disdrometria)

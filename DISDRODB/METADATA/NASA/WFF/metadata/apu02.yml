@@ -14,7 +14,7 @@ longitude: -75.470855
 altitude: 16.9
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2016-01-01T00:00:00'
+time_coverage_start: '2016-01-01T00:00:10'
 time_coverage_end: '2019-12-31T21:59:50'
 disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/WFF/data/apu02/
 title: apu02

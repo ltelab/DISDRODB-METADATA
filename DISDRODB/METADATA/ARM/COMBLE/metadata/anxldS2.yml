@@ -14,7 +14,7 @@ longitude: 19.002316
 altitude: 18
 platform_protection: ''
 platform_orientation: ''
-time_coverage_start: '2019-12-01T00:00:00'
+time_coverage_start: '2019-12-01T00:01:00'
 time_coverage_end: '2020-06-01T17:02:00'
 disdrodb_data_url: ''
 title: ARM Norway

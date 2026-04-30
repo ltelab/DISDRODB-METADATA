@@ -15,7 +15,7 @@ altitude: 1
 platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: '2021-10-28T22:00:00'
-time_coverage_end: '2025-05-31T23:59:00'
+time_coverage_end: '2025-12-31T23:59:00'
 disdrodb_data_url: https://ruisdael.citg.tudelft.nl/thies/DISDRODB_DATA/Thies005_Cabauw/
 title: TU Delft optical disdrometer data Thies005 at Cabauw
 description: ''

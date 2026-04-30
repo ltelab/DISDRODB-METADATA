@@ -14,7 +14,7 @@ longitude: 4.481
 altitude: 429
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2013-09-01T00:00:00'
+time_coverage_start: '2013-09-01T00:00:30'
 time_coverage_end: '2013-11-26T10:25:00'
 disdrodb_data_url: https://zenodo.org/records/10360965/files/EPFL-HYMEX_LTE_SOP3-31.zip?download=1
 title: HYMEX_LTE_SOP3

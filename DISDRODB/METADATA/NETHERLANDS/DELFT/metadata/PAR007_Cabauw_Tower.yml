@@ -14,8 +14,8 @@ longitude: 4.92618545
 altitude: 180
 platform_protection: unshielded
 platform_orientation: ''
-time_coverage_start: '2021-03-17T11:14:00'
-time_coverage_end: '2025-05-31T23:59:00'
+time_coverage_start: '2021-03-17T11:13:00'
+time_coverage_end: '2026-02-28T23:59:00'
 disdrodb_data_url: https://ruisdael.citg.tudelft.nl/parsivel/DISDRODB_DATA/PAR007_Cabauw_Tower/
 title: TU Delft optical disdrometer data PAR007 in the meteorological tower at Cabauw
 description: ''
