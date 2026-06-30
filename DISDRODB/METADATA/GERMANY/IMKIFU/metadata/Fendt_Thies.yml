@@ -3,7 +3,7 @@ campaign_name: IMKIFU
 station_name: Fendt_Thies
 sensor_name: LPM
 reader: KIT/CHWALA
-raw_data_glob_pattern: ''
+raw_data_glob_pattern: '*.zip'
 raw_data_format: txt
 measurement_interval: 60
 deployment_status: terminated
@@ -28,10 +28,10 @@ summary: ''
 history: ''
 comment: ''
 station_id: ''
+koppen_geiger: ''
 location: ''
 country: Germany
 continent: Europe
-koppen_geiger: ''
 sensor_long_name: Thies Laser Disdrometer
 sensor_manufacturer: ''
 sensor_wavelength: ''
