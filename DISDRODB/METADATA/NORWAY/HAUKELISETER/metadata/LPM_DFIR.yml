@@ -16,7 +16,7 @@ platform_protection: shielded
 platform_orientation: ''
 time_coverage_start: '2022-04-20T10:28:00'
 time_coverage_end: '2025-10-13T09:19:00'
-disdrodb_data_url: ''
+disdrodb_data_url: 'https://zenodo.org/records/21239777/files/Haukeli_LPM_DFIR.zip?download=1'
 title: Met Norway's optical disdrometer data from Thies LPM inside DFIR at Haukeliseter,
   Norway
 description: ''
