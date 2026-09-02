@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: '2024-02-25T00:00:00'
 time_coverage_end: '2025-10-13T00:00:00'
-disdrodb_data_url: ''
+disdrodb_data_url: 'https://zenodo.org/records/21932953/files/Aas_LPM_UNSHIELDED.zip?download=1'
 title: NMBU optical disdrometer data Thies LPM at Sorasjordet, Norway
 description: ''
 project_name: Aas NCI
