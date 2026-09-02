@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: ''
 time_coverage_start: '2023-09-08T08:52:00'
 time_coverage_end: '2025-10-13T19:49:00'
-disdrodb_data_url: ''
+disdrodb_data_url: 'https://zenodo.org/records/22229687/files/Haukeli_LPM_UNSHIELDED.zip?download=1'
 title: Met Norway's optical disdrometer data from unshielded Thies LPM at Haukeliseter,
   Norway
 description: ''
