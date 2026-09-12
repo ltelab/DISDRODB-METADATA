@@ -1,0 +1,55 @@
+data_source: UIUC
+campaign_name: NOAA_WPO_BUFFALO
+station_name: SCAMP
+sensor_name: PARSIVEL2
+reader: UIUC/NOAA_WPO_BUFFALO
+raw_data_glob_pattern: '**/*.csv.gz'
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: terminated
+deployment_mode: land
+platform_type: fixed
+latitude: 42.92981097044458
+longitude: -78.66790705707751
+altitude: 206
+platform_protection: unshielded
+platform_orientation: ''
+time_coverage_start: '2021-11-26T00:00:00'
+time_coverage_end: '2023-03-09T23:59:59'
+disdrodb_data_url: https://zenodo.org/records/21048460/files/UIUC-NOAA_WPO_BUFFALO-SCAMP.zip?download=1
+title: "UIUC SCAMP OTT Parsivel2 disdrometer \u2014 NOAA WPO Buffalo deployment"
+description: OTT Parsivel2 laser disdrometer raw 10 s drop size/velocity spectra from
+  the University of Illinois System for Characterizing and Measuring Precipitation
+  (SCAMP), deployed east of Buffalo, NY (Lancaster) for two winter seasons to sample
+  lake-effect and synoptic precipitation.
+project_name: NOAA Weather Program Office (Grant NA21OAR4590367)
+keywords: disdrometer, OTT Parsivel2, drop size distribution, precipitation microphysics,
+  lake-effect snow, synoptic snow, Buffalo NY, snowfall, SCAMP
+summary: ''
+history: Raw .MIS telegrams consolidated into daily CSV via mis_to_daily_csv.py; time
+  converted from sensor RTC (fixed US Central Standard, UTC-6) to UTC by +6h.
+comment: Sensor internal clock was set to fixed CST (UTC-6, no DST); UTC = filename_time
+  + 6h, verified by rain-rate cross-check against processed netCDF on 2022-01-17.
+station_id: ''
+koppen_geiger: ''
+location: Lancaster, NY, USA (Buffalo area)
+country: USA
+continent: North America
+sensor_long_name: OTT Parsivel2
+sensor_manufacturer: OTT HydroMet
+sensor_wavelength: 650
+sensor_serial_number: '367939'
+contributors: Stephen W. Nesbitt, McKenzie Rose Peters, Claire Pettersen
+authors: Stephen W. Nesbitt, McKenzie Rose Peters, Claire Pettersen
+authors_url: ''
+contact: Stephen W. Nesbitt
+contact_information: snesbitt@illinois.edu
+acknowledgements: Funded by the NOAA Weather Program Office, Grant NA21OAR4590367.
+references: Peters, M. R. (2024), A Comparison of Microphysical Properties in Lake-Effect
+  and Synoptic Snowfall near Buffalo, NY, M.S. thesis, University of Illinois Urbana-Champaign.
+documentation: ''
+website: ''
+institution: University of Illinois Urbana-Champaign
+source_repository: ''
+license: CC-BY-4.0
+doi: ''
