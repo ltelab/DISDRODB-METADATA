@@ -1,0 +1,48 @@
+data_source: NASA
+campaign_name: GPM_GV
+station_name: piers37
+sensor_name: PARSIVEL2
+reader: NASA/APU
+raw_data_glob_pattern: PIERS0037_*.csv
+raw_data_format: txt
+measurement_interval: 10
+deployment_status: ongoing
+deployment_mode: land
+platform_type: fixed
+latitude: 40.80931
+longitude: -104.77692
+altitude: ''
+platform_protection: ''
+platform_orientation: ''
+time_coverage_start: ''
+time_coverage_end: ''
+disdrodb_data_url: https://pmm-gv.gsfc.nasa.gov/pub/DISDRODB/RAW/NASA/GPM_GV/data/piers37/
+title: GPM_GV
+description: ''
+project_name: ''
+keywords: ''
+summary: ''
+history: ''
+comment: ''
+station_id: piers37
+koppen_geiger: Cfa
+location: Nunn, Colorado
+country: United States of America
+continent: North America
+sensor_long_name: OTT HydroMet Parsivel 2
+sensor_manufacturer: OTT HydroMet Corp.
+sensor_wavelength: 650 nm
+sensor_serial_number: ''
+contributors: ''
+authors: ''
+authors_url: ''
+contact: ''
+contact_information: ''
+acknowledgements: ''
+references: ''
+documentation: ''
+website: ''
+institution: ''
+source_repository: ''
+license: ''
+doi: ''
