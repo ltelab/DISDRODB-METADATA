@@ -16,7 +16,7 @@ platform_protection: unshielded
 platform_orientation: 90
 time_coverage_start: '2016-08-09T00:02:00'
 time_coverage_end: '2025-08-13T15:27:00'
-disdrodb_data_url: https://zenodo.org/records/17430461/files/Bergen_Florida.zip?download=1
+disdrodb_data_url: https://zenodo.org/records/23037031/files/Bergen_Florida.zip?download=1
 title: Disdrometer data from the Geophysical Institute tower observatory
 description: ''
 project_name: ''
@@ -47,4 +47,4 @@ website: ''
 institution: Geophysical Insitute, University of Bergen, Norway
 source_repository: ''
 license: CC BY 4.0
-doi: https://doi.org/10.5281/zenodo.17430461
+doi: 10.5281/zenodo.17430460
